@@ -1,6 +1,6 @@
-baseURL: "https://hugo-profile.netlify.app"
+baseURL: "https://rushikeshgholap.com"
 languageCode: "en-us"
-title: "Hugo Profile"
+title: "RGx Profile"
 theme: hugo-profile
 
 outputs:

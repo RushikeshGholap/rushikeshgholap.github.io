@@ -1,0 +1,251 @@
+1:"$Sreact.fragment"
+2:I[778454,["/_next/static/chunks/81b5c1b11c03b807.js","/_next/static/chunks/d2078a46fdcc20d6.js","/_next/static/chunks/fc29b87413361a50.js","/_next/static/chunks/f549c5351125e69c.js","/_next/static/chunks/136acffeffc44697.js","/_next/static/chunks/2caa9e5cd124434c.js"],"Row"]
+3:I[273323,["/_next/static/chunks/81b5c1b11c03b807.js","/_next/static/chunks/d2078a46fdcc20d6.js","/_next/static/chunks/fc29b87413361a50.js","/_next/static/chunks/f549c5351125e69c.js","/_next/static/chunks/136acffeffc44697.js","/_next/static/chunks/2caa9e5cd124434c.js"],"Column"]
+4:I[479520,["/_next/static/chunks/81b5c1b11c03b807.js","/_next/static/chunks/d2078a46fdcc20d6.js","/_next/static/chunks/fc29b87413361a50.js","/_next/static/chunks/f549c5351125e69c.js","/_next/static/chunks/136acffeffc44697.js","/_next/static/chunks/2caa9e5cd124434c.js"],""]
+5:I[624379,["/_next/static/chunks/81b5c1b11c03b807.js","/_next/static/chunks/d2078a46fdcc20d6.js","/_next/static/chunks/fc29b87413361a50.js","/_next/static/chunks/f549c5351125e69c.js","/_next/static/chunks/136acffeffc44697.js","/_next/static/chunks/2caa9e5cd124434c.js"],"SmartLink"]
+6:I[145250,["/_next/static/chunks/81b5c1b11c03b807.js","/_next/static/chunks/d2078a46fdcc20d6.js","/_next/static/chunks/fc29b87413361a50.js","/_next/static/chunks/f549c5351125e69c.js","/_next/static/chunks/136acffeffc44697.js","/_next/static/chunks/2caa9e5cd124434c.js"],"Avatar"]
+7:I[811052,["/_next/static/chunks/81b5c1b11c03b807.js","/_next/static/chunks/d2078a46fdcc20d6.js","/_next/static/chunks/fc29b87413361a50.js","/_next/static/chunks/f549c5351125e69c.js","/_next/static/chunks/136acffeffc44697.js","/_next/static/chunks/2caa9e5cd124434c.js"],"HeadingLink"]
+8:I[436122,["/_next/static/chunks/81b5c1b11c03b807.js","/_next/static/chunks/d2078a46fdcc20d6.js","/_next/static/chunks/fc29b87413361a50.js","/_next/static/chunks/f549c5351125e69c.js","/_next/static/chunks/136acffeffc44697.js","/_next/static/chunks/2caa9e5cd124434c.js"],"List"]
+9:I[626935,["/_next/static/chunks/81b5c1b11c03b807.js","/_next/static/chunks/d2078a46fdcc20d6.js","/_next/static/chunks/fc29b87413361a50.js","/_next/static/chunks/f549c5351125e69c.js","/_next/static/chunks/136acffeffc44697.js","/_next/static/chunks/2caa9e5cd124434c.js"],"ListItem"]
+21:I[597784,["/_next/static/chunks/81b5c1b11c03b807.js","/_next/static/chunks/d2078a46fdcc20d6.js","/_next/static/chunks/fc29b87413361a50.js","/_next/static/chunks/f549c5351125e69c.js","/_next/static/chunks/136acffeffc44697.js","/_next/static/chunks/2caa9e5cd124434c.js"],"CodeBlock"]
+22:I[448588,["/_next/static/chunks/81b5c1b11c03b807.js","/_next/static/chunks/d2078a46fdcc20d6.js","/_next/static/chunks/fc29b87413361a50.js","/_next/static/chunks/f549c5351125e69c.js","/_next/static/chunks/136acffeffc44697.js","/_next/static/chunks/2caa9e5cd124434c.js"],"ShareSection"]
+23:I[696470,["/_next/static/chunks/81b5c1b11c03b807.js","/_next/static/chunks/d2078a46fdcc20d6.js","/_next/static/chunks/fc29b87413361a50.js","/_next/static/chunks/f549c5351125e69c.js","/_next/static/chunks/136acffeffc44697.js","/_next/static/chunks/2caa9e5cd124434c.js"],"ClientGrid"]
+24:I[814360,["/_next/static/chunks/81b5c1b11c03b807.js","/_next/static/chunks/d2078a46fdcc20d6.js","/_next/static/chunks/fc29b87413361a50.js","/_next/static/chunks/f549c5351125e69c.js","/_next/static/chunks/136acffeffc44697.js","/_next/static/chunks/2caa9e5cd124434c.js"],"default"]
+27:I[988654,["/_next/static/chunks/81b5c1b11c03b807.js","/_next/static/chunks/d2078a46fdcc20d6.js","/_next/static/chunks/fc29b87413361a50.js","/_next/static/chunks/f549c5351125e69c.js","/_next/static/chunks/136acffeffc44697.js","/_next/static/chunks/2caa9e5cd124434c.js"],"ScrollToHash"]
+28:I[141118,["/_next/static/chunks/81b5c1b11c03b807.js","/_next/static/chunks/d2078a46fdcc20d6.js","/_next/static/chunks/fc29b87413361a50.js","/_next/static/chunks/f549c5351125e69c.js","/_next/static/chunks/136acffeffc44697.js","/_next/static/chunks/2caa9e5cd124434c.js"],"Icon"]
+29:I[605649,["/_next/static/chunks/81b5c1b11c03b807.js","/_next/static/chunks/d2078a46fdcc20d6.js","/_next/static/chunks/fc29b87413361a50.js","/_next/static/chunks/f549c5351125e69c.js","/_next/static/chunks/136acffeffc44697.js","/_next/static/chunks/2caa9e5cd124434c.js"],"HeadingNav"]
+2a:I[897367,["/_next/static/chunks/d96012bcfc98706a.js","/_next/static/chunks/d80b3790a119a285.js"],"OutletBoundary"]
+2b:"$Sreact.suspense"
+0:{"buildId":"UeI44FOEqab5MK_t66aLW","rsc":["$","$1","c",{"children":[["$","$L2",null,{"fillWidth":true,"children":[["$","$L2",null,{"maxWidth":12,"m":{"hide":true}}],["$","$L2",null,{"fillWidth":true,"horizontal":"center","children":["$","$L3",null,{"as":"section","maxWidth":"m","horizontal":"center","gap":"l","paddingTop":"24","children":[["$","$L4",null,{"id":"schema-blogPosting-/blog/adani-electricity-billing-system","type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"url\":\"https://rushikeshgholap.com/blog/adani-electricity-billing-system\",\"sameAs\":[],\"headline\":\"AI-Powered Utility Billing: Detecting Tampered Meter Readings\",\"description\":\"Developed an AI system achieving 91% accuracy in identifying tampered electricity meter images using frequency-based decomposition and moiré pattern analysis.\",\"image\":\"https://rushikeshgholap.com/api/og/generate?title=AI-Powered%20Utility%20Billing%3A%20Detecting%20Tampered%20Meter%20Readings\",\"datePublished\":\"2022-06-01\",\"dateModified\":\"2022-06-01\",\"author\":{\"@type\":\"Person\",\"name\":\"Rushikesh Gholap\",\"url\":\"https://rushikeshgholap.com/about\",\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://rushikeshgholap.com/images/avatar.jpg\"}}}"}}],["$","$L3",null,{"maxWidth":"s","gap":"16","horizontal":"center","align":"center","children":[["$","$L5",null,{"href":"/blog","children":["$","span",null,{"className":"font-label font-strong font-m","style":{},"children":"Blog"}]}],["$","span",null,{"className":"font-body font-default font-xs neutral-on-background-weak mb-12","style":{},"children":"June 1, 2022"}],["$","h1",null,{"className":"font-display font-strong font-m neutral-on-background-strong","style":{"textWrap":"balance"},"children":"AI-Powered Utility Billing: Detecting Tampered Meter Readings"}],""]}],["$","$L2",null,{"marginBottom":"32","horizontal":"center","children":["$","$L2",null,{"gap":"16","vertical":"center","children":[["$","$L6",null,{"size":"s","src":"/images/avatar.jpg"}],["$","span",null,{"className":"font-label font-default font-m brand-on-background-weak","style":{},"children":"Rushikesh Gholap"}]]}]}],"",["$","$L3",null,{"as":"article","maxWidth":"s","children":[["$","$L7",null,{"marginTop":"24","marginBottom":"12","as":"h2","id":"project-overview","children":"Project Overview"}],"\n",["$","span",null,{"className":"font-body font-default font-m neutral-on-background-medium mt-8 mb-12","style":{"lineHeight":"175%"},"children":[["$","strong",null,{"children":"Client"}],": Adani Electricity",["$","br",null,{}],"\n",["$","strong",null,{"children":"Role"}],": Lead Data Scientist",["$","br",null,{}],"\n",["$","strong",null,{"children":"Tech Stack"}],": OpenCV, Django, Vue.js, PWA (Progressive Web Applications), Keras, TensorFlow"]}],"\n",["$","span",null,{"className":"font-body font-default font-m neutral-on-background-medium mt-8 mb-12","style":{"lineHeight":"175%"},"children":"Developed an AI-powered system to combat billing fraud by automatically detecting tampered or recaptured meter reading images submitted by customers."}],"\n",["$","$L7",null,{"marginTop":"24","marginBottom":"12","as":"h2","id":"the-challenge","children":"The Challenge"}],"\n",["$","span",null,{"className":"font-body font-default font-m neutral-on-background-medium mt-8 mb-12","style":{"lineHeight":"175%"},"children":"Utility companies face significant revenue losses from fraudulent meter readings. Traditional manual verification was:"}],"\n",["$","$L8",null,{"children":["\n",["$","$L9",null,{"marginTop":"4","marginBottom":"8","style":{"lineHeight":"175%"},"children":[["$","strong",null,{"children":"Time-consuming"}],": Required human review of thousands of images"]}],"\n",["$","$L9",null,{"marginTop":"4","marginBottom":"8","style":{"lineHeight":"175%"},"children":[["$","strong",null,{"children":"Error-prone"}],": Difficult to spot subtle tampering techniques"]}],"\n",["$","$L9",null,{"marginTop":"4","marginBottom":"8","style":{"lineHeight":"175%"},"children":[["$","strong",null,{"children":"Scalable issues"}],": Couldn't handle growing customer base"]}],"\n"]}],"\n",["$","$L7",null,{"marginTop":"24","marginBottom":"12","as":"h2","id":"technical-solution","children":"Technical Solution"}],"\n","$La","\n","$Lb","\n","$Lc","\n","$Ld","\n","$Le","\n","$Lf","\n","$L10","\n","$L11","\n","$L12","\n","$L13","\n","$L14","\n","$L15","\n","$L16","\n","$L17","\n","$L18","\n","$L19","\n","$L1a"]}],"$L1b","$L1c","$L1d"]}]}],"$L1e"]}],["$L1f"],"$L20"]}],"loading":null,"isPartial":false}
+a:["$","$L7",null,{"marginTop":"24","marginBottom":"12","as":"h3","id":"1.-frequency-based-decomposition-pipeline","children":"1. Frequency-Based Decomposition Pipeline"}]
+b:["$","span",null,{"className":"font-body font-default font-m neutral-on-background-medium mt-8 mb-12","style":{"lineHeight":"175%"},"children":["Implemented advanced image processing to detect ",["$","strong",null,{"children":"Moiré patterns"}]," - telltale signs of screen-captured images:"]}]
+c:["$","$L8",null,{"children":["\n",["$","$L9",null,{"marginTop":"4","marginBottom":"8","style":{"lineHeight":"175%"},"children":["Applied ",["$","strong",null,{"children":"Fourier Transform"}]," analysis to identify frequency anomalies"]}],"\n",["$","$L9",null,{"marginTop":"4","marginBottom":"8","style":{"lineHeight":"175%"},"children":"Detected periodic interference patterns invisible to human eye"}],"\n",["$","$L9",null,{"marginTop":"4","marginBottom":"8","style":{"lineHeight":"175%"},"children":["Achieved ",["$","strong",null,{"children":"91% accuracy"}]," in tampering detection"]}],"\n"]}]
+d:["$","$L7",null,{"marginTop":"24","marginBottom":"12","as":"h3","id":"2.-multi-cnn-architecture","children":"2. Multi-CNN Architecture"}]
+e:["$","span",null,{"className":"font-body font-default font-m neutral-on-background-medium mt-8 mb-12","style":{"lineHeight":"175%"},"children":"Built ensemble model combining:"}]
+f:["$","$L8",null,{"children":["\n",["$","$L9",null,{"marginTop":"4","marginBottom":"8","style":{"lineHeight":"175%"},"children":[["$","strong",null,{"children":"OpenCV"}]," for preprocessing and feature extraction"]}],"\n",["$","$L9",null,{"marginTop":"4","marginBottom":"8","style":{"lineHeight":"175%"},"children":[["$","strong",null,{"children":"PIL"}]," for image manipulation"]}],"\n",["$","$L9",null,{"marginTop":"4","marginBottom":"8","style":{"lineHeight":"175%"},"children":[["$","strong",null,{"children":"Keras + TensorFlow"}]," for deep learning classification"]}],"\n",["$","$L9",null,{"marginTop":"4","marginBottom":"8","style":{"lineHeight":"175%"},"children":["Validated with ",["$","strong",null,{"children":"50+ automated checks"}]," including object detection and boundary frame analysis"]}],"\n"]}]
+10:["$","$L7",null,{"marginTop":"24","marginBottom":"12","as":"h3","id":"3.-progressive-web-application","children":"3. Progressive Web Application"}]
+11:["$","span",null,{"className":"font-body font-default font-m neutral-on-background-medium mt-8 mb-12","style":{"lineHeight":"175%"},"children":"Created seamless customer experience:"}]
+12:["$","$L8",null,{"children":["\n",["$","$L9",null,{"marginTop":"4","marginBottom":"8","style":{"lineHeight":"175%"},"children":[["$","strong",null,{"children":"Vue.js frontend"}],": Responsive, mobile-first design"]}],"\n",["$","$L9",null,{"marginTop":"4","marginBottom":"8","style":{"lineHeight":"175%"},"children":[["$","strong",null,{"children":"Django backend"}],": RESTful API for real-time image processing"]}],"\n",["$","$L9",null,{"marginTop":"4","marginBottom":"8","style":{"lineHeight":"175%"},"children":[["$","strong",null,{"children":"PWA capabilities"}],": Offline support, push notifications"]}],"\n",["$","$L9",null,{"marginTop":"4","marginBottom":"8","style":{"lineHeight":"175%"},"children":[["$","strong",null,{"children":"Real-time validation"}],": Instant feedback on image quality"]}],"\n"]}]
+13:["$","$L7",null,{"marginTop":"24","marginBottom":"12","as":"h2","id":"key-results","children":"Key Results"}]
+14:["$","$L8",null,{"children":["\n",["$","$L9",null,{"marginTop":"4","marginBottom":"8","style":{"lineHeight":"175%"},"children":[["$","strong",null,{"children":"72% boost in accuracy"}]," compared to previous methods"]}],"\n",["$","$L9",null,{"marginTop":"4","marginBottom":"8","style":{"lineHeight":"175%"},"children":[["$","strong",null,{"children":"63% faster processing"}]," time"]}],"\n",["$","$L9",null,{"marginTop":"4","marginBottom":"8","style":{"lineHeight":"175%"},"children":[["$","strong",null,{"children":"29% increase in revenue"}]," through fraud prevention"]}],"\n",["$","$L9",null,{"marginTop":"4","marginBottom":"8","style":{"lineHeight":"175%"},"children":[["$","strong",null,{"children":"Improved customer experience"}]," with faster, user-friendly billing process"]}],"\n"]}]
+15:["$","$L7",null,{"marginTop":"24","marginBottom":"12","as":"h2","id":"technical-highlights","children":"Technical Highlights"}]
+16:["$","$L21",null,{"marginTop":"8","marginBottom":"16","codes":[{"code":"# Example: Moiré pattern detection using FFT\r\ndef detect_moire_pattern(image):\r\n    # Convert to grayscale and apply FFT\r\n    gray = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)\r\n    f_transform = np.fft.fft2(gray)\r\n    f_shift = np.fft.fftshift(f_transform)\r\n\r\n    # Analyze frequency spectrum for periodic patterns\r\n    magnitude_spectrum = np.abs(f_shift)\r\n\r\n    # Detect anomalous peaks indicating screen capture\r\n    return analyze_frequency_peaks(magnitude_spectrum)\n","language":"python","label":"Python"}],"copyButton":true}]
+17:["$","$L7",null,{"marginTop":"24","marginBottom":"12","as":"h2","id":"impact","children":"Impact"}]
+18:["$","$L8",null,{"children":["\n",["$","$L9",null,{"marginTop":"4","marginBottom":"8","style":{"lineHeight":"175%"},"children":[["$","strong",null,{"children":"Revenue Protection"}],": Mitigated losses from fraudulent billing"]}],"\n",["$","$L9",null,{"marginTop":"4","marginBottom":"8","style":{"lineHeight":"175%"},"children":[["$","strong",null,{"children":"Digital Transformation"}],": Pioneered AI adoption in utility services"]}],"\n",["$","$L9",null,{"marginTop":"4","marginBottom":"8","style":{"lineHeight":"175%"},"children":[["$","strong",null,{"children":"Customer Trust"}],": Enhanced billing transparency and accuracy"]}],"\n",["$","$L9",null,{"marginTop":"4","marginBottom":"8","style":{"lineHeight":"175%"},"children":[["$","strong",null,{"children":"Operational Efficiency"}],": Reduced manual intervention by 80%"]}],"\n"]}]
+19:["$","$L7",null,{"marginTop":"24","marginBottom":"12","as":"h2","id":"skills-demonstrated","children":"Skills Demonstrated"}]
+1a:["$","span",null,{"className":"font-body font-default font-m neutral-on-background-medium mt-8 mb-12","style":{"lineHeight":"175%"},"children":"AI & Machine Learning | Image Processing (OpenCV) | Full-Stack Development | PWA | Process Automation"}]
+1b:["$","$L22",null,{"title":"AI-Powered Utility Billing: Detecting Tampered Meter Readings","url":"https://rushikeshgholap.com/blog/adani-electricity-billing-system"}]
+25:Tdea,
+## Project Overview
+
+**Client**: PDB Bank  
+**Role**: Data Scientist and ML Ops  
+**Tech Stack**: AWS EC2, Django, Python, Aadhaar API, PAN API, CIBIL, Equifax, Machine Learning
+
+Revolutionized the loan approval process by building an end-to-end automated system that evaluates creditworthiness in real-time.
+
+## The Problem
+
+Traditional loan processing was a bottleneck:
+
+- **Weeks-long approval times** frustrating customers
+- **Manual data entry** prone to human error
+- **Limited risk assessment** missing alternative data signals
+- **No flexibility** in lending criteria adjustments
+
+## Solution Architecture
+
+### 1. Comprehensive Data Pipeline
+
+Designed system processing **105+ parameters**:
+
+- **KYC Verification**: Real-time Aadhaar and PAN validation
+- **Credit Scoring**: CIBIL and Equifax integration
+- **Alternative Data**: Income proxies, utility payments, transaction history
+- **Fraud Checks**: Cross-verification across multiple data sources
+
+### 2. Dynamic ML Scoring Model
+
+Built intelligent creditworthiness engine:
+
+- **Feature Engineering**: Extracted predictive signals from sparse data -**Alternative Scoring**: Evaluated unscored customers using proxy variables
+- **Risk Segmentation**: Classified applicants into risk buckets
+- **Explainability**: Provided transparent reasoning for decisions
+
+### 3. Real-Time Admin Panel
+
+Enabled business agility:
+
+- **Dynamic Criteria**: Adjust lending parameters without code deploy
+- **A/B Testing**: Experiment with different scoring rules
+- **Monitoring Dashboard**: Track approval rates, defaults, portfolio health
+- **Audit Trail**: Complete logging for compliance
+
+## Technical Implementation
+
+```python
+# Example: Dynamic scoring with alternative data
+class LoanScoringEngine:
+    def __init__(self, criteria_config):
+        self.criteria = criteria_config
+        self.models = self.load_ensemble_models()
+
+    def evaluate_applicant(self, applicant_data):
+        # Traditional credit score (if available)
+        credit_score = self.get_bureau_score(applicant_data)
+
+        # Alternative data scoring for thin-file customers
+        if credit_score is None:
+            alt_score = self.calculate_alternative_score(
+                utility_payments=applicant_data['utilities'],
+                income_proxies=applicant_data['income_signals'],
+                behavioral_data=applicant_data['transactions']
+            )
+            return self.apply_criteria(alt_score, 'alternative')
+
+        return self.apply_criteria(credit_score, 'traditional')
+```
+
+## Key Achievements
+
+- **10-minute approval time** (from weeks)
+- **89% improvement in operational efficiency**
+- **4.3/5 customer satisfaction rating**
+- **Minimized manual intervention** and human error
+- **Scalable architecture** on AWS EC2
+
+## API Integration Highlights
+
+### Third-Party Services Integrated:
+
+1. **Aadhaar eKYC**: Instant identity verification
+2. **PAN Validation**: Tax ID verification
+3. **CIBIL**: Credit bureau scores
+4. **Equifax**: Additional credit data
+5. **Bank Statement Analysis**: Income verification
+
+## Business Impact
+
+- **Customer Delight**: Minutes instead of weeks
+- **Risk Management**: More accurate assessment with alternative data
+- **Operational Cost**: Reduced processing overhead by 70%
+- **Scalability**: Handle 10x volume without additional staff
+
+## Skills Demonstrated
+
+Data Pipeline Design | API Integration | Machine Learning | Python | Django | AWS | Automation | Risk Analysis
+1c:["$","$L3",null,{"fillWidth":true,"gap":"40","horizontal":"center","marginTop":"40","children":[["$","div",null,{"className":"display-flex position-relative neutral-background-strong flex-row min-width-0 fill-width ","style":{"maxWidth":"var(--static-space-40)","minHeight":"var(--static-space-1)","height":"var(--static-space-1)"}}],["$","h2",null,{"className":"font-heading font-strong font-xl neutral-on-background-strong mb-24","style":{"textWrap":"balance"},"children":"Recent posts"}],["$","$L23",null,{"s":{"columns":1},"columns":"2","fillWidth":true,"marginBottom":"40","gap":"16","children":[["$","$L24","pdb-bank-loan-system",{"post":{"metadata":{"title":"Transforming Loan Approvals: From Weeks to 10 Minutes","subtitle":"","publishedAt":"2021-09-01","summary":"Built a comprehensive ML-powered loan onboarding system processing 105+ parameters, reducing approval time from weeks to 10 minutes while integrating KYC and credit scoring APIs.","image":"","images":["/images/projects/project-02/cover.jpg"],"tag":[],"team":[{"name":"Rushikesh Gholap","role":"Data Scientist & ML Ops","avatar":"/images/avatar.jpg"}],"link":""},"slug":"pdb-bank-loan-system","content":"$25"},"thumbnail":true,"direction":"column"}],"$L26"]}]]}]
+1d:["$","$L27",null,{}]
+1e:["$","$L3",null,{"maxWidth":12,"paddingLeft":"40","fitHeight":true,"position":"sticky","top":"80","gap":"16","m":{"hide":true},"children":[["$","$L2",null,{"gap":"12","paddingLeft":"2","vertical":"center","onBackground":"neutral-medium","textVariant":"label-default-s","children":[["$","$L28",null,{"name":"document","size":"xs"}],"On this page"]}],["$","$L29",null,{"fitHeight":true}]]}]
+1f:["$","script","script-0",{"src":"/_next/static/chunks/2caa9e5cd124434c.js","async":true}]
+20:["$","$L2a",null,{"children":["$","$2b",null,{"name":"Next.MetadataOutlet","children":"$@2c"}]}]
+2d:Tee5,
+## Project Overview
+
+**Client**: Almavest (International Lending Platform)  
+**Role**: Project Leader / System Architect  
+**Tech Stack**: AWS Lambda, EC2, CloudWatch, Django, Superset, PostgreSQL, Forex API, Airtable, Google Sheets, SageMaker
+
+Built an automated investment tracking system bridging international borrowers and investors with real-time currency conversion and portfolio health monitoring.
+
+## The Challenge
+
+Almavest faced complex data integration challenges:
+
+- **Diverse data sources**: Google Sheets, Airtable, proprietary DBs
+- **International transactions**: Multi-currency with fluctuating exchange rates
+- **Legacy systems**: Inconsistent data entry practices
+- **Manual tracking**: Excel-based processes error-prone and time-consuming
+
+## System Architecture
+
+### 1. Automated ETL Pipeline (AWS Lambda)
+
+Designed serverless data processing:
+
+- **Multi-source extraction**: Standardized data from 8-10 lending vehicles
+- **Loan amortization**: Calculated repayment schedules automatically
+- **Status tracking**: Real-time updates on payment status
+- **Data validation**: Ensured consistency across disparate sources
+
+### 2. Dynamic Investment Dashboard
+
+Built comprehensive visualization layer:
+
+- **Django backend**: RESTful API serving portfolio data
+- **Superset frontend**: Interactive dashboards with drill-down capabilities
+- **Real-time Forex**: Dynamic currency conversion using live rates
+- **Portfolio health**: Visual indicators of performance vs. expectations
+
+### 3. Intelligent Alert System
+
+Proactive risk management:
+
+- **Deviation detection**: Flagged repayment anomalies
+- **Email notifications**: Alerted investors to issues
+- **Threshold configuration**: Customizable alert rules
+- **Historical tracking**: Trend analysis for early warning
+
+## Technical Highlights
+
+```python
+# Example: Real-time Forex conversion with caching
+class ForexConverter:
+    def __init__(self, api_key):
+        self.api = ForexAPI(api_key)
+        self.cache = Redis()
+
+    def convert_to_usd(self, amount, currency, date):
+        cache_key = f"forex:{currency}:USD:{date}"
+        rate = self.cache.get(cache_key)
+
+        if rate is None:
+            rate = self.api.get_historical_rate(
+                base=currency,
+                target='USD',
+                date=date
+            )
+            self.cache.setex(cache_key, 3600, rate)  # Cache for 1 hour
+
+        return amount * float(rate)
+```
+
+## Data Integration Complexity
+
+### Unified Multiple Sources:
+
+1. **Google Sheets**: For manual data entry by borrowers
+2. **Airtable**: CRM and deal tracking
+3. **Proprietary DBs**: Core lending system data
+4. **Forex APIs**: Real-time exchange rates
+5. **Email Systems**: Automated reporting
+
+## Key Results
+
+- **70% reduction** in manual effort
+- **Eliminated errors** from Excel-based tracking
+- **Real-time insights** for 200+ lenders
+- **Scalable system** adaptable to new borrowers
+- **Enhanced transparency** and accountability
+
+## Financial Modeling
+
+Utilized **Amazon SageMaker** and **Jupyter Notebook** for:
+
+- Custom financial models for unique borrower profiles
+- Scenario analysis for different lending scenarios
+- Risk assessment dashboards
+- ROI calculations with currency adjustments
+
+## Business Impact
+
+- **Investor Satisfaction**: Increased through transparency and alerts
+- **Operational Efficiency**: Freed team from manual Excel work
+- **Risk Mitigation**: Early detection of repayment issues
+- **Strategic Insights**: Data-driven portfolio optimization
+
+## Skills Demonstrated
+
+ETL Pipeline Design | Cloud Computing (AWS Lambda, EC2) | Dashboard Development (Django, Superset) | Forex API Integration | Financial Modeling | Stakeholder Communication
+26:["$","$L24","almavest-investment-monitoring",{"post":{"metadata":{"title":"Real-Time Investment Monitoring for 200+ International Lenders","subtitle":"","publishedAt":"2021-03-01","summary":"Architected a cloud-based investment monitoring system with real-time Forex integration, reducing manual effort by 70% and providing transparent portfolio insights across international markets.","image":"","images":["/images/projects/project-03/cover.jpg"],"tag":[],"team":[{"name":"Rushikesh Gholap","role":"Project Leader / System Architect","avatar":"/images/avatar.jpg"}],"link":""},"slug":"almavest-investment-monitoring","content":"$2d"},"thumbnail":true,"direction":"column"}]
+2c:null

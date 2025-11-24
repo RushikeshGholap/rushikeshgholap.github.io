@@ -1,0 +1,2 @@
+# Prevents GitHub Pages from processing files with underscores
+# This is required for Next.js static export

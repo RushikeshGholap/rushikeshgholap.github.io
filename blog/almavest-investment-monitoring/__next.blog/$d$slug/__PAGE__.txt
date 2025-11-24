@@ -1,0 +1,230 @@
+1:"$Sreact.fragment"
+2:I[778454,["/_next/static/chunks/81b5c1b11c03b807.js","/_next/static/chunks/d2078a46fdcc20d6.js","/_next/static/chunks/fc29b87413361a50.js","/_next/static/chunks/f549c5351125e69c.js","/_next/static/chunks/136acffeffc44697.js","/_next/static/chunks/2caa9e5cd124434c.js"],"Row"]
+3:I[273323,["/_next/static/chunks/81b5c1b11c03b807.js","/_next/static/chunks/d2078a46fdcc20d6.js","/_next/static/chunks/fc29b87413361a50.js","/_next/static/chunks/f549c5351125e69c.js","/_next/static/chunks/136acffeffc44697.js","/_next/static/chunks/2caa9e5cd124434c.js"],"Column"]
+4:I[479520,["/_next/static/chunks/81b5c1b11c03b807.js","/_next/static/chunks/d2078a46fdcc20d6.js","/_next/static/chunks/fc29b87413361a50.js","/_next/static/chunks/f549c5351125e69c.js","/_next/static/chunks/136acffeffc44697.js","/_next/static/chunks/2caa9e5cd124434c.js"],""]
+5:I[624379,["/_next/static/chunks/81b5c1b11c03b807.js","/_next/static/chunks/d2078a46fdcc20d6.js","/_next/static/chunks/fc29b87413361a50.js","/_next/static/chunks/f549c5351125e69c.js","/_next/static/chunks/136acffeffc44697.js","/_next/static/chunks/2caa9e5cd124434c.js"],"SmartLink"]
+6:I[145250,["/_next/static/chunks/81b5c1b11c03b807.js","/_next/static/chunks/d2078a46fdcc20d6.js","/_next/static/chunks/fc29b87413361a50.js","/_next/static/chunks/f549c5351125e69c.js","/_next/static/chunks/136acffeffc44697.js","/_next/static/chunks/2caa9e5cd124434c.js"],"Avatar"]
+7:I[811052,["/_next/static/chunks/81b5c1b11c03b807.js","/_next/static/chunks/d2078a46fdcc20d6.js","/_next/static/chunks/fc29b87413361a50.js","/_next/static/chunks/f549c5351125e69c.js","/_next/static/chunks/136acffeffc44697.js","/_next/static/chunks/2caa9e5cd124434c.js"],"HeadingLink"]
+8:I[436122,["/_next/static/chunks/81b5c1b11c03b807.js","/_next/static/chunks/d2078a46fdcc20d6.js","/_next/static/chunks/fc29b87413361a50.js","/_next/static/chunks/f549c5351125e69c.js","/_next/static/chunks/136acffeffc44697.js","/_next/static/chunks/2caa9e5cd124434c.js"],"List"]
+9:I[626935,["/_next/static/chunks/81b5c1b11c03b807.js","/_next/static/chunks/d2078a46fdcc20d6.js","/_next/static/chunks/fc29b87413361a50.js","/_next/static/chunks/f549c5351125e69c.js","/_next/static/chunks/136acffeffc44697.js","/_next/static/chunks/2caa9e5cd124434c.js"],"ListItem"]
+29:I[597784,["/_next/static/chunks/81b5c1b11c03b807.js","/_next/static/chunks/d2078a46fdcc20d6.js","/_next/static/chunks/fc29b87413361a50.js","/_next/static/chunks/f549c5351125e69c.js","/_next/static/chunks/136acffeffc44697.js","/_next/static/chunks/2caa9e5cd124434c.js"],"CodeBlock"]
+2a:I[448588,["/_next/static/chunks/81b5c1b11c03b807.js","/_next/static/chunks/d2078a46fdcc20d6.js","/_next/static/chunks/fc29b87413361a50.js","/_next/static/chunks/f549c5351125e69c.js","/_next/static/chunks/136acffeffc44697.js","/_next/static/chunks/2caa9e5cd124434c.js"],"ShareSection"]
+2b:I[696470,["/_next/static/chunks/81b5c1b11c03b807.js","/_next/static/chunks/d2078a46fdcc20d6.js","/_next/static/chunks/fc29b87413361a50.js","/_next/static/chunks/f549c5351125e69c.js","/_next/static/chunks/136acffeffc44697.js","/_next/static/chunks/2caa9e5cd124434c.js"],"ClientGrid"]
+2c:I[814360,["/_next/static/chunks/81b5c1b11c03b807.js","/_next/static/chunks/d2078a46fdcc20d6.js","/_next/static/chunks/fc29b87413361a50.js","/_next/static/chunks/f549c5351125e69c.js","/_next/static/chunks/136acffeffc44697.js","/_next/static/chunks/2caa9e5cd124434c.js"],"default"]
+2f:I[988654,["/_next/static/chunks/81b5c1b11c03b807.js","/_next/static/chunks/d2078a46fdcc20d6.js","/_next/static/chunks/fc29b87413361a50.js","/_next/static/chunks/f549c5351125e69c.js","/_next/static/chunks/136acffeffc44697.js","/_next/static/chunks/2caa9e5cd124434c.js"],"ScrollToHash"]
+30:I[141118,["/_next/static/chunks/81b5c1b11c03b807.js","/_next/static/chunks/d2078a46fdcc20d6.js","/_next/static/chunks/fc29b87413361a50.js","/_next/static/chunks/f549c5351125e69c.js","/_next/static/chunks/136acffeffc44697.js","/_next/static/chunks/2caa9e5cd124434c.js"],"Icon"]
+31:I[605649,["/_next/static/chunks/81b5c1b11c03b807.js","/_next/static/chunks/d2078a46fdcc20d6.js","/_next/static/chunks/fc29b87413361a50.js","/_next/static/chunks/f549c5351125e69c.js","/_next/static/chunks/136acffeffc44697.js","/_next/static/chunks/2caa9e5cd124434c.js"],"HeadingNav"]
+32:I[897367,["/_next/static/chunks/d96012bcfc98706a.js","/_next/static/chunks/d80b3790a119a285.js"],"OutletBoundary"]
+33:"$Sreact.suspense"
+0:{"buildId":"UeI44FOEqab5MK_t66aLW","rsc":["$","$1","c",{"children":[["$","$L2",null,{"fillWidth":true,"children":[["$","$L2",null,{"maxWidth":12,"m":{"hide":true}}],["$","$L2",null,{"fillWidth":true,"horizontal":"center","children":["$","$L3",null,{"as":"section","maxWidth":"m","horizontal":"center","gap":"l","paddingTop":"24","children":[["$","$L4",null,{"id":"schema-blogPosting-/blog/almavest-investment-monitoring","type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"url\":\"https://rushikeshgholap.com/blog/almavest-investment-monitoring\",\"sameAs\":[],\"headline\":\"Real-Time Investment Monitoring for 200+ International Lenders\",\"description\":\"Architected a cloud-based investment monitoring system with real-time Forex integration, reducing manual effort by 70% and providing transparent portfolio insights across international markets.\",\"image\":\"https://rushikeshgholap.com/api/og/generate?title=Real-Time%20Investment%20Monitoring%20for%20200%2B%20International%20Lenders\",\"datePublished\":\"2021-03-01\",\"dateModified\":\"2021-03-01\",\"author\":{\"@type\":\"Person\",\"name\":\"Rushikesh Gholap\",\"url\":\"https://rushikeshgholap.com/about\",\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://rushikeshgholap.com/images/avatar.jpg\"}}}"}}],["$","$L3",null,{"maxWidth":"s","gap":"16","horizontal":"center","align":"center","children":[["$","$L5",null,{"href":"/blog","children":["$","span",null,{"className":"font-label font-strong font-m","style":{},"children":"Blog"}]}],["$","span",null,{"className":"font-body font-default font-xs neutral-on-background-weak mb-12","style":{},"children":"March 1, 2021"}],["$","h1",null,{"className":"font-display font-strong font-m neutral-on-background-strong","style":{"textWrap":"balance"},"children":"Real-Time Investment Monitoring for 200+ International Lenders"}],""]}],["$","$L2",null,{"marginBottom":"32","horizontal":"center","children":["$","$L2",null,{"gap":"16","vertical":"center","children":[["$","$L6",null,{"size":"s","src":"/images/avatar.jpg"}],["$","span",null,{"className":"font-label font-default font-m brand-on-background-weak","style":{},"children":"Rushikesh Gholap"}]]}]}],"",["$","$L3",null,{"as":"article","maxWidth":"s","children":[["$","$L7",null,{"marginTop":"24","marginBottom":"12","as":"h2","id":"project-overview","children":"Project Overview"}],"\n",["$","span",null,{"className":"font-body font-default font-m neutral-on-background-medium mt-8 mb-12","style":{"lineHeight":"175%"},"children":[["$","strong",null,{"children":"Client"}],": Almavest (International Lending Platform)",["$","br",null,{}],"\n",["$","strong",null,{"children":"Role"}],": Project Leader / System Architect",["$","br",null,{}],"\n",["$","strong",null,{"children":"Tech Stack"}],": AWS Lambda, EC2, CloudWatch, Django, Superset, PostgreSQL, Forex API, Airtable, Google Sheets, SageMaker"]}],"\n",["$","span",null,{"className":"font-body font-default font-m neutral-on-background-medium mt-8 mb-12","style":{"lineHeight":"175%"},"children":"Built an automated investment tracking system bridging international borrowers and investors with real-time currency conversion and portfolio health monitoring."}],"\n",["$","$L7",null,{"marginTop":"24","marginBottom":"12","as":"h2","id":"the-challenge","children":"The Challenge"}],"\n",["$","span",null,{"className":"font-body font-default font-m neutral-on-background-medium mt-8 mb-12","style":{"lineHeight":"175%"},"children":"Almavest faced complex data integration challenges:"}],"\n",["$","$L8",null,{"children":["\n",["$","$L9",null,{"marginTop":"4","marginBottom":"8","style":{"lineHeight":"175%"},"children":[["$","strong",null,{"children":"Diverse data sources"}],": Google Sheets, Airtable, proprietary DBs"]}],"\n",["$","$L9",null,{"marginTop":"4","marginBottom":"8","style":{"lineHeight":"175%"},"children":[["$","strong",null,{"children":"International transactions"}],": Multi-currency with fluctuating exchange rates"]}],"\n",["$","$L9",null,{"marginTop":"4","marginBottom":"8","style":{"lineHeight":"175%"},"children":[["$","strong",null,{"children":"Legacy systems"}],": Inconsistent data entry practices"]}],"\n",["$","$L9",null,{"marginTop":"4","marginBottom":"8","style":{"lineHeight":"175%"},"children":["$La",": Excel-based processes error-prone and time-consuming"]}],"\n"]}],"\n","$Lb","\n","$Lc","\n","$Ld","\n","$Le","\n","$Lf","\n","$L10","\n","$L11","\n","$L12","\n","$L13","\n","$L14","\n","$L15","\n","$L16","\n","$L17","\n","$L18","\n","$L19","\n","$L1a","\n","$L1b","\n","$L1c","\n","$L1d","\n","$L1e","\n","$L1f","\n","$L20","\n","$L21","\n","$L22"]}],"$L23","$L24","$L25"]}]}],"$L26"]}],["$L27"],"$L28"]}],"loading":null,"isPartial":false}
+a:["$","strong",null,{"children":"Manual tracking"}]
+b:["$","$L7",null,{"marginTop":"24","marginBottom":"12","as":"h2","id":"system-architecture","children":"System Architecture"}]
+c:["$","$L7",null,{"marginTop":"24","marginBottom":"12","as":"h3","id":"1.-automated-etl-pipeline-aws-lambda","children":"1. Automated ETL Pipeline (AWS Lambda)"}]
+d:["$","span",null,{"className":"font-body font-default font-m neutral-on-background-medium mt-8 mb-12","style":{"lineHeight":"175%"},"children":"Designed serverless data processing:"}]
+e:["$","$L8",null,{"children":["\n",["$","$L9",null,{"marginTop":"4","marginBottom":"8","style":{"lineHeight":"175%"},"children":[["$","strong",null,{"children":"Multi-source extraction"}],": Standardized data from 8-10 lending vehicles"]}],"\n",["$","$L9",null,{"marginTop":"4","marginBottom":"8","style":{"lineHeight":"175%"},"children":[["$","strong",null,{"children":"Loan amortization"}],": Calculated repayment schedules automatically"]}],"\n",["$","$L9",null,{"marginTop":"4","marginBottom":"8","style":{"lineHeight":"175%"},"children":[["$","strong",null,{"children":"Status tracking"}],": Real-time updates on payment status"]}],"\n",["$","$L9",null,{"marginTop":"4","marginBottom":"8","style":{"lineHeight":"175%"},"children":[["$","strong",null,{"children":"Data validation"}],": Ensured consistency across disparate sources"]}],"\n"]}]
+f:["$","$L7",null,{"marginTop":"24","marginBottom":"12","as":"h3","id":"2.-dynamic-investment-dashboard","children":"2. Dynamic Investment Dashboard"}]
+10:["$","span",null,{"className":"font-body font-default font-m neutral-on-background-medium mt-8 mb-12","style":{"lineHeight":"175%"},"children":"Built comprehensive visualization layer:"}]
+11:["$","$L8",null,{"children":["\n",["$","$L9",null,{"marginTop":"4","marginBottom":"8","style":{"lineHeight":"175%"},"children":[["$","strong",null,{"children":"Django backend"}],": RESTful API serving portfolio data"]}],"\n",["$","$L9",null,{"marginTop":"4","marginBottom":"8","style":{"lineHeight":"175%"},"children":[["$","strong",null,{"children":"Superset frontend"}],": Interactive dashboards with drill-down capabilities"]}],"\n",["$","$L9",null,{"marginTop":"4","marginBottom":"8","style":{"lineHeight":"175%"},"children":[["$","strong",null,{"children":"Real-time Forex"}],": Dynamic currency conversion using live rates"]}],"\n",["$","$L9",null,{"marginTop":"4","marginBottom":"8","style":{"lineHeight":"175%"},"children":[["$","strong",null,{"children":"Portfolio health"}],": Visual indicators of performance vs. expectations"]}],"\n"]}]
+12:["$","$L7",null,{"marginTop":"24","marginBottom":"12","as":"h3","id":"3.-intelligent-alert-system","children":"3. Intelligent Alert System"}]
+13:["$","span",null,{"className":"font-body font-default font-m neutral-on-background-medium mt-8 mb-12","style":{"lineHeight":"175%"},"children":"Proactive risk management:"}]
+14:["$","$L8",null,{"children":["\n",["$","$L9",null,{"marginTop":"4","marginBottom":"8","style":{"lineHeight":"175%"},"children":[["$","strong",null,{"children":"Deviation detection"}],": Flagged repayment anomalies"]}],"\n",["$","$L9",null,{"marginTop":"4","marginBottom":"8","style":{"lineHeight":"175%"},"children":[["$","strong",null,{"children":"Email notifications"}],": Alerted investors to issues"]}],"\n",["$","$L9",null,{"marginTop":"4","marginBottom":"8","style":{"lineHeight":"175%"},"children":[["$","strong",null,{"children":"Threshold configuration"}],": Customizable alert rules"]}],"\n",["$","$L9",null,{"marginTop":"4","marginBottom":"8","style":{"lineHeight":"175%"},"children":[["$","strong",null,{"children":"Historical tracking"}],": Trend analysis for early warning"]}],"\n"]}]
+15:["$","$L7",null,{"marginTop":"24","marginBottom":"12","as":"h2","id":"technical-highlights","children":"Technical Highlights"}]
+16:["$","$L29",null,{"marginTop":"8","marginBottom":"16","codes":[{"code":"# Example: Real-time Forex conversion with caching\r\nclass ForexConverter:\r\n    def __init__(self, api_key):\r\n        self.api = ForexAPI(api_key)\r\n        self.cache = Redis()\r\n\r\n    def convert_to_usd(self, amount, currency, date):\r\n        cache_key = f\"forex:{currency}:USD:{date}\"\r\n        rate = self.cache.get(cache_key)\r\n\r\n        if rate is None:\r\n            rate = self.api.get_historical_rate(\r\n                base=currency,\r\n                target='USD',\r\n                date=date\r\n            )\r\n            self.cache.setex(cache_key, 3600, rate)  # Cache for 1 hour\r\n\r\n        return amount * float(rate)\n","language":"python","label":"Python"}],"copyButton":true}]
+17:["$","$L7",null,{"marginTop":"24","marginBottom":"12","as":"h2","id":"data-integration-complexity","children":"Data Integration Complexity"}]
+18:["$","$L7",null,{"marginTop":"24","marginBottom":"12","as":"h3","id":"unified-multiple-sources","children":"Unified Multiple Sources:"}]
+19:["$","$L8",null,{"children":["\n",["$","$L9",null,{"marginTop":"4","marginBottom":"8","style":{"lineHeight":"175%"},"children":[["$","strong",null,{"children":"Google Sheets"}],": For manual data entry by borrowers"]}],"\n",["$","$L9",null,{"marginTop":"4","marginBottom":"8","style":{"lineHeight":"175%"},"children":[["$","strong",null,{"children":"Airtable"}],": CRM and deal tracking"]}],"\n",["$","$L9",null,{"marginTop":"4","marginBottom":"8","style":{"lineHeight":"175%"},"children":[["$","strong",null,{"children":"Proprietary DBs"}],": Core lending system data"]}],"\n",["$","$L9",null,{"marginTop":"4","marginBottom":"8","style":{"lineHeight":"175%"},"children":[["$","strong",null,{"children":"Forex APIs"}],": Real-time exchange rates"]}],"\n",["$","$L9",null,{"marginTop":"4","marginBottom":"8","style":{"lineHeight":"175%"},"children":[["$","strong",null,{"children":"Email Systems"}],": Automated reporting"]}],"\n"]}]
+1a:["$","$L7",null,{"marginTop":"24","marginBottom":"12","as":"h2","id":"key-results","children":"Key Results"}]
+1b:["$","$L8",null,{"children":["\n",["$","$L9",null,{"marginTop":"4","marginBottom":"8","style":{"lineHeight":"175%"},"children":[["$","strong",null,{"children":"70% reduction"}]," in manual effort"]}],"\n",["$","$L9",null,{"marginTop":"4","marginBottom":"8","style":{"lineHeight":"175%"},"children":[["$","strong",null,{"children":"Eliminated errors"}]," from Excel-based tracking"]}],"\n",["$","$L9",null,{"marginTop":"4","marginBottom":"8","style":{"lineHeight":"175%"},"children":[["$","strong",null,{"children":"Real-time insights"}]," for 200+ lenders"]}],"\n",["$","$L9",null,{"marginTop":"4","marginBottom":"8","style":{"lineHeight":"175%"},"children":[["$","strong",null,{"children":"Scalable system"}]," adaptable to new borrowers"]}],"\n",["$","$L9",null,{"marginTop":"4","marginBottom":"8","style":{"lineHeight":"175%"},"children":[["$","strong",null,{"children":"Enhanced transparency"}]," and accountability"]}],"\n"]}]
+1c:["$","$L7",null,{"marginTop":"24","marginBottom":"12","as":"h2","id":"financial-modeling","children":"Financial Modeling"}]
+1d:["$","span",null,{"className":"font-body font-default font-m neutral-on-background-medium mt-8 mb-12","style":{"lineHeight":"175%"},"children":["Utilized ",["$","strong",null,{"children":"Amazon SageMaker"}]," and ",["$","strong",null,{"children":"Jupyter Notebook"}]," for:"]}]
+1e:["$","$L8",null,{"children":["\n",["$","$L9",null,{"marginTop":"4","marginBottom":"8","style":{"lineHeight":"175%"},"children":"Custom financial models for unique borrower profiles"}],"\n",["$","$L9",null,{"marginTop":"4","marginBottom":"8","style":{"lineHeight":"175%"},"children":"Scenario analysis for different lending scenarios"}],"\n",["$","$L9",null,{"marginTop":"4","marginBottom":"8","style":{"lineHeight":"175%"},"children":"Risk assessment dashboards"}],"\n",["$","$L9",null,{"marginTop":"4","marginBottom":"8","style":{"lineHeight":"175%"},"children":"ROI calculations with currency adjustments"}],"\n"]}]
+1f:["$","$L7",null,{"marginTop":"24","marginBottom":"12","as":"h2","id":"business-impact","children":"Business Impact"}]
+20:["$","$L8",null,{"children":["\n",["$","$L9",null,{"marginTop":"4","marginBottom":"8","style":{"lineHeight":"175%"},"children":[["$","strong",null,{"children":"Investor Satisfaction"}],": Increased through transparency and alerts"]}],"\n",["$","$L9",null,{"marginTop":"4","marginBottom":"8","style":{"lineHeight":"175%"},"children":[["$","strong",null,{"children":"Operational Efficiency"}],": Freed team from manual Excel work"]}],"\n",["$","$L9",null,{"marginTop":"4","marginBottom":"8","style":{"lineHeight":"175%"},"children":[["$","strong",null,{"children":"Risk Mitigation"}],": Early detection of repayment issues"]}],"\n",["$","$L9",null,{"marginTop":"4","marginBottom":"8","style":{"lineHeight":"175%"},"children":[["$","strong",null,{"children":"Strategic Insights"}],": Data-driven portfolio optimization"]}],"\n"]}]
+21:["$","$L7",null,{"marginTop":"24","marginBottom":"12","as":"h2","id":"skills-demonstrated","children":"Skills Demonstrated"}]
+22:["$","span",null,{"className":"font-body font-default font-m neutral-on-background-medium mt-8 mb-12","style":{"lineHeight":"175%"},"children":"ETL Pipeline Design | Cloud Computing (AWS Lambda, EC2) | Dashboard Development (Django, Superset) | Forex API Integration | Financial Modeling | Stakeholder Communication"}]
+23:["$","$L2a",null,{"title":"Real-Time Investment Monitoring for 200+ International Lenders","url":"https://rushikeshgholap.com/blog/almavest-investment-monitoring"}]
+2d:Tb46,
+## Project Overview
+
+**Client**: Adani Electricity  
+**Role**: Lead Data Scientist  
+**Tech Stack**: OpenCV, Django, Vue.js, PWA (Progressive Web Applications), Keras, TensorFlow
+
+Developed an AI-powered system to combat billing fraud by automatically detecting tampered or recaptured meter reading images submitted by customers.
+
+## The Challenge
+
+Utility companies face significant revenue losses from fraudulent meter readings. Traditional manual verification was:
+
+- **Time-consuming**: Required human review of thousands of images
+- **Error-prone**: Difficult to spot subtle tampering techniques
+- **Scalable issues**: Couldn't handle growing customer base
+
+## Technical Solution
+
+### 1. Frequency-Based Decomposition Pipeline
+
+Implemented advanced image processing to detect **Moiré patterns** - telltale signs of screen-captured images:
+
+- Applied **Fourier Transform** analysis to identify frequency anomalies
+- Detected periodic interference patterns invisible to human eye
+- Achieved **91% accuracy** in tampering detection
+
+### 2. Multi-CNN Architecture
+
+Built ensemble model combining:
+
+- **OpenCV** for preprocessing and feature extraction
+- **PIL** for image manipulation
+- **Keras + TensorFlow** for deep learning classification
+- Validated with **50+ automated checks** including object detection and boundary frame analysis
+
+### 3. Progressive Web Application
+
+Created seamless customer experience:
+
+- **Vue.js frontend**: Responsive, mobile-first design
+- **Django backend**: RESTful API for real-time image processing
+- **PWA capabilities**: Offline support, push notifications
+- **Real-time validation**: Instant feedback on image quality
+
+## Key Results
+
+- **72% boost in accuracy** compared to previous methods
+- **63% faster processing** time
+- **29% increase in revenue** through fraud prevention
+- **Improved customer experience** with faster, user-friendly billing process
+
+## Technical Highlights
+
+```python
+# Example: Moiré pattern detection using FFT
+def detect_moire_pattern(image):
+    # Convert to grayscale and apply FFT
+    gray = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
+    f_transform = np.fft.fft2(gray)
+    f_shift = np.fft.fftshift(f_transform)
+
+    # Analyze frequency spectrum for periodic patterns
+    magnitude_spectrum = np.abs(f_shift)
+
+    # Detect anomalous peaks indicating screen capture
+    return analyze_frequency_peaks(magnitude_spectrum)
+```
+
+## Impact
+
+- **Revenue Protection**: Mitigated losses from fraudulent billing
+- **Digital Transformation**: Pioneered AI adoption in utility services
+- **Customer Trust**: Enhanced billing transparency and accuracy
+- **Operational Efficiency**: Reduced manual intervention by 80%
+
+## Skills Demonstrated
+
+AI & Machine Learning | Image Processing (OpenCV) | Full-Stack Development | PWA | Process Automation
+24:["$","$L3",null,{"fillWidth":true,"gap":"40","horizontal":"center","marginTop":"40","children":[["$","div",null,{"className":"display-flex position-relative neutral-background-strong flex-row min-width-0 fill-width ","style":{"maxWidth":"var(--static-space-40)","minHeight":"var(--static-space-1)","height":"var(--static-space-1)"}}],["$","h2",null,{"className":"font-heading font-strong font-xl neutral-on-background-strong mb-24","style":{"textWrap":"balance"},"children":"Recent posts"}],["$","$L2b",null,{"s":{"columns":1},"columns":"2","fillWidth":true,"marginBottom":"40","gap":"16","children":[["$","$L2c","adani-electricity-billing-system",{"post":{"metadata":{"title":"AI-Powered Utility Billing: Detecting Tampered Meter Readings","subtitle":"","publishedAt":"2022-06-01","summary":"Developed an AI system achieving 91% accuracy in identifying tampered electricity meter images using frequency-based decomposition and moiré pattern analysis.","image":"","images":["/images/projects/project-01/cover.jpg"],"tag":[],"team":[{"name":"Rushikesh Gholap","role":"Lead Data Scientist","avatar":"/images/avatar.jpg"}],"link":""},"slug":"adani-electricity-billing-system","content":"$2d"},"thumbnail":true,"direction":"column"}],"$L2e"]}]]}]
+25:["$","$L2f",null,{}]
+26:["$","$L3",null,{"maxWidth":12,"paddingLeft":"40","fitHeight":true,"position":"sticky","top":"80","gap":"16","m":{"hide":true},"children":[["$","$L2",null,{"gap":"12","paddingLeft":"2","vertical":"center","onBackground":"neutral-medium","textVariant":"label-default-s","children":[["$","$L30",null,{"name":"document","size":"xs"}],"On this page"]}],["$","$L31",null,{"fitHeight":true}]]}]
+27:["$","script","script-0",{"src":"/_next/static/chunks/2caa9e5cd124434c.js","async":true}]
+28:["$","$L32",null,{"children":["$","$33",null,{"name":"Next.MetadataOutlet","children":"$@34"}]}]
+35:Tdea,
+## Project Overview
+
+**Client**: PDB Bank  
+**Role**: Data Scientist and ML Ops  
+**Tech Stack**: AWS EC2, Django, Python, Aadhaar API, PAN API, CIBIL, Equifax, Machine Learning
+
+Revolutionized the loan approval process by building an end-to-end automated system that evaluates creditworthiness in real-time.
+
+## The Problem
+
+Traditional loan processing was a bottleneck:
+
+- **Weeks-long approval times** frustrating customers
+- **Manual data entry** prone to human error
+- **Limited risk assessment** missing alternative data signals
+- **No flexibility** in lending criteria adjustments
+
+## Solution Architecture
+
+### 1. Comprehensive Data Pipeline
+
+Designed system processing **105+ parameters**:
+
+- **KYC Verification**: Real-time Aadhaar and PAN validation
+- **Credit Scoring**: CIBIL and Equifax integration
+- **Alternative Data**: Income proxies, utility payments, transaction history
+- **Fraud Checks**: Cross-verification across multiple data sources
+
+### 2. Dynamic ML Scoring Model
+
+Built intelligent creditworthiness engine:
+
+- **Feature Engineering**: Extracted predictive signals from sparse data -**Alternative Scoring**: Evaluated unscored customers using proxy variables
+- **Risk Segmentation**: Classified applicants into risk buckets
+- **Explainability**: Provided transparent reasoning for decisions
+
+### 3. Real-Time Admin Panel
+
+Enabled business agility:
+
+- **Dynamic Criteria**: Adjust lending parameters without code deploy
+- **A/B Testing**: Experiment with different scoring rules
+- **Monitoring Dashboard**: Track approval rates, defaults, portfolio health
+- **Audit Trail**: Complete logging for compliance
+
+## Technical Implementation
+
+```python
+# Example: Dynamic scoring with alternative data
+class LoanScoringEngine:
+    def __init__(self, criteria_config):
+        self.criteria = criteria_config
+        self.models = self.load_ensemble_models()
+
+    def evaluate_applicant(self, applicant_data):
+        # Traditional credit score (if available)
+        credit_score = self.get_bureau_score(applicant_data)
+
+        # Alternative data scoring for thin-file customers
+        if credit_score is None:
+            alt_score = self.calculate_alternative_score(
+                utility_payments=applicant_data['utilities'],
+                income_proxies=applicant_data['income_signals'],
+                behavioral_data=applicant_data['transactions']
+            )
+            return self.apply_criteria(alt_score, 'alternative')
+
+        return self.apply_criteria(credit_score, 'traditional')
+```
+
+## Key Achievements
+
+- **10-minute approval time** (from weeks)
+- **89% improvement in operational efficiency**
+- **4.3/5 customer satisfaction rating**
+- **Minimized manual intervention** and human error
+- **Scalable architecture** on AWS EC2
+
+## API Integration Highlights
+
+### Third-Party Services Integrated:
+
+1. **Aadhaar eKYC**: Instant identity verification
+2. **PAN Validation**: Tax ID verification
+3. **CIBIL**: Credit bureau scores
+4. **Equifax**: Additional credit data
+5. **Bank Statement Analysis**: Income verification
+
+## Business Impact
+
+- **Customer Delight**: Minutes instead of weeks
+- **Risk Management**: More accurate assessment with alternative data
+- **Operational Cost**: Reduced processing overhead by 70%
+- **Scalability**: Handle 10x volume without additional staff
+
+## Skills Demonstrated
+
+Data Pipeline Design | API Integration | Machine Learning | Python | Django | AWS | Automation | Risk Analysis
+2e:["$","$L2c","pdb-bank-loan-system",{"post":{"metadata":{"title":"Transforming Loan Approvals: From Weeks to 10 Minutes","subtitle":"","publishedAt":"2021-09-01","summary":"Built a comprehensive ML-powered loan onboarding system processing 105+ parameters, reducing approval time from weeks to 10 minutes while integrating KYC and credit scoring APIs.","image":"","images":["/images/projects/project-02/cover.jpg"],"tag":[],"team":[{"name":"Rushikesh Gholap","role":"Data Scientist & ML Ops","avatar":"/images/avatar.jpg"}],"link":""},"slug":"pdb-bank-loan-system","content":"$35"},"thumbnail":true,"direction":"column"}]
+34:null

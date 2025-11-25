@@ -1,0 +1,135 @@
+1:"$Sreact.fragment"
+2:I[778454,["/_next/static/chunks/3f08639a8537bc56.js","/_next/static/chunks/781378973197997f.js","/_next/static/chunks/8b17704a1cf39ac2.js","/_next/static/chunks/d6bf78623dfb8349.js","/_next/static/chunks/9d83cb589aee8c74.js","/_next/static/chunks/dcd823ab7c8835f6.js","/_next/static/chunks/4813d99507c41748.js"],"Row"]
+3:I[273323,["/_next/static/chunks/3f08639a8537bc56.js","/_next/static/chunks/781378973197997f.js","/_next/static/chunks/8b17704a1cf39ac2.js","/_next/static/chunks/d6bf78623dfb8349.js","/_next/static/chunks/9d83cb589aee8c74.js","/_next/static/chunks/dcd823ab7c8835f6.js","/_next/static/chunks/4813d99507c41748.js"],"Column"]
+4:I[479520,["/_next/static/chunks/3f08639a8537bc56.js","/_next/static/chunks/781378973197997f.js","/_next/static/chunks/8b17704a1cf39ac2.js","/_next/static/chunks/d6bf78623dfb8349.js","/_next/static/chunks/9d83cb589aee8c74.js","/_next/static/chunks/dcd823ab7c8835f6.js","/_next/static/chunks/4813d99507c41748.js"],""]
+5:I[624379,["/_next/static/chunks/3f08639a8537bc56.js","/_next/static/chunks/781378973197997f.js","/_next/static/chunks/8b17704a1cf39ac2.js","/_next/static/chunks/d6bf78623dfb8349.js","/_next/static/chunks/9d83cb589aee8c74.js","/_next/static/chunks/dcd823ab7c8835f6.js","/_next/static/chunks/4813d99507c41748.js"],"SmartLink"]
+6:I[145250,["/_next/static/chunks/3f08639a8537bc56.js","/_next/static/chunks/781378973197997f.js","/_next/static/chunks/8b17704a1cf39ac2.js","/_next/static/chunks/d6bf78623dfb8349.js","/_next/static/chunks/9d83cb589aee8c74.js","/_next/static/chunks/dcd823ab7c8835f6.js","/_next/static/chunks/4813d99507c41748.js"],"Avatar"]
+7:I[811052,["/_next/static/chunks/3f08639a8537bc56.js","/_next/static/chunks/781378973197997f.js","/_next/static/chunks/8b17704a1cf39ac2.js","/_next/static/chunks/d6bf78623dfb8349.js","/_next/static/chunks/9d83cb589aee8c74.js","/_next/static/chunks/dcd823ab7c8835f6.js","/_next/static/chunks/4813d99507c41748.js"],"HeadingLink"]
+8:I[436122,["/_next/static/chunks/3f08639a8537bc56.js","/_next/static/chunks/781378973197997f.js","/_next/static/chunks/8b17704a1cf39ac2.js","/_next/static/chunks/d6bf78623dfb8349.js","/_next/static/chunks/9d83cb589aee8c74.js","/_next/static/chunks/dcd823ab7c8835f6.js","/_next/static/chunks/4813d99507c41748.js"],"List"]
+9:I[626935,["/_next/static/chunks/3f08639a8537bc56.js","/_next/static/chunks/781378973197997f.js","/_next/static/chunks/8b17704a1cf39ac2.js","/_next/static/chunks/d6bf78623dfb8349.js","/_next/static/chunks/9d83cb589aee8c74.js","/_next/static/chunks/dcd823ab7c8835f6.js","/_next/static/chunks/4813d99507c41748.js"],"ListItem"]
+24:I[597784,["/_next/static/chunks/3f08639a8537bc56.js","/_next/static/chunks/781378973197997f.js","/_next/static/chunks/8b17704a1cf39ac2.js","/_next/static/chunks/d6bf78623dfb8349.js","/_next/static/chunks/9d83cb589aee8c74.js","/_next/static/chunks/dcd823ab7c8835f6.js","/_next/static/chunks/4813d99507c41748.js"],"CodeBlock"]
+26:I[448588,["/_next/static/chunks/3f08639a8537bc56.js","/_next/static/chunks/781378973197997f.js","/_next/static/chunks/8b17704a1cf39ac2.js","/_next/static/chunks/d6bf78623dfb8349.js","/_next/static/chunks/9d83cb589aee8c74.js","/_next/static/chunks/dcd823ab7c8835f6.js","/_next/static/chunks/4813d99507c41748.js"],"ShareSection"]
+27:I[696470,["/_next/static/chunks/3f08639a8537bc56.js","/_next/static/chunks/781378973197997f.js","/_next/static/chunks/8b17704a1cf39ac2.js","/_next/static/chunks/d6bf78623dfb8349.js","/_next/static/chunks/9d83cb589aee8c74.js","/_next/static/chunks/dcd823ab7c8835f6.js","/_next/static/chunks/4813d99507c41748.js"],"ClientGrid"]
+28:I[814360,["/_next/static/chunks/3f08639a8537bc56.js","/_next/static/chunks/781378973197997f.js","/_next/static/chunks/8b17704a1cf39ac2.js","/_next/static/chunks/d6bf78623dfb8349.js","/_next/static/chunks/9d83cb589aee8c74.js","/_next/static/chunks/dcd823ab7c8835f6.js","/_next/static/chunks/4813d99507c41748.js"],"default"]
+2b:I[988654,["/_next/static/chunks/3f08639a8537bc56.js","/_next/static/chunks/781378973197997f.js","/_next/static/chunks/8b17704a1cf39ac2.js","/_next/static/chunks/d6bf78623dfb8349.js","/_next/static/chunks/9d83cb589aee8c74.js","/_next/static/chunks/dcd823ab7c8835f6.js","/_next/static/chunks/4813d99507c41748.js"],"ScrollToHash"]
+2c:I[605649,["/_next/static/chunks/3f08639a8537bc56.js","/_next/static/chunks/781378973197997f.js","/_next/static/chunks/8b17704a1cf39ac2.js","/_next/static/chunks/d6bf78623dfb8349.js","/_next/static/chunks/9d83cb589aee8c74.js","/_next/static/chunks/dcd823ab7c8835f6.js","/_next/static/chunks/4813d99507c41748.js"],"HeadingNav"]
+2d:I[897367,["/_next/static/chunks/d96012bcfc98706a.js","/_next/static/chunks/d80b3790a119a285.js"],"OutletBoundary"]
+2e:"$Sreact.suspense"
+0:{"buildId":"6nOZ6TQTLD93v2KeWI2oo","rsc":["$","$1","c",{"children":[["$","$L2",null,{"fillWidth":true,"children":[["$","$L2",null,{"maxWidth":12,"m":{"hide":true}}],["$","$L2",null,{"fillWidth":true,"horizontal":"center","children":["$","$L3",null,{"as":"section","maxWidth":"m","horizontal":"center","gap":"l","paddingTop":"24","children":[["$","$L4",null,{"id":"schema-blogPosting-/blog/zukodo-coupon-generation","type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"url\":\"https://rushikeshgholap.com/blog/zukodo-coupon-generation\",\"sameAs\":[],\"headline\":\"Personalized Banking Promotions with ML-Powered Coupon Generation\",\"description\":\"Led development of a scalable coupon generation system using CatBoost ML models and Redis caching, delivering personalized offers and improving redemption rates through predictive analytics.\",\"image\":\"https://rushikeshgholap.com/images/og/home.jpg\",\"datePublished\":\"2020-05-01\",\"dateModified\":\"2020-05-01\",\"author\":{\"@type\":\"Person\",\"name\":\"Rushikesh Gholap\",\"url\":\"https://rushikeshgholap.com/about\",\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://rushikeshgholap.com/images/avatar.jpg\"}}}"}}],["$","$L3",null,{"maxWidth":"s","gap":"16","horizontal":"center","align":"center","children":[["$","$L5",null,{"href":"/blog","children":["$","span",null,{"className":"font-label font-strong font-m","style":{},"children":"Blog"}]}],["$","span",null,{"className":"font-body font-default font-xs neutral-on-background-weak mb-12","style":{},"children":"May 1, 2020"}],["$","h1",null,{"className":"font-display font-strong font-m neutral-on-background-strong","style":{"textWrap":"balance"},"children":"Personalized Banking Promotions with ML-Powered Coupon Generation"}],""]}],["$","$L2",null,{"marginBottom":"32","horizontal":"center","children":["$","$L2",null,{"gap":"16","vertical":"center","children":[["$","$L6",null,{"size":"s","src":"/images/avatar.jpg"}],["$","span",null,{"className":"font-label font-default font-m brand-on-background-weak","style":{},"children":"Rushikesh Gholap"}]]}]}],"",["$","$L3",null,{"as":"article","maxWidth":"s","children":[["$","$L7",null,{"marginTop":"24","marginBottom":"12","as":"h2","id":"project-overview","children":"Project Overview"}],"\n",["$","span",null,{"className":"font-body font-default font-m neutral-on-background-medium mt-8 mb-12","style":{"lineHeight":"175%"},"children":[["$","strong",null,{"children":"Client"}],": ZUKODO (Banking Promotional Platform)",["$","br",null,{}],"\n",["$","strong",null,{"children":"Role"}],": Project Lead and ML Engineer",["$","br",null,{}],"\n",["$","strong",null,{"children":"Tech Stack"}],": Django, Django REST Framework, Redis, Azure, Red Hat OS, Supervisor, Apache, MySQL, CatBoost"]}],"\n",["$","span",null,{"className":"font-body font-default font-m neutral-on-background-medium mt-8 mb-12","style":{"lineHeight":"175%"},"children":["Delivered a production-grade API system in ",["$","strong",null,{"children":"two months"}],", enabling banks to offer personalized promotions based on ML-predicted customer behavior."]}],"\n",["$","$L7",null,{"marginTop":"24","marginBottom":"12","as":"h2","id":"business-challenge","children":"Business Challenge"}],"\n",["$","span",null,{"className":"font-body font-default font-m neutral-on-background-medium mt-8 mb-12","style":{"lineHeight":"175%"},"children":"Banks struggled with:"}],"\n",["$","$L8",null,{"children":["\n",["$","$L9",null,{"marginTop":"4","marginBottom":"8","style":{"lineHeight":"175%"},"children":[["$","strong",null,{"children":"Low coupon redemption rates"}],": Generic offers ignored by customers"]}],"\n",["$","$L9",null,{"marginTop":"4","marginBottom":"8","style":{"lineHeight":"175%"},"children":[["$","strong",null,{"children":"Integration complexity"}],": Needed seamless banking app integration"]}],"\n",["$","$L9",null,{"marginTop":"4","marginBottom":"8","style":{"lineHeight":"175%"},"children":[["$","strong",null,{"children":"Performance requirements"}],": Sub-second response times"]}],"\n",["$","$L9",null,{"marginTop":"4","marginBottom":"8","style":{"lineHeight":"175%"},"children":[["$","strong",null,{"children":"Personalization gap"}],": No data-driven offer targeting"]}],"\n"]}],"\n",["$","$L7",null,{"marginTop":"24","marginBottom":"12","as":"h2","id":"technical-solution","children":"Technical Solution"}],"\n","$La","\n","$Lb","\n","$Lc","\n","$Ld","\n","$Le","\n","$Lf","\n","$L10","\n","$L11","\n","$L12","\n","$L13","\n","$L14","\n","$L15","\n","$L16","\n","$L17","\n","$L18","\n","$L19","\n","$L1a","\n","$L1b","\n","$L1c","\n","$L1d"]}],"$L1e","$L1f","$L20"]}]}],"$L21"]}],["$L22"],"$L23"]}],"loading":null,"isPartial":false}
+a:["$","$L7",null,{"marginTop":"24","marginBottom":"12","as":"h3","id":"1.-ml-powered-personalization","children":"1. ML-Powered Personalization"}]
+b:["$","span",null,{"className":"font-body font-default font-m neutral-on-background-medium mt-8 mb-12","style":{"lineHeight":"175%"},"children":["Implemented ",["$","strong",null,{"children":"CatBoost"}]," gradient boosting:"]}]
+c:["$","$L8",null,{"children":["\n",["$","$L9",null,{"marginTop":"4","marginBottom":"8","style":{"lineHeight":"175%"},"children":[["$","strong",null,{"children":"Customer segmentation"}],": Behavioral clustering"]}],"\n",["$","$L9",null,{"marginTop":"4","marginBottom":"8","style":{"lineHeight":"175%"},"children":[["$","strong",null,{"children":"Redemption prediction"}],": Likelihood scoring for each offer type"]}],"\n",["$","$L9",null,{"marginTop":"4","marginBottom":"8","style":{"lineHeight":"175%"},"children":[["$","strong",null,{"children":"Feature engineering"}],": Transaction patterns, demographics, past behavior"]}],"\n",["$","$L9",null,{"marginTop":"4","marginBottom":"8","style":{"lineHeight":"175%"},"children":[["$","strong",null,{"children":"Model updates"}],": Weekly retraining on fresh data"]}],"\n"]}]
+d:["$","$L7",null,{"marginTop":"24","marginBottom":"12","as":"h3","id":"2.-high-performance-api-architecture","children":"2. High-Performance API Architecture"}]
+e:["$","span",null,{"className":"font-body font-default font-m neutral-on-background-medium mt-8 mb-12","style":{"lineHeight":"175%"},"children":"Built scalable Django REST API:"}]
+f:["$","$L8",null,{"children":["\n",["$","$L9",null,{"marginTop":"4","marginBottom":"8","style":{"lineHeight":"175%"},"children":[["$","strong",null,{"children":"Redis caching"}],": 10-day retention of customer-specific offers"]}],"\n",["$","$L9",null,{"marginTop":"4","marginBottom":"8","style":{"lineHeight":"175%"},"children":[["$","strong",null,{"children":"Sub-second latency"}],": Optimized database queries"]}],"\n",["$","$L9",null,{"marginTop":"4","marginBottom":"8","style":{"lineHeight":"175%"},"children":[["$","strong",null,{"children":"Concurrent handling"}],": Support for 1000+ req/sec"]}],"\n",["$","$L9",null,{"marginTop":"4","marginBottom":"8","style":{"lineHeight":"175%"},"children":[["$","strong",null,{"children":"Rate limiting"}],": Protection against abuse"]}],"\n"]}]
+10:["$","$L7",null,{"marginTop":"24","marginBottom":"12","as":"h3","id":"3.-enterprise-infrastructure","children":"3. Enterprise Infrastructure"}]
+11:["$","span",null,{"className":"font-body font-default font-m neutral-on-background-medium mt-8 mb-12","style":{"lineHeight":"175%"},"children":["Deployed on ",["$","strong",null,{"children":"Azure Cloud"}],": -",["$","strong",null,{"children":"Red Hat Enterprise Linux"}],": Production-grade OS"]}]
+12:["$","$L8",null,{"children":["\n",["$","$L9",null,{"marginTop":"4","marginBottom":"8","style":{"lineHeight":"175%"},"children":[["$","strong",null,{"children":"Supervisor"}],": Process management and auto-restart"]}],"\n",["$","$L9",null,{"marginTop":"4","marginBottom":"8","style":{"lineHeight":"175%"},"children":[["$","strong",null,{"children":"Apache"}],": Reverse proxy and load balancing"]}],"\n",["$","$L9",null,{"marginTop":"4","marginBottom":"8","style":{"lineHeight":"175%"},"children":[["$","strong",null,{"children":"MySQL"}],": Transactional data store"]}],"\n"]}]
+13:["$","$L7",null,{"marginTop":"24","marginBottom":"12","as":"h2","id":"etl-pipeline","children":"ETL Pipeline"}]
+25:T4d9,# Example: Customer offer generation pipeline
+class OfferGenerationPipeline:
+    def __init__(self):
+        self.catboost_model = load_model('coupon_redemption.cbm')
+        self.redis_cache = Redis()
+
+    def generate_offers(self, customer_id):
+        # Extract customer features from MySQL
+        customer_data = self.fetch_customer_profile(customer_id)
+        transaction_history = self.fetch_transactions(customer_id, days=90)
+
+        # Feature engineering
+        features = self.engineer_features(customer_data, transaction_history)
+
+        # Predict redemption probability for each offer type
+        offers = []
+        for offer_type in OFFER_CATALOG:
+            score = self.catboost_model.predict_proba(
+                features + offer_type.features
+            )
+            if score > THRESHOLD:
+                offers.append({
+                    'offer_id': offer_type.id,
+                    'score': score,
+                    'expiry': datetime.now() + timedelta(days=10)
+                })
+
+        # Cache in Redis
+        self.redis_cache.setex(
+            f'offers:{customer_id}',
+            864000,  # 10 days
+            json.dumps(offers)
+        )
+
+        return offers
+14:["$","$L24",null,{"marginTop":"8","marginBottom":"16","codes":[{"code":"$25","language":"python","label":"Python"}],"copyButton":true}]
+15:["$","$L7",null,{"marginTop":"24","marginBottom":"12","as":"h2","id":"key-achievements","children":"Key Achievements"}]
+16:["$","span",null,{"className":"font-body font-default font-m neutral-on-background-medium mt-8 mb-12","style":{"lineHeight":"175%"},"children":["✅ ",["$","strong",null,{"children":"2-month delivery"}],": Agile development from concept to production",["$","br",null,{}],"\n","✅ ",["$","strong",null,{"children":"Improved redemption rates"}],": Data-driven personalization",["$","br",null,{}],"\n","✅ ",["$","strong",null,{"children":"Customer satisfaction"}],": Relevant, timely offers",["$","br",null,{}],"\n","✅ ",["$","strong",null,{"children":"Scalable infrastructure"}],": Handled growing user base"]}]
+17:["$","$L7",null,{"marginTop":"24","marginBottom":"12","as":"h2","id":"api-integration","children":"API Integration"}]
+18:["$","$L7",null,{"marginTop":"24","marginBottom":"12","as":"h3","id":"banking-app-integration","children":"Banking App Integration:"}]
+19:["$","$L24",null,{"marginTop":"8","marginBottom":"16","codes":[{"code":"POST /api/v1/offers/generate\r\n{\r\n  \"customer_id\": \"CUST123456\",\r\n  \"context\": \"transaction_complete\"\r\n}\r\n\r\nResponse:\r\n{\r\n  \"offers\": [\r\n    {\r\n      \"offer_id\": \"CASHBACK_10\",\r\n      \"title\": \"10% Cashback on Groceries\",\r\n      \"expiry\": \"2024-12-15T00:00:00Z\",\r\n      \"redemption_score\": 0.87\r\n    }\r\n  ]\r\n}\n","language":"json","label":"Json"}],"copyButton":true}]
+1a:["$","$L7",null,{"marginTop":"24","marginBottom":"12","as":"h2","id":"project-management-highlights","children":"Project Management Highlights"}]
+1b:["$","$L8",null,{"children":["\n",["$","$L9",null,{"marginTop":"4","marginBottom":"8","style":{"lineHeight":"175%"},"children":[["$","strong",null,{"children":"Cross-functional collaboration"}],": Coordinated with banking, marketing, and tech teams"]}],"\n",["$","$L9",null,{"marginTop":"4","marginBottom":"8","style":{"lineHeight":"175%"},"children":[["$","strong",null,{"children":"Agile methodology"}],": Weekly sprints with demo-driven development"]}],"\n",["$","$L9",null,{"marginTop":"4","marginBottom":"8","style":{"lineHeight":"175%"},"children":[["$","strong",null,{"children":"Stakeholder communication"}],": Regular updates to business stakeholders"]}],"\n",["$","$L9",null,{"marginTop":"4","marginBottom":"8","style":{"lineHeight":"175%"},"children":[["$","strong",null,{"children":"Timeline delivery"}],": Met aggressive 2-month deadline"]}],"\n"]}]
+1c:["$","$L7",null,{"marginTop":"24","marginBottom":"12","as":"h2","id":"skills-demonstrated","children":"Skills Demonstrated"}]
+1d:["$","span",null,{"className":"font-body font-default font-m neutral-on-background-medium mt-8 mb-12","style":{"lineHeight":"175%"},"children":"API Development (Django REST) | Machine Learning (CatBoost) | Redis Caching | Azure Cloud Deployment | Data Processing (MySQL) | Scalable Architecture | Project Management"}]
+1e:["$","$L26",null,{"title":"Personalized Banking Promotions with ML-Powered Coupon Generation","url":"https://rushikeshgholap.com/blog/zukodo-coupon-generation"}]
+29:T520,
+## Objective
+
+To develop an advanced deep learning model for predicting diabetes risk, enhancing early detection and personalized healthcare interventions.
+
+## The Solution
+
+I implemented a **Multi-Layer Perceptron (MLP)** architecture with **Xavier Initialization** and **Adam optimization** to ensure stable gradient flow and adaptive learning rates. The model was trained on a dataset of **20,000+ health records**, analyzing critical features such as Age, BMI, Blood Pressure, and Cholesterol Levels.
+
+I designed a **4-layer MLP** with 15, 32, and 16 neurons in the hidden layers and optimized the configuration by exploring various activation functions and error metrics. This tailored approach allowed the model to adapt effectively to the dynamic nature of healthcare data.
+
+## Impact
+
+The model outperformed traditional machine learning approaches, achieving:
+
+- **Accuracy**: **90.79%**
+- **Precision**: **91%**
+- **Recall**: **88%**
+- **F1-Score**: **90%**
+
+This high level of accuracy sets a new benchmark for predictive modeling in diabetes detection, supporting more reliable diagnoses and personalized healthcare strategies.
+
+## Key Skills
+
+Deep Learning, Multi-Layer Perceptron (MLP), Xavier Initialization, Adam Optimization, Data Analysis, Precision-Recall Evaluation.
+2a:T6b9,
+## Associated with
+
+**Drexel University College of Computing & Informatics**
+
+## Overview
+
+Developed an advanced ML system for early diabetes detection, utilizing multiple classifiers for optimal performance, including Decision Trees, Random Forest, K-Nearest Neighbors (KNN), Logistic Regression, and Naive Bayes.
+
+## Methodology
+
+- **Model Selection**: Evaluated multiple classifiers and achieved an 82.26% accuracy rate with the Random Forest classifier, the top-performing model.
+- **Data Balancing**: Balanced a dataset of 20,000+ rows using SMOTE for oversampling the minority class and random under-sampling for the majority class, ensuring fair model evaluation.
+- **Preprocessing**: Preprocessed data by cleaning and normalizing datasets, applying advanced sampling techniques, and preparing it for robust analysis.
+- **Evaluation**: Evaluated models comprehensively using metrics like precision (83.47%), recall (80.45%), F1-score (82.26%), ROC-AUC, and precision-recall curves.
+
+## Key Achievements
+
+- **Superior Performance**: Demonstrated superior model performance with Random Forest, leveraging its ensemble learning capabilities.
+- **Enhanced Accuracy**: Enhanced classification accuracy through data balancing techniques, improving sensitivity and specificity.
+- **Healthcare Impact**: Contributed to early diabetes detection, providing a framework for scalable healthcare applications.
+
+## Future Directions
+
+- Incorporate temporal analysis to adapt to evolving healthcare trends.
+- Explore advanced ensemble methods for further accuracy improvements.
+
+## Key Skills
+
+Machine Learning, Data Preprocessing, Classifier Evaluation, Ensemble Techniques, Healthcare Analytics.
+1f:["$","$L3",null,{"fillWidth":true,"gap":"40","horizontal":"center","marginTop":"40","children":[["$","div",null,{"className":"display-flex position-relative neutral-background-strong flex-row min-width-0 fill-width ","style":{"maxWidth":"var(--static-space-40)","minHeight":"var(--static-space-1)","height":"var(--static-space-1)"}}],["$","h2",null,{"className":"font-heading font-strong font-xl neutral-on-background-strong mb-24","style":{"textWrap":"balance"},"children":"Recent posts"}],["$","$L27",null,{"s":{"columns":1},"columns":"2","fillWidth":true,"gap":"16","children":[["$","$L28","revolutionizing-diabetes-forecasting",{"post":{"metadata":{"title":"Revolutionizing Diabetes Forecasting","subtitle":"","publishedAt":"2024-04-15","summary":"Developed an advanced deep learning model (MLP) for diabetes risk prediction, achieving 90.79% accuracy.","image":"","images":[],"tag":"Healthcare AI","team":[],"link":""},"slug":"revolutionizing-diabetes-forecasting","content":"$29"},"thumbnail":true,"direction":"column"}],["$","$L28","boosting-diabetes-prediction",{"post":{"metadata":{"title":"Boosting Diabetes Prediction Accuracy with Machine Learning Ensembles","subtitle":"","publishedAt":"2024-03-01","summary":"Developed an advanced ML system for early diabetes detection, achieving 82.26% accuracy with Random Forest.","image":"","images":[],"tag":"Healthcare AI","team":[],"link":""},"slug":"boosting-diabetes-prediction","content":"$2a"},"thumbnail":true,"direction":"column"}]]}]]}]
+20:["$","$L2b",null,{}]
+21:["$","$L3",null,{"maxWidth":12,"paddingLeft":"40","fitHeight":true,"position":"sticky","top":"80","gap":"16","m":{"hide":true},"children":["$","$L2c",null,{"fitHeight":true}]}]
+22:["$","script","script-0",{"src":"/_next/static/chunks/4813d99507c41748.js","async":true}]
+23:["$","$L2d",null,{"children":["$","$2e",null,{"name":"Next.MetadataOutlet","children":"$@2f"}]}]
+2f:null

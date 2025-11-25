@@ -1,9 +1,397 @@
 1:"$Sreact.fragment"
-2:I[273323,["/_next/static/chunks/5123f4de65787cb9.js","/_next/static/chunks/781378973197997f.js","/_next/static/chunks/8b17704a1cf39ac2.js","/_next/static/chunks/d6bf78623dfb8349.js","/_next/static/chunks/9a2497af58186ffe.js","/_next/static/chunks/dcd823ab7c8835f6.js"],"Column"]
-3:I[479520,["/_next/static/chunks/5123f4de65787cb9.js","/_next/static/chunks/781378973197997f.js","/_next/static/chunks/8b17704a1cf39ac2.js","/_next/static/chunks/d6bf78623dfb8349.js","/_next/static/chunks/9a2497af58186ffe.js","/_next/static/chunks/dcd823ab7c8835f6.js"],""]
-4:I[474855,["/_next/static/chunks/5123f4de65787cb9.js","/_next/static/chunks/781378973197997f.js","/_next/static/chunks/8b17704a1cf39ac2.js","/_next/static/chunks/d6bf78623dfb8349.js","/_next/static/chunks/9a2497af58186ffe.js","/_next/static/chunks/dcd823ab7c8835f6.js"],"ProjectCard"]
-6:I[897367,["/_next/static/chunks/d96012bcfc98706a.js","/_next/static/chunks/d80b3790a119a285.js"],"OutletBoundary"]
-7:"$Sreact.suspense"
-0:{"buildId":"OKz8k8py6bURdLybI6wp_","rsc":["$","$1","c",{"children":[["$","$L2",null,{"maxWidth":"m","paddingTop":"24","children":[["$","$L3",null,{"id":"schema-webPage-/work","type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"WebPage\",\"url\":\"https://rushikeshgholap.com/work\",\"sameAs\":[],\"headline\":\"Projects\",\"description\":\"Data Science and ML projects by Rushikesh Gholap\",\"image\":\"https://rushikeshgholap.com/images/og/home.jpg\",\"author\":{\"@type\":\"Person\",\"name\":\"Rushikesh Gholap\",\"url\":\"https://rushikeshgholap.com/about\",\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://rushikeshgholap.com/images/avatar.jpg\"}}}"}}],["$","h1",null,{"className":"font-heading font-strong font-xl neutral-on-background-strong mb-l","style":{"textAlign":"center","textWrap":"balance"},"children":"Projects"}],["$","$L2",null,{"fillWidth":true,"gap":"xl","marginBottom":"40","paddingX":"l","children":[["$","$L4","smart-local-guide",{"priority":true,"href":"/work/smart-local-guide","images":["/images/projects/smart-local-guide/cover.jpg"],"title":"Smart Local Guide","description":"A robust recommender system leveraging large-scale Google Local Reviews data (1M+ records) with NLP-driven sentiment analysis.","content":"\r\n## Overview\r\n\r\nDesigned and implemented a robust Smart Local Guide recommender system leveraging large-scale Google Local Reviews data (1M+ records), applying advanced NLP-driven sentiment analysis, feature engineering, and noise/outlier detection to deliver precise, high-quality local business recommendations through optimized PostgreSQL data pipelines.\r\n\r\n## Key Technologies\r\n\r\nPython, NLP (Sentiment Analysis), Collaborative Filtering, PostgreSQL, Feature Engineering\r\n","avatars":[{"src":"/images/avatar.jpg"}],"link":""}],["$","$L4","diffunarrate",{"priority":true,"href":"/work/diffunarrate","images":["/images/projects/diffunarrate/cover.jpg"],"title":"DiffuNarrate: Story Generation","description":"Adapted Apple’s Latent Language Diffusion Model (LLDM) for bedtime short story generation.","content":"\r\n## Overview\r\n\r\nRecreated Apple’s Latent Language Diffusion Model (LLDM) and adapted it for bedtime short story generation, integrating VAEs with diffusion-based latent modeling. Benchmarked narrative coherence and quality against baseline LLMs using causal modeling and statistical evaluation.\r\n","avatars":[{"src":"/images/avatar.jpg"}],"link":""}],["$","$L4","diabetes-forecasting",{"priority":false,"href":"/work/diabetes-forecasting","images":["/images/projects/diabetes-forecasting/cover.jpg"],"title":"Diabetes Forecasting with Deep Learning","description":"Advanced DL diabetes prediction study using Multi-Layer Perceptron (MLP) achieving 90.79% accuracy.","content":"\r\n## Overview\r\n\r\nConducted advanced Deep Learning diabetes prediction study using Multi-Layer Perceptron (MLP); achieving 90.79% accuracy and 91% precision with Xavier Initialization and Adam Optimization. Significantly increasing diagnostic reliability and supporting personalized healthcare strategies.\r\n\r\n## Tech Stack\r\n\r\nDeep Learning, MLP, Python, Build from Scratch\r\n","avatars":[{"src":"/images/avatar.jpg"}],"link":"https://github.com/RushikeshGholap/Diabetes_Clasification_Dl"}],["$","$L4","electricity-load-forecasting",{"priority":false,"href":"/work/electricity-load-forecasting","images":["/images/projects/electricity-load-forecasting/cover.jpg"],"title":"Electricity Load Forecasting","description":"Predicted electricity consumption for specific localities using FbProphet & NeuralProphet models.","content":"\r\n## Overview\r\n\r\nConducted analysis to predict electricity consumption for specific localities by identifying key parameters using FbProphet & NeuralProphet models and GridSearchCV, resulting in a prediction accuracy improvement of 55% and enabling better load management, decreasing peak electricity demand by 35%.\r\n\r\n## Tech Stack\r\n\r\nTime Series Forecasting, Matplotlib, Python\r\n","avatars":[{"src":"/images/avatar.jpg"}],"link":"https://ieeexplore.ieee.org/document/10119420"}]]}]]}],null,"$L5"]}],"loading":null,"isPartial":false}
-5:["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]
-8:null
+2:I[273323,["/_next/static/chunks/b2703404db9a727b.js","/_next/static/chunks/781378973197997f.js","/_next/static/chunks/8b17704a1cf39ac2.js","/_next/static/chunks/d6bf78623dfb8349.js","/_next/static/chunks/b449b1f088b00581.js","/_next/static/chunks/dcd823ab7c8835f6.js","/_next/static/chunks/77c1917bfce7ffb0.js"],"Column"]
+3:I[479520,["/_next/static/chunks/b2703404db9a727b.js","/_next/static/chunks/781378973197997f.js","/_next/static/chunks/8b17704a1cf39ac2.js","/_next/static/chunks/d6bf78623dfb8349.js","/_next/static/chunks/b449b1f088b00581.js","/_next/static/chunks/dcd823ab7c8835f6.js","/_next/static/chunks/77c1917bfce7ffb0.js"],""]
+4:I[696470,["/_next/static/chunks/b2703404db9a727b.js","/_next/static/chunks/781378973197997f.js","/_next/static/chunks/8b17704a1cf39ac2.js","/_next/static/chunks/d6bf78623dfb8349.js","/_next/static/chunks/b449b1f088b00581.js","/_next/static/chunks/dcd823ab7c8835f6.js","/_next/static/chunks/77c1917bfce7ffb0.js"],"ClientGrid"]
+5:I[814360,["/_next/static/chunks/b2703404db9a727b.js","/_next/static/chunks/781378973197997f.js","/_next/static/chunks/8b17704a1cf39ac2.js","/_next/static/chunks/d6bf78623dfb8349.js","/_next/static/chunks/b449b1f088b00581.js","/_next/static/chunks/dcd823ab7c8835f6.js","/_next/static/chunks/77c1917bfce7ffb0.js"],"default"]
+f:I[303847,["/_next/static/chunks/b2703404db9a727b.js","/_next/static/chunks/781378973197997f.js","/_next/static/chunks/8b17704a1cf39ac2.js","/_next/static/chunks/d6bf78623dfb8349.js","/_next/static/chunks/b449b1f088b00581.js","/_next/static/chunks/dcd823ab7c8835f6.js","/_next/static/chunks/77c1917bfce7ffb0.js"],"Mailchimp"]
+17:I[897367,["/_next/static/chunks/d96012bcfc98706a.js","/_next/static/chunks/d80b3790a119a285.js"],"OutletBoundary"]
+18:"$Sreact.suspense"
+6:T520,
+## Objective
+
+To develop an advanced deep learning model for predicting diabetes risk, enhancing early detection and personalized healthcare interventions.
+
+## The Solution
+
+I implemented a **Multi-Layer Perceptron (MLP)** architecture with **Xavier Initialization** and **Adam optimization** to ensure stable gradient flow and adaptive learning rates. The model was trained on a dataset of **20,000+ health records**, analyzing critical features such as Age, BMI, Blood Pressure, and Cholesterol Levels.
+
+I designed a **4-layer MLP** with 15, 32, and 16 neurons in the hidden layers and optimized the configuration by exploring various activation functions and error metrics. This tailored approach allowed the model to adapt effectively to the dynamic nature of healthcare data.
+
+## Impact
+
+The model outperformed traditional machine learning approaches, achieving:
+
+- **Accuracy**: **90.79%**
+- **Precision**: **91%**
+- **Recall**: **88%**
+- **F1-Score**: **90%**
+
+This high level of accuracy sets a new benchmark for predictive modeling in diabetes detection, supporting more reliable diagnoses and personalized healthcare strategies.
+
+## Key Skills
+
+Deep Learning, Multi-Layer Perceptron (MLP), Xavier Initialization, Adam Optimization, Data Analysis, Precision-Recall Evaluation.
+7:T6b9,
+## Associated with
+
+**Drexel University College of Computing & Informatics**
+
+## Overview
+
+Developed an advanced ML system for early diabetes detection, utilizing multiple classifiers for optimal performance, including Decision Trees, Random Forest, K-Nearest Neighbors (KNN), Logistic Regression, and Naive Bayes.
+
+## Methodology
+
+- **Model Selection**: Evaluated multiple classifiers and achieved an 82.26% accuracy rate with the Random Forest classifier, the top-performing model.
+- **Data Balancing**: Balanced a dataset of 20,000+ rows using SMOTE for oversampling the minority class and random under-sampling for the majority class, ensuring fair model evaluation.
+- **Preprocessing**: Preprocessed data by cleaning and normalizing datasets, applying advanced sampling techniques, and preparing it for robust analysis.
+- **Evaluation**: Evaluated models comprehensively using metrics like precision (83.47%), recall (80.45%), F1-score (82.26%), ROC-AUC, and precision-recall curves.
+
+## Key Achievements
+
+- **Superior Performance**: Demonstrated superior model performance with Random Forest, leveraging its ensemble learning capabilities.
+- **Enhanced Accuracy**: Enhanced classification accuracy through data balancing techniques, improving sensitivity and specificity.
+- **Healthcare Impact**: Contributed to early diabetes detection, providing a framework for scalable healthcare applications.
+
+## Future Directions
+
+- Incorporate temporal analysis to adapt to evolving healthcare trends.
+- Explore advanced ensemble methods for further accuracy improvements.
+
+## Key Skills
+
+Machine Learning, Data Preprocessing, Classifier Evaluation, Ensemble Techniques, Healthcare Analytics.
+0:{"buildId":"tPKmNtaSBhlQjnI1CEjRC","rsc":["$","$1","c",{"children":[["$","$L2",null,{"maxWidth":"m","paddingTop":"24","children":[["$","$L3",null,{"id":"schema-blogPosting-/work","type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"url\":\"https://rushikeshgholap.com/work\",\"sameAs\":[],\"headline\":\"Work\",\"description\":\"Read about projects, challenges, and solutions in data science and ML.\",\"image\":\"https://rushikeshgholap.com/images/og/home.jpg\",\"author\":{\"@type\":\"Person\",\"name\":\"Rushikesh Gholap\",\"url\":\"https://rushikeshgholap.com/work\",\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://rushikeshgholap.com/images/avatar.jpg\"}}}"}}],["$","h1",null,{"className":"font-heading font-strong font-xl neutral-on-background-strong ml-24 mb-l","style":{"textWrap":"balance"},"children":"Work"}],["$","$L2",null,{"fillWidth":true,"flex":1,"gap":"40","children":[["$","$L4",null,{"s":{"columns":1},"columns":"1","fillWidth":true,"gap":"16","children":[["$","$L5","revolutionizing-diabetes-forecasting",{"post":{"metadata":{"title":"Revolutionizing Diabetes Forecasting","subtitle":"","publishedAt":"2024-04-15","summary":"Developed an advanced deep learning model (MLP) for diabetes risk prediction, achieving 90.79% accuracy.","image":"","images":[],"tag":"Healthcare AI","team":[],"link":""},"slug":"revolutionizing-diabetes-forecasting","content":"$6"},"thumbnail":true}]]}],["$","$L4",null,{"s":{"columns":1},"columns":"2","fillWidth":true,"gap":"16","children":[["$","$L5","boosting-diabetes-prediction",{"post":{"metadata":{"title":"Boosting Diabetes Prediction Accuracy with Machine Learning Ensembles","subtitle":"","publishedAt":"2024-03-01","summary":"Developed an advanced ML system for early diabetes detection, achieving 82.26% accuracy with Random Forest.","image":"","images":[],"tag":"Healthcare AI","team":[],"link":""},"slug":"boosting-diabetes-prediction","content":"$7"},"thumbnail":true,"direction":"column"}],"$L8"]}],"$L9","$La","$Lb"]}]]}],["$Lc"],"$Ld"]}],"loading":null,"isPartial":false}
+e:T740,
+## Role
+
+**Lead and Data Scientist**
+
+## Technologies
+
+OpenCV, Django, Vue.js, PWA (Progressive Web Applications)
+
+## The Challenge
+
+Adani Electricity needed a robust solution to combat meter tampering and streamline their billing operations. The existing manual validation process was time-consuming and prone to human error, leading to revenue leakage and customer dissatisfaction.
+
+## The Solution
+
+I led the development of an AI-powered **Progressive Web Application (PWA)** using **Vue.js** and **Django**, designed to automate the meter reading and validation process. The core of the system is a sophisticated **computer vision model** leveraging **OpenCV**, which I engineered to detect **moiré patterns**—a subtle visual artifact often present in recaptured or tampered images.
+
+To ensure the highest level of accuracy, I implemented a **frequency-based decomposition pipeline** that analyzes the image structure for inconsistencies. The model was rigorously tested and validated using over **50 distinct checks**, including object detection and boundary frame analysis, achieving a **91% accuracy rate** in identifying fraudulent submissions.
+
+## Impact
+
+The deployment of this system marked a significant step in Adani's digital transformation. By automating the validation process, we **streamlined billing operations**, significantly reducing the need for manual intervention and accelerating the billing cycle. This directly improved **revenue integrity** by mitigating losses from fraudulent activities. Furthermore, the user-friendly PWA provided a seamless experience for customers, boosting overall satisfaction and trust in the utility service.
+
+## Key Skills
+
+AI & Machine Learning, Image Processing (OpenCV), Full-Stack Development (Django & Vue.js), PWA Development, Problem-Solving, Process Automation.
+8:["$","$L5","adani-electricity-billing",{"post":{"metadata":{"title":"Adani Electricity Billing System Enhancement","subtitle":"","publishedAt":"2023-08-01","summary":"Developed AI-powered models achieving 91% accuracy in identifying tampered meter reading images.","image":"","images":[],"tag":"Computer Vision","team":[],"link":""},"slug":"adani-electricity-billing","content":"$e"},"thumbnail":true,"direction":"column"}]
+9:["$","$Lf",null,{"marginBottom":"l"}]
+a:["$","h2",null,{"className":"font-heading font-strong font-xl neutral-on-background-strong ml-l","style":{"textWrap":"balance"},"children":"Earlier posts"}]
+10:Tb04,
+## Role
+
+**Senior Data Scientist / Data Science Team Leader**
+
+## Overview
+
+Evolved from an early data scientist to leading the data science division at Markytics. Spearheaded the company’s technological transformation, scaling operations, and fostering a culture of innovation and excellence. Delivered cutting-edge data-driven solutions and established best practices that significantly enhanced the company’s growth and efficiency.
+
+## Key Responsibilities
+
+- **Technical Innovation**: Pioneered the adoption of AWS cloud services, Django for backend development, and Python for advanced data processing. Established CI/CD pipelines, implemented Docker containerization, and utilized Git, enhancing development efficiency by 40% and reducing deployment time by 50%.
+- **Data Science Leadership**: Expanded the data science team from a small group to over 50 professionals. Designed training programs and performance metrics, improving team productivity by 30% and reducing turnover by 20%.
+- **Strategic Project Management**: Directed multiple high-budget projects (over $1M), ensuring alignment with client objectives. Acted as a client liaison, translating complex business requirements into actionable technical strategies, increasing client satisfaction by 25%.
+- **Operational Efficiency**: Automated processes with AWS Lambda, SageMaker, and PostgreSQL, achieving a 35% improvement in efficiency. Scaled systems to handle triple the initial capacity using NVIDIA A10 GPUs, reducing human intervention in routine operations.
+- **Research and Development**: Explored diverse tech stacks (AWS, Google Cloud, Azure) to deliver optimal project solutions. Integrated Power BI to enhance data analytics and provide actionable insights for strategic initiatives.
+
+## Achievements
+
+- **Organizational Impact**: Transitioned Markytics to a data-driven operational model, increasing efficiency by 50% and delivering significant cost savings.
+- **Cultural Development**: Cultivated a collaborative and innovative work culture with real-time problem-solving practices, setting new standards for startup excellence.
+- **Innovation in Data Science**: Built a proprietary ASR model with Whisper and a custom dialog flow system, reducing response times by 60% and setting a benchmark for AI in customer interactions.
+- **Operational Excellence**: Enabled the system to handle five times the initial call volume through automation, improving scalability and reducing dependency on manual interventions.
+
+## Key Skills
+
+Proficiency in Python, Django, AWS, and modern DevOps practices. Leadership in building and managing high-performance teams. Strategic project management with a focus on innovation and efficiency. Expertise in machine learning, natural language processing, and cloud computing.
+b:["$","$L4",null,{"s":{"columns":1},"columns":"2","fillWidth":true,"gap":"16","children":[["$","$L5","markytics-team-leader",{"post":{"metadata":{"title":"Markytics – From Data Scientist to Data Science Team Leader","subtitle":"","publishedAt":"2023-08-01","summary":"Evolved from an early data scientist to leading the data science division, spearheading technological transformation and scaling operations.","image":"","images":[],"tag":"Leadership","team":[],"link":""},"slug":"markytics-team-leader","content":"$10"},"thumbnail":false}],"$L11","$L12","$L13","$L14","$L15","$L16"]}]
+c:["$","script","script-0",{"src":"/_next/static/chunks/77c1917bfce7ffb0.js","async":true}]
+d:["$","$L17",null,{"children":["$","$18",null,{"name":"Next.MetadataOutlet","children":"$@19"}]}]
+1a:T73a,
+## Role
+
+**Data Scientist and ML Ops**
+
+## Technologies
+
+AWS EC2, Django, Python, Aadhaar API, PAN API, CIBIL, Equifax, Machine Learning
+
+## The Challenge
+
+PDB Bank was facing significant delays in their loan approval process, which often took weeks due to manual verification and disparate data sources. This inefficiency led to poor customer satisfaction and increased operational costs. They needed a scalable, automated solution to assess loan eligibility quickly and accurately.
+
+## The Solution
+
+I designed and deployed a comprehensive **data pipeline** capable of processing over **105 parameters** to assess loan eligibility at scale. The system integrates multiple third-party APIs for real-time KYC verification (**Aadhaar**, **PAN**) and credit scoring (**CIBIL**, **Equifax**), ensuring seamless and accurate data retrieval.
+
+To address the challenge of unscored customers, I developed a **dynamic scoring model** leveraging machine learning algorithms that incorporate alternative data points to evaluate creditworthiness. The entire application was deployed on **AWS EC2** to ensure high availability and reliability. Additionally, I built a flexible **admin panel** that allows bank officials to make real-time adjustments to lending criteria, ensuring the system remains adaptable to changing bank policies.
+
+## Impact
+
+The implementation of this system revolutionized the bank's onboarding process. We successfully reduced the loan approval time from **weeks to just 10 minutes**, significantly enhancing customer satisfaction. The automation of checks minimized manual intervention and human error, leading to improved **risk assessment accuracy** and greater operational efficiency.
+
+## Key Skills
+
+Data Pipeline Design, API Integration, Machine Learning, Python, Django, AWS, Automation, Risk Analysis.
+11:["$","$L5","pdb-bank-loan-onboarding",{"post":{"metadata":{"title":"PDB Bank Loan Onboarding System","subtitle":"","publishedAt":"2023-06-15","summary":"Designed a data pipeline processing 105+ parameters to assess loan eligibility, reducing approval time to 10 minutes.","image":"","images":[],"tag":"FinTech","team":[],"link":""},"slug":"pdb-bank-loan-onboarding","content":"$1a"},"thumbnail":false}]
+1b:T689,
+## Role
+
+**Data Scientist**
+
+## Technologies
+
+Django, AWS (EC2, Lambda, CloudWatch), Twilio, WhatsApp API, Google’s MURIL for NLP
+
+## The Challenge
+
+Managing loan collections efficiently was a major hurdle, with language barriers and manual follow-ups slowing down the process. The goal was to improve repayment rates and streamline communication with a diverse borrower base.
+
+## The Solution
+
+I developed an automated communication system using **Twilio** and the **WhatsApp API**, integrated with **Google’s MURIL NLP model** to enable multilingual engagement across **28 languages**. This allowed for personalized and effective communication with borrowers regardless of their native language.
+
+To optimize collection strategies, I built a **borrower risk assessment model** leveraging **DPD (Days Past Due)** analytics to predict payment behavior and mitigate default risk. The system also features **hierarchical dashboards** tailored to different agent levels, providing real-time performance tracking. The entire infrastructure was deployed on **AWS (EC2, Lambda, CloudWatch)** to ensure scalability and robust monitoring.
+
+## Impact
+
+- **Repayment**: Boosted repayment rates and revenue by automating reminders and cross-selling financial products to eligible borrowers.
+- **Efficiency**: Enhanced collection strategies by segmenting borrowers through data-driven risk models.
+- **Engagement**: Personalized, multilingual communication significantly improved borrower engagement and trust.
+
+## Key Skills
+
+NLP (Google’s MURIL), API Integration, Risk Modeling, Django, AWS, Automation, Data Analytics, Multilingual Communication.
+12:["$","$L5","pay-me-loan-management",{"post":{"metadata":{"title":"Pay Me Loan Management Portal","subtitle":"","publishedAt":"2023-04-20","summary":"Automated communication system using Twilio and WhatsApp API, integrating Google’s MURIL NLP model.","image":"","images":[],"tag":"NLP & Automation","team":[],"link":""},"slug":"pay-me-loan-management","content":"$1b"},"thumbnail":false}]
+1c:T73f,
+## Role
+
+**Project Leader / System Architect**
+
+## Technologies
+
+AWS (Lambda, EC2, CloudWatch), Django, Superset, PostgreSQL, Forex API, Airtable, Google Sheets, Amazon SageMaker
+
+## The Challenge
+
+Almavest needed a way to monitor investments across a diverse portfolio of lending vehicles. The existing process relied heavily on manual Excel updates, which were error-prone and time-consuming. Investors lacked real-time visibility into their portfolio health.
+
+## The Solution
+
+I designed and implemented a robust **ETL pipeline** using **AWS Lambda** to automate the extraction, transformation, and loading of data from diverse lending vehicle databases. This ensured accurate processing of loan amortization schedules and repayment statuses. To handle legacy data, I facilitated seamless integration from **Google Sheets** and **Airtable**.
+
+For visualization, I developed a dynamic investment dashboard using **Django** and **Apache Superset**, providing interactive, real-time insights for over **200 lenders**. I also integrated **Forex APIs** to dynamically update exchange rates for international transactions and built an **alert system** to proactively notify investors of any deviations in repayment expectations.
+
+## Impact
+
+- **Automation**: Automated investment tracking processes, reducing manual effort by **70%** and eliminating errors associated with Excel-based methods.
+- **Transparency**: Enhanced transparency and accountability in investment monitoring, improving decision-making through real-time data insights.
+- **Satisfaction**: Increased investor satisfaction by providing tailored alerts and a comprehensive view of portfolio performance.
+
+## Key Skills
+
+ETL Pipeline Design, Cloud Computing (AWS Lambda, EC2), Dashboard Development (Django, Superset), Forex API Integration, Financial Modeling.
+13:["$","$L5","almavest-investment-monitoring",{"post":{"metadata":{"title":"Almavest Investment Monitoring","subtitle":"","publishedAt":"2023-02-10","summary":"Real-time investment dashboard with Django and Superset, offering insights for over 200 lenders.","image":"","images":[],"tag":"Data Engineering","team":[],"link":""},"slug":"almavest-investment-monitoring","content":"$1c"},"thumbnail":false}]
+1d:T748,
+## Role
+
+**Data Engineer**
+
+## Technologies
+
+Python (NumPy, Selenium, PyExcel), AWS (EC2, S3, CloudWatch), Twilio, HTML
+
+## Overview
+
+Engineered a dynamic web scraping solution using Selenium to extract targeted content and images from news outlets and websites like Wikipedia based on user-specified keywords. Developed a scheduling algorithm to periodically check for new content, ensuring timely updates while managing user keyword databases.
+
+## Key Features
+
+- **Scalable Infrastructure**: Utilized AWS S3 and EC2 for secure storage of images and deployment of web scraping scripts, ensuring scalable and reliable system operations.
+- **Personalized Delivery**: Created personalized content summaries with PyExcel for tabular data and hosted user-specific HTML pages on AWS for easy access. Integrated Twilio API to deliver curated content directly to users via WhatsApp, ensuring instant and seamless communication.
+- **Reliability & Monitoring**: Established monitoring mechanisms with AWS CloudWatch to detect and resolve issues in scraping and data transformation processes, ensuring high system reliability.
+
+## Impact
+
+- **Efficiency**: Reduced manual effort by automating content curation and delivery, improving speed and efficiency.
+- **Engagement**: Enhanced user engagement by automating news aggregation and personalization, delivering timely and relevant updates directly to users.
+- **Reach**: Expanded communication channels to include email and SMS, increasing the system's reach and accessibility.
+- **Adaptability**: Demonstrated adaptability through robust web scraping techniques, ensuring uninterrupted service despite frequent changes in source websites.
+
+## Key Skills
+
+Web Scraping (Selenium), Cloud Computing (AWS EC2, S3, CloudWatch), API Integration (Twilio), Python, Data Automation, User Engagement.
+14:["$","$L5","advertising-campaign-management",{"post":{"metadata":{"title":"Advertising Campaign Management System for Markytics","subtitle":"","publishedAt":"2021-05-01","summary":"Engineered a dynamic web scraping solution using Selenium and AWS to automate content curation and delivery.","image":"","images":[],"tag":"Data Engineering","team":[],"link":""},"slug":"advertising-campaign-management","content":"$1d"},"thumbnail":false}]
+1e:T6d1,
+## Role
+
+**Data Engineer and Business Analyst**
+
+## Technologies
+
+Python, Django, PostgreSQL, Pandas, NumPy, PiExcelerate, API Development
+
+## Overview
+
+Collaborated with stakeholders to assess reporting needs, focusing on sales, inventory, and expense categorization, ensuring alignment with business requirements. Designed and implemented an ETL pipeline using Python and Django, automating the extraction, transformation, and loading of sales and inventory data into PostgreSQL databases.
+
+## Key Features
+
+- **Optimized Data Handling**: Optimized data handling by creating strategic database views and selecting specific columns to minimize computational load and enhance efficiency.
+- **Advanced Processing**: Developed advanced data manipulation workflows using Pandas and NumPy, applying complex business logic to generate meaningful insights.
+- **User-Friendly API**: Built a user-friendly API enabling on-demand report generation with customizable formatting (cell merging, highlights, and coloring) using PiExcelerate.
+
+## Impact
+
+- **Efficiency**: Automated report generation, reducing processing time from hours to minutes and significantly improving operational productivity.
+- **Scalability**: Supported scalability by transitioning from manual Excel-based processes to an automated system capable of handling high data volumes.
+- **Decision Making**: Improved decision-making speed by delivering timely, accurate reports tailored to strategic planning needs.
+- **Customization**: Enabled dynamic customization of reports, enhancing usability for diverse business scenarios.
+
+## Key Skills
+
+ETL Pipeline Development, Python, Django, PostgreSQL, Pandas, NumPy, API Design, Data Processing, Automation.
+15:["$","$L5","sales-inventory-report",{"post":{"metadata":{"title":"Sales and Inventory Report Generation ETL Tool for Cipla","subtitle":"","publishedAt":"2020-08-01","summary":"Designed and implemented an ETL pipeline using Python and Django, automating report generation and reducing processing time.","image":"","images":[],"tag":"Data Engineering","team":[],"link":""},"slug":"sales-inventory-report","content":"$1e"},"thumbnail":false}]
+1f:T1003,
+## Project Overview
+
+**Client**: ZUKODO (Banking Promotional Platform)  
+**Role**: Project Lead and ML Engineer  
+**Tech Stack**: Django, Django REST Framework, Redis, Azure, Red Hat OS, Supervisor, Apache, MySQL, CatBoost
+
+Delivered a production-grade API system in **two months**, enabling banks to offer personalized promotions based on ML-predicted customer behavior.
+
+## Business Challenge
+
+Banks struggled with:
+
+- **Low coupon redemption rates**: Generic offers ignored by customers
+- **Integration complexity**: Needed seamless banking app integration
+- **Performance requirements**: Sub-second response times
+- **Personalization gap**: No data-driven offer targeting
+
+## Technical Solution
+
+### 1. ML-Powered Personalization
+
+Implemented **CatBoost** gradient boosting:
+
+- **Customer segmentation**: Behavioral clustering
+- **Redemption prediction**: Likelihood scoring for each offer type
+- **Feature engineering**: Transaction patterns, demographics, past behavior
+- **Model updates**: Weekly retraining on fresh data
+
+### 2. High-Performance API Architecture
+
+Built scalable Django REST API:
+
+- **Redis caching**: 10-day retention of customer-specific offers
+- **Sub-second latency**: Optimized database queries
+- **Concurrent handling**: Support for 1000+ req/sec
+- **Rate limiting**: Protection against abuse
+
+### 3. Enterprise Infrastructure
+
+Deployed on **Azure Cloud**: -**Red Hat Enterprise Linux**: Production-grade OS
+
+- **Supervisor**: Process management and auto-restart
+- **Apache**: Reverse proxy and load balancing
+- **MySQL**: Transactional data store
+
+## ETL Pipeline
+
+```python
+# Example: Customer offer generation pipeline
+class OfferGenerationPipeline:
+    def __init__(self):
+        self.catboost_model = load_model('coupon_redemption.cbm')
+        self.redis_cache = Redis()
+
+    def generate_offers(self, customer_id):
+        # Extract customer features from MySQL
+        customer_data = self.fetch_customer_profile(customer_id)
+        transaction_history = self.fetch_transactions(customer_id, days=90)
+
+        # Feature engineering
+        features = self.engineer_features(customer_data, transaction_history)
+
+        # Predict redemption probability for each offer type
+        offers = []
+        for offer_type in OFFER_CATALOG:
+            score = self.catboost_model.predict_proba(
+                features + offer_type.features
+            )
+            if score > THRESHOLD:
+                offers.append({
+                    'offer_id': offer_type.id,
+                    'score': score,
+                    'expiry': datetime.now() + timedelta(days=10)
+                })
+
+        # Cache in Redis
+        self.redis_cache.setex(
+            f'offers:{customer_id}',
+            864000,  # 10 days
+            json.dumps(offers)
+        )
+
+        return offers
+```
+
+## Key Achievements
+
+✅ **2-month delivery**: Agile development from concept to production  
+✅ **Improved redemption rates**: Data-driven personalization  
+✅ **Customer satisfaction**: Relevant, timely offers  
+✅ **Scalable infrastructure**: Handled growing user base
+
+## API Integration
+
+### Banking App Integration:
+
+```json
+POST /api/v1/offers/generate
+{
+  "customer_id": "CUST123456",
+  "context": "transaction_complete"
+}
+
+Response:
+{
+  "offers": [
+    {
+      "offer_id": "CASHBACK_10",
+      "title": "10% Cashback on Groceries",
+      "expiry": "2024-12-15T00:00:00Z",
+      "redemption_score": 0.87
+    }
+  ]
+}
+```
+
+## Project Management Highlights
+
+- **Cross-functional collaboration**: Coordinated with banking, marketing, and tech teams
+- **Agile methodology**: Weekly sprints with demo-driven development
+- **Stakeholder communication**: Regular updates to business stakeholders
+- **Timeline delivery**: Met aggressive 2-month deadline
+
+## Skills Demonstrated
+
+API Development (Django REST) | Machine Learning (CatBoost) | Redis Caching | Azure Cloud Deployment | Data Processing (MySQL) | Scalable Architecture | Project Management
+16:["$","$L5","zukodo-coupon-generation",{"post":{"metadata":{"title":"Personalized Banking Promotions with ML-Powered Coupon Generation","subtitle":"","publishedAt":"2020-05-01","summary":"Led development of a scalable coupon generation system using CatBoost ML models and Redis caching, delivering personalized offers and improving redemption rates through predictive analytics.","image":"","images":["/images/projects/project-01/cover.jpg"],"tag":[],"team":[{"name":"Rushikesh Gholap","role":"Project Lead & ML Engineer","avatar":"/images/avatar.jpg"}],"link":""},"slug":"zukodo-coupon-generation","content":"$1f"},"thumbnail":false}]
+19:null

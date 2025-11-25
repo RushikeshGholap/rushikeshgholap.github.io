@@ -1,226 +1,86 @@
 1:"$Sreact.fragment"
-2:I[778454,["/_next/static/chunks/81b5c1b11c03b807.js","/_next/static/chunks/d2078a46fdcc20d6.js","/_next/static/chunks/fc29b87413361a50.js","/_next/static/chunks/f549c5351125e69c.js","/_next/static/chunks/136acffeffc44697.js","/_next/static/chunks/2caa9e5cd124434c.js"],"Row"]
-3:I[273323,["/_next/static/chunks/81b5c1b11c03b807.js","/_next/static/chunks/d2078a46fdcc20d6.js","/_next/static/chunks/fc29b87413361a50.js","/_next/static/chunks/f549c5351125e69c.js","/_next/static/chunks/136acffeffc44697.js","/_next/static/chunks/2caa9e5cd124434c.js"],"Column"]
-4:I[479520,["/_next/static/chunks/81b5c1b11c03b807.js","/_next/static/chunks/d2078a46fdcc20d6.js","/_next/static/chunks/fc29b87413361a50.js","/_next/static/chunks/f549c5351125e69c.js","/_next/static/chunks/136acffeffc44697.js","/_next/static/chunks/2caa9e5cd124434c.js"],""]
-5:I[624379,["/_next/static/chunks/81b5c1b11c03b807.js","/_next/static/chunks/d2078a46fdcc20d6.js","/_next/static/chunks/fc29b87413361a50.js","/_next/static/chunks/f549c5351125e69c.js","/_next/static/chunks/136acffeffc44697.js","/_next/static/chunks/2caa9e5cd124434c.js"],"SmartLink"]
-6:I[145250,["/_next/static/chunks/81b5c1b11c03b807.js","/_next/static/chunks/d2078a46fdcc20d6.js","/_next/static/chunks/fc29b87413361a50.js","/_next/static/chunks/f549c5351125e69c.js","/_next/static/chunks/136acffeffc44697.js","/_next/static/chunks/2caa9e5cd124434c.js"],"Avatar"]
-7:I[811052,["/_next/static/chunks/81b5c1b11c03b807.js","/_next/static/chunks/d2078a46fdcc20d6.js","/_next/static/chunks/fc29b87413361a50.js","/_next/static/chunks/f549c5351125e69c.js","/_next/static/chunks/136acffeffc44697.js","/_next/static/chunks/2caa9e5cd124434c.js"],"HeadingLink"]
-8:I[436122,["/_next/static/chunks/81b5c1b11c03b807.js","/_next/static/chunks/d2078a46fdcc20d6.js","/_next/static/chunks/fc29b87413361a50.js","/_next/static/chunks/f549c5351125e69c.js","/_next/static/chunks/136acffeffc44697.js","/_next/static/chunks/2caa9e5cd124434c.js"],"List"]
-9:I[626935,["/_next/static/chunks/81b5c1b11c03b807.js","/_next/static/chunks/d2078a46fdcc20d6.js","/_next/static/chunks/fc29b87413361a50.js","/_next/static/chunks/f549c5351125e69c.js","/_next/static/chunks/136acffeffc44697.js","/_next/static/chunks/2caa9e5cd124434c.js"],"ListItem"]
-25:I[597784,["/_next/static/chunks/81b5c1b11c03b807.js","/_next/static/chunks/d2078a46fdcc20d6.js","/_next/static/chunks/fc29b87413361a50.js","/_next/static/chunks/f549c5351125e69c.js","/_next/static/chunks/136acffeffc44697.js","/_next/static/chunks/2caa9e5cd124434c.js"],"CodeBlock"]
-26:I[448588,["/_next/static/chunks/81b5c1b11c03b807.js","/_next/static/chunks/d2078a46fdcc20d6.js","/_next/static/chunks/fc29b87413361a50.js","/_next/static/chunks/f549c5351125e69c.js","/_next/static/chunks/136acffeffc44697.js","/_next/static/chunks/2caa9e5cd124434c.js"],"ShareSection"]
-27:I[696470,["/_next/static/chunks/81b5c1b11c03b807.js","/_next/static/chunks/d2078a46fdcc20d6.js","/_next/static/chunks/fc29b87413361a50.js","/_next/static/chunks/f549c5351125e69c.js","/_next/static/chunks/136acffeffc44697.js","/_next/static/chunks/2caa9e5cd124434c.js"],"ClientGrid"]
-28:I[814360,["/_next/static/chunks/81b5c1b11c03b807.js","/_next/static/chunks/d2078a46fdcc20d6.js","/_next/static/chunks/fc29b87413361a50.js","/_next/static/chunks/f549c5351125e69c.js","/_next/static/chunks/136acffeffc44697.js","/_next/static/chunks/2caa9e5cd124434c.js"],"default"]
-2b:I[988654,["/_next/static/chunks/81b5c1b11c03b807.js","/_next/static/chunks/d2078a46fdcc20d6.js","/_next/static/chunks/fc29b87413361a50.js","/_next/static/chunks/f549c5351125e69c.js","/_next/static/chunks/136acffeffc44697.js","/_next/static/chunks/2caa9e5cd124434c.js"],"ScrollToHash"]
-2c:I[141118,["/_next/static/chunks/81b5c1b11c03b807.js","/_next/static/chunks/d2078a46fdcc20d6.js","/_next/static/chunks/fc29b87413361a50.js","/_next/static/chunks/f549c5351125e69c.js","/_next/static/chunks/136acffeffc44697.js","/_next/static/chunks/2caa9e5cd124434c.js"],"Icon"]
-2d:I[605649,["/_next/static/chunks/81b5c1b11c03b807.js","/_next/static/chunks/d2078a46fdcc20d6.js","/_next/static/chunks/fc29b87413361a50.js","/_next/static/chunks/f549c5351125e69c.js","/_next/static/chunks/136acffeffc44697.js","/_next/static/chunks/2caa9e5cd124434c.js"],"HeadingNav"]
-2e:I[897367,["/_next/static/chunks/d96012bcfc98706a.js","/_next/static/chunks/d80b3790a119a285.js"],"OutletBoundary"]
-2f:"$Sreact.suspense"
-0:{"buildId":"dPJzWQ_C_B4RoX6ZW8Mgj","rsc":["$","$1","c",{"children":[["$","$L2",null,{"fillWidth":true,"children":[["$","$L2",null,{"maxWidth":12,"m":{"hide":true}}],["$","$L2",null,{"fillWidth":true,"horizontal":"center","children":["$","$L3",null,{"as":"section","maxWidth":"m","horizontal":"center","gap":"l","paddingTop":"24","children":[["$","$L4",null,{"id":"schema-blogPosting-/blog/pay-me-loan-management","type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"url\":\"https://rushikeshgholap.com/blog/pay-me-loan-management\",\"sameAs\":[],\"headline\":\"Multilingual Loan Collection: NLP Across 28 Languages\",\"description\":\"Built an automated loan collection system using Google's MURIL NLP model for multilingual engagement, boosting repayment rates by 37% through intelligent risk modeling and personalized communication.\",\"image\":\"https://rushikeshgholap.com/api/og/generate?title=Multilingual%20Loan%20Collection%3A%20NLP%20Across%2028%20Languages\",\"datePublished\":\"2020-11-01\",\"dateModified\":\"2020-11-01\",\"author\":{\"@type\":\"Person\",\"name\":\"Rushikesh Gholap\",\"url\":\"https://rushikeshgholap.com/about\",\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://rushikeshgholap.com/images/avatar.jpg\"}}}"}}],["$","$L3",null,{"maxWidth":"s","gap":"16","horizontal":"center","align":"center","children":[["$","$L5",null,{"href":"/blog","children":["$","span",null,{"className":"font-label font-strong font-m","style":{},"children":"Blog"}]}],["$","span",null,{"className":"font-body font-default font-xs neutral-on-background-weak mb-12","style":{},"children":"November 1, 2020"}],["$","h1",null,{"className":"font-display font-strong font-m neutral-on-background-strong","style":{"textWrap":"balance"},"children":"Multilingual Loan Collection: NLP Across 28 Languages"}],""]}],["$","$L2",null,{"marginBottom":"32","horizontal":"center","children":["$","$L2",null,{"gap":"16","vertical":"center","children":[["$","$L6",null,{"size":"s","src":"/images/avatar.jpg"}],["$","span",null,{"className":"font-label font-default font-m brand-on-background-weak","style":{},"children":"Rushikesh Gholap"}]]}]}],"",["$","$L3",null,{"as":"article","maxWidth":"s","children":[["$","$L7",null,{"marginTop":"24","marginBottom":"12","as":"h2","id":"project-overview","children":"Project Overview"}],"\n",["$","span",null,{"className":"font-body font-default font-m neutral-on-background-medium mt-8 mb-12","style":{"lineHeight":"175%"},"children":[["$","strong",null,{"children":"Client"}],": Pay Me (Loan Collection Platform)",["$","br",null,{}],"\n",["$","strong",null,{"children":"Role"}],": Data Scientist",["$","br",null,{}],"\n",["$","strong",null,{"children":"Tech Stack"}],": Django, AWS (EC2, Lambda, CloudWatch), Twilio, WhatsApp API, Google's MURIL for NLP"]}],"\n",["$","span",null,{"className":"font-body font-default font-m neutral-on-background-medium mt-8 mb-12","style":{"lineHeight":"175%"},"children":"Revolutionized loan collection through AI-powered multilingual communication and predictive risk modeling."}],"\n",["$","$L7",null,{"marginTop":"24","marginBottom":"12","as":"h2","id":"the-challenge","children":"The Challenge"}],"\n",["$","span",null,{"className":"font-body font-default font-m neutral-on-background-medium mt-8 mb-12","style":{"lineHeight":"175%"},"children":"Traditional loan collection faced:"}],"\n",["$","$L8",null,{"children":["\n",["$","$L9",null,{"marginTop":"4","marginBottom":"8","style":{"lineHeight":"175%"},"children":[["$","strong",null,{"children":"Language barriers"}],": Borrowers spoke 28+ regional languages"]}],"\n",["$","$L9",null,{"marginTop":"4","marginBottom":"8","style":{"lineHeight":"175%"},"children":[["$","strong",null,{"children":"Generic outreach"}],": One-size-fits-all messaging ineffective"]}],"\n",["$","$L9",null,{"marginTop":"4","marginBottom":"8","style":{"lineHeight":"175%"},"children":[["$","strong",null,{"children":"Manual tracking"}],": Agents overwhelmed with data"]}],"\n",["$","$L9",null,{"marginTop":"4","marginBottom":"8","style":{"lineHeight":"175%"},"children":[["$","strong",null,{"children":"Low recovery rates"}],": Poor prediction of payment behavior"]}],"\n"]}],"\n",["$","$L7",null,{"marginTop":"24","marginBottom":"12","as":"h2","id":"solution-architecture","children":"Solution Architecture"}],"\n","$La","\n","$Lb","\n","$Lc","\n","$Ld","\n","$Le","\n","$Lf","\n","$L10","\n","$L11","\n","$L12","\n","$L13","\n","$L14","\n","$L15","\n","$L16","\n","$L17","\n","$L18","\n","$L19","\n","$L1a","\n","$L1b","\n","$L1c","\n","$L1d","\n","$L1e"]}],"$L1f","$L20","$L21"]}]}],"$L22"]}],["$L23"],"$L24"]}],"loading":null,"isPartial":false}
-a:["$","$L7",null,{"marginTop":"24","marginBottom":"12","as":"h3","id":"1.-multilingual-nlp-engine","children":"1. Multilingual NLP Engine"}]
-b:["$","span",null,{"className":"font-body font-default font-m neutral-on-background-medium mt-8 mb-12","style":{"lineHeight":"175%"},"children":["Leveraged ",["$","strong",null,{"children":"Google's MURIL"}]," (Multilingual Representations for Indian Languages):"]}]
-c:["$","$L8",null,{"children":["\n",["$","$L9",null,{"marginTop":"4","marginBottom":"8","style":{"lineHeight":"175%"},"children":[["$","strong",null,{"children":"28 languages supported"}],": Hindi, Tamil, Telugu, Bengali, Marathi, etc."]}],"\n",["$","$L9",null,{"marginTop":"4","marginBottom":"8","style":{"lineHeight":"175%"},"children":[["$","strong",null,{"children":"Context-aware messaging"}],": Culturally appropriate communication"]}],"\n",["$","$L9",null,{"marginTop":"4","marginBottom":"8","style":{"lineHeight":"175%"},"children":[["$","strong",null,{"children":"Sentiment analysis"}],": Detected borrower stress signals"]}],"\n",["$","$L9",null,{"marginTop":"4","marginBottom":"8","style":{"lineHeight":"175%"},"children":[["$","strong",null,{"children":"Intent classification"}],": Understood payment commitment vs. excuses"]}],"\n"]}]
-d:["$","$L7",null,{"marginTop":"24","marginBottom":"12","as":"h3","id":"2.-dpd-based-risk-modeling","children":"2. DPD-Based Risk Modeling"}]
-e:["$","span",null,{"className":"font-body font-default font-m neutral-on-background-medium mt-8 mb-12","style":{"lineHeight":"175%"},"children":["Built predictive analytics on ",["$","strong",null,{"children":"Days Past Due (DPD)"}],":"]}]
-f:["$","$L8",null,{"children":["\n",["$","$L9",null,{"marginTop":"4","marginBottom":"8","style":{"lineHeight":"175%"},"children":[["$","strong",null,{"children":"Payment behavior patterns"}],": Identified high-risk borrowers early"]}],"\n",["$","$L9",null,{"marginTop":"4","marginBottom":"8","style":{"lineHeight":"175%"},"children":[["$","strong",null,{"children":"Segmentation"}],": Prioritized collection efforts"]}],"\n",["$","$L9",null,{"marginTop":"4","marginBottom":"8","style":{"lineHeight":"175%"},"children":[["$","strong",null,{"children":"Recovery probability"}],": Predicted likelihood of payment"]}],"\n",["$","$L9",null,{"marginTop":"4","marginBottom":"8","style":{"lineHeight":"175%"},"children":[["$","strong",null,{"children":"Portfolio optimization"}],": Allocated agent resources efficiently"]}],"\n"]}]
-10:["$","$L7",null,{"marginTop":"24","marginBottom":"12","as":"h3","id":"3.-automated-communication-system","children":"3. Automated Communication System"}]
-11:["$","span",null,{"className":"font-body font-default font-m neutral-on-background-medium mt-8 mb-12","style":{"lineHeight":"175%"},"children":["Integrated ",["$","strong",null,{"children":"Twilio + WhatsApp API"}],":"]}]
-12:["$","$L8",null,{"children":["\n",["$","$L9",null,{"marginTop":"4","marginBottom":"8","style":{"lineHeight":"175%"},"children":[["$","strong",null,{"children":"Automated reminders"}],": Timely payment notifications"]}],"\n",["$","$L9",null,{"marginTop":"4","marginBottom":"8","style":{"lineHeight":"175%"},"children":[["$","strong",null,{"children":"Personalized messages"}],": Based on borrower profile and history"]}],"\n",["$","$L9",null,{"marginTop":"4","marginBottom":"8","style":{"lineHeight":"175%"},"children":[["$","strong",null,{"children":"Two-way conversations"}],": Natural language interaction"]}],"\n",["$","$L9",null,{"marginTop":"4","marginBottom":"8","style":{"lineHeight":"175%"},"children":[["$","strong",null,{"children":"Cross-selling"}],": Offered financial products to eligible customers"]}],"\n"]}]
-13:["$","$L7",null,{"marginTop":"24","marginBottom":"12","as":"h2","id":"technical-implementation","children":"Technical Implementation"}]
-14:["$","$L25",null,{"marginTop":"8","marginBottom":"16","codes":[{"code":"# Example: Multilingual message generation with MURIL\r\nclass MultilingualMessenger:\r\n    def __init__(self):\r\n        self.muril_model = load_muril_model()\r\n        self.message_templates = load_templates()\r\n\r\n    def generate_message(self, borrower):\r\n        # Detect borrower's preferred language\r\n        language = borrower.preferred_language\r\n\r\n        # Get DPD-based risk score\r\n        risk_score = self.calculate_risk(borrower.dpd_history)\r\n\r\n        # Select appropriate message strategy\r\n        if risk_score > 0.7:  # High risk\r\n            template = self.message_templates['urgent'][language]\r\n        else:\r\n            template = self.message_templates['friendly'][language]\r\n\r\n        # Generate personalized message using MURIL\r\n        message = self.muril_model.generate(\r\n            template=template,\r\n            context=borrower.to_dict(),\r\n            tone='respectful',\r\n            language=language\r\n        )\r\n\r\n        return message\n","language":"python","label":"Python"}],"copyButton":true}]
-15:["$","$L7",null,{"marginTop":"24","marginBottom":"12","as":"h2","id":"hierarchical-dashboards","children":"Hierarchical Dashboards"}]
-16:["$","span",null,{"className":"font-body font-default font-m neutral-on-background-medium mt-8 mb-12","style":{"lineHeight":"175%"},"children":"Created role-specific views:"}]
-17:["$","$L8",null,{"children":["\n",["$","$L9",null,{"marginTop":"4","marginBottom":"8","style":{"lineHeight":"175%"},"children":[["$","strong",null,{"children":"Agent Dashboard"}],": Daily collection targets, borrower lists, call logs"]}],"\n",["$","$L9",null,{"marginTop":"4","marginBottom":"8","style":{"lineHeight":"175%"},"children":[["$","strong",null,{"children":"Manager Dashboard"}],": Team performance, recovery rates, portfolio health"]}],"\n",["$","$L9",null,{"marginTop":"4","marginBottom":"8","style":{"lineHeight":"175%"},"children":[["$","strong",null,{"children":"Executive Dashboard"}],": Strategic metrics, trends, forecasts"]}],"\n"]}]
-18:["$","$L7",null,{"marginTop":"24","marginBottom":"12","as":"h2","id":"key-results","children":"Key Results"}]
-19:["$","$L8",null,{"children":["\n",["$","$L9",null,{"marginTop":"4","marginBottom":"8","style":{"lineHeight":"175%"},"children":[["$","strong",null,{"children":"37% improvement"}]," in loan repayment rates"]}],"\n",["$","$L9",null,{"marginTop":"4","marginBottom":"8","style":{"lineHeight":"175%"},"children":[["$","strong",null,{"children":"Boosted revenue"}]," through better collections"]}],"\n",["$","$L9",null,{"marginTop":"4","marginBottom":"8","style":{"lineHeight":"175%"},"children":[["$","strong",null,{"children":"Reduced defaults"}]," via early intervention"]}],"\n",["$","$L9",null,{"marginTop":"4","marginBottom":"8","style":{"lineHeight":"175%"},"children":[["$","strong",null,{"children":"Enhanced engagement"}]," with personalized, multilingual outreach"]}],"\n"]}]
-1a:["$","$L7",null,{"marginTop":"24","marginBottom":"12","as":"h2","id":"aws-infrastructure","children":"AWS Infrastructure"}]
-1b:["$","span",null,{"className":"font-body font-default font-m neutral-on-background-medium mt-8 mb-12","style":{"lineHeight":"175%"},"children":"Deployed scalable architecture:"}]
-1c:["$","$L8",null,{"children":["\n",["$","$L9",null,{"marginTop":"4","marginBottom":"8","style":{"lineHeight":"175%"},"children":[["$","strong",null,{"children":"EC2"}],": Application hosting"]}],"\n",["$","$L9",null,{"marginTop":"4","marginBottom":"8","style":{"lineHeight":"175%"},"children":[["$","strong",null,{"children":"Lambda"}],": Serverless message processing"]}],"\n",["$","$L9",null,{"marginTop":"4","marginBottom":"8","style":{"lineHeight":"175%"},"children":[["$","strong",null,{"children":"CloudWatch"}],": Real-time monitoring and alerting"]}],"\n",["$","$L9",null,{"marginTop":"4","marginBottom":"8","style":{"lineHeight":"175%"},"children":[["$","strong",null,{"children":"S3"}],": Data lake for analytics"]}],"\n"]}]
-1d:["$","$L7",null,{"marginTop":"24","marginBottom":"12","as":"h2","id":"skills-demonstrated","children":"Skills Demonstrated"}]
-1e:["$","span",null,{"className":"font-body font-default font-m neutral-on-background-medium mt-8 mb-12","style":{"lineHeight":"175%"},"children":"NLP (Google's MURIL) | API Integration | Risk Modeling | Django | AWS | Automation | Data Analytics | Multilingual Communication"}]
-1f:["$","$L26",null,{"title":"Multilingual Loan Collection: NLP Across 28 Languages","url":"https://rushikeshgholap.com/blog/pay-me-loan-management"}]
-29:Tb46,
-## Project Overview
+2:I[778454,["/_next/static/chunks/5123f4de65787cb9.js","/_next/static/chunks/136acffeffc44697.js","/_next/static/chunks/d2078a46fdcc20d6.js","/_next/static/chunks/f549c5351125e69c.js","/_next/static/chunks/f29ebb1246781321.js","/_next/static/chunks/dcd823ab7c8835f6.js","/_next/static/chunks/2caa9e5cd124434c.js"],"Row"]
+3:I[273323,["/_next/static/chunks/5123f4de65787cb9.js","/_next/static/chunks/136acffeffc44697.js","/_next/static/chunks/d2078a46fdcc20d6.js","/_next/static/chunks/f549c5351125e69c.js","/_next/static/chunks/f29ebb1246781321.js","/_next/static/chunks/dcd823ab7c8835f6.js","/_next/static/chunks/2caa9e5cd124434c.js"],"Column"]
+4:I[479520,["/_next/static/chunks/5123f4de65787cb9.js","/_next/static/chunks/136acffeffc44697.js","/_next/static/chunks/d2078a46fdcc20d6.js","/_next/static/chunks/f549c5351125e69c.js","/_next/static/chunks/f29ebb1246781321.js","/_next/static/chunks/dcd823ab7c8835f6.js","/_next/static/chunks/2caa9e5cd124434c.js"],""]
+5:I[624379,["/_next/static/chunks/5123f4de65787cb9.js","/_next/static/chunks/136acffeffc44697.js","/_next/static/chunks/d2078a46fdcc20d6.js","/_next/static/chunks/f549c5351125e69c.js","/_next/static/chunks/f29ebb1246781321.js","/_next/static/chunks/dcd823ab7c8835f6.js","/_next/static/chunks/2caa9e5cd124434c.js"],"SmartLink"]
+6:I[145250,["/_next/static/chunks/5123f4de65787cb9.js","/_next/static/chunks/136acffeffc44697.js","/_next/static/chunks/d2078a46fdcc20d6.js","/_next/static/chunks/f549c5351125e69c.js","/_next/static/chunks/f29ebb1246781321.js","/_next/static/chunks/dcd823ab7c8835f6.js","/_next/static/chunks/2caa9e5cd124434c.js"],"Avatar"]
+7:I[811052,["/_next/static/chunks/5123f4de65787cb9.js","/_next/static/chunks/136acffeffc44697.js","/_next/static/chunks/d2078a46fdcc20d6.js","/_next/static/chunks/f549c5351125e69c.js","/_next/static/chunks/f29ebb1246781321.js","/_next/static/chunks/dcd823ab7c8835f6.js","/_next/static/chunks/2caa9e5cd124434c.js"],"HeadingLink"]
+15:I[436122,["/_next/static/chunks/5123f4de65787cb9.js","/_next/static/chunks/136acffeffc44697.js","/_next/static/chunks/d2078a46fdcc20d6.js","/_next/static/chunks/f549c5351125e69c.js","/_next/static/chunks/f29ebb1246781321.js","/_next/static/chunks/dcd823ab7c8835f6.js","/_next/static/chunks/2caa9e5cd124434c.js"],"List"]
+16:I[626935,["/_next/static/chunks/5123f4de65787cb9.js","/_next/static/chunks/136acffeffc44697.js","/_next/static/chunks/d2078a46fdcc20d6.js","/_next/static/chunks/f549c5351125e69c.js","/_next/static/chunks/f29ebb1246781321.js","/_next/static/chunks/dcd823ab7c8835f6.js","/_next/static/chunks/2caa9e5cd124434c.js"],"ListItem"]
+17:I[448588,["/_next/static/chunks/5123f4de65787cb9.js","/_next/static/chunks/136acffeffc44697.js","/_next/static/chunks/d2078a46fdcc20d6.js","/_next/static/chunks/f549c5351125e69c.js","/_next/static/chunks/f29ebb1246781321.js","/_next/static/chunks/dcd823ab7c8835f6.js","/_next/static/chunks/2caa9e5cd124434c.js"],"ShareSection"]
+18:I[696470,["/_next/static/chunks/5123f4de65787cb9.js","/_next/static/chunks/136acffeffc44697.js","/_next/static/chunks/d2078a46fdcc20d6.js","/_next/static/chunks/f549c5351125e69c.js","/_next/static/chunks/f29ebb1246781321.js","/_next/static/chunks/dcd823ab7c8835f6.js","/_next/static/chunks/2caa9e5cd124434c.js"],"ClientGrid"]
+19:I[814360,["/_next/static/chunks/5123f4de65787cb9.js","/_next/static/chunks/136acffeffc44697.js","/_next/static/chunks/d2078a46fdcc20d6.js","/_next/static/chunks/f549c5351125e69c.js","/_next/static/chunks/f29ebb1246781321.js","/_next/static/chunks/dcd823ab7c8835f6.js","/_next/static/chunks/2caa9e5cd124434c.js"],"default"]
+1c:I[988654,["/_next/static/chunks/5123f4de65787cb9.js","/_next/static/chunks/136acffeffc44697.js","/_next/static/chunks/d2078a46fdcc20d6.js","/_next/static/chunks/f549c5351125e69c.js","/_next/static/chunks/f29ebb1246781321.js","/_next/static/chunks/dcd823ab7c8835f6.js","/_next/static/chunks/2caa9e5cd124434c.js"],"ScrollToHash"]
+1d:I[605649,["/_next/static/chunks/5123f4de65787cb9.js","/_next/static/chunks/136acffeffc44697.js","/_next/static/chunks/d2078a46fdcc20d6.js","/_next/static/chunks/f549c5351125e69c.js","/_next/static/chunks/f29ebb1246781321.js","/_next/static/chunks/dcd823ab7c8835f6.js","/_next/static/chunks/2caa9e5cd124434c.js"],"HeadingNav"]
+1e:I[897367,["/_next/static/chunks/d96012bcfc98706a.js","/_next/static/chunks/d80b3790a119a285.js"],"OutletBoundary"]
+1f:"$Sreact.suspense"
+0:{"buildId":"ea6Dev-tfoqNg3r2AmEdI","rsc":["$","$1","c",{"children":[["$","$L2",null,{"fillWidth":true,"children":[["$","$L2",null,{"maxWidth":12,"m":{"hide":true}}],["$","$L2",null,{"fillWidth":true,"horizontal":"center","children":["$","$L3",null,{"as":"section","maxWidth":"m","horizontal":"center","gap":"l","paddingTop":"24","children":[["$","$L4",null,{"id":"schema-blogPosting-/blog/pay-me-loan-management","type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"url\":\"https://rushikeshgholap.com/blog/pay-me-loan-management\",\"sameAs\":[],\"headline\":\"Pay Me Loan Management Portal\",\"description\":\"Automated communication system using Twilio and WhatsApp API, integrating Google’s MURIL NLP model.\",\"image\":\"https://rushikeshgholap.com/api/og/generate?title=Pay%20Me%20Loan%20Management%20Portal\",\"datePublished\":\"2023-04-20\",\"dateModified\":\"2023-04-20\",\"author\":{\"@type\":\"Person\",\"name\":\"Rushikesh Gholap\",\"url\":\"https://rushikeshgholap.com/about\",\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://rushikeshgholap.com/images/avatar.jpg\"}}}"}}],["$","$L3",null,{"maxWidth":"s","gap":"16","horizontal":"center","align":"center","children":[["$","$L5",null,{"href":"/blog","children":["$","span",null,{"className":"font-label font-strong font-m","style":{},"children":"Blog"}]}],["$","span",null,{"className":"font-body font-default font-xs neutral-on-background-weak mb-12","style":{},"children":"April 20, 2023"}],["$","h1",null,{"className":"font-display font-strong font-m neutral-on-background-strong","style":{"textWrap":"balance"},"children":"Pay Me Loan Management Portal"}],""]}],["$","$L2",null,{"marginBottom":"32","horizontal":"center","children":["$","$L2",null,{"gap":"16","vertical":"center","children":[["$","$L6",null,{"size":"s","src":"/images/avatar.jpg"}],["$","span",null,{"className":"font-label font-default font-m brand-on-background-weak","style":{},"children":"Rushikesh Gholap"}]]}]}],"",["$","$L3",null,{"as":"article","maxWidth":"s","children":[["$","$L7",null,{"marginTop":"24","marginBottom":"12","as":"h2","id":"role","children":"Role"}],"\n",["$","span",null,{"className":"font-body font-default font-m neutral-on-background-medium mt-8 mb-12","style":{"lineHeight":"175%"},"children":["$","strong",null,{"children":"Data Scientist"}]}],"\n",["$","$L7",null,{"marginTop":"24","marginBottom":"12","as":"h2","id":"technologies","children":"Technologies"}],"\n",["$","span",null,{"className":"font-body font-default font-m neutral-on-background-medium mt-8 mb-12","style":{"lineHeight":"175%"},"children":"Django, AWS (EC2, Lambda, CloudWatch), Twilio, WhatsApp API, Google’s MURIL for NLP"}],"\n",["$","$L7",null,{"marginTop":"24","marginBottom":"12","as":"h2","id":"the-challenge","children":"The Challenge"}],"\n",["$","span",null,{"className":"font-body font-default font-m neutral-on-background-medium mt-8 mb-12","style":{"lineHeight":"175%"},"children":"Managing loan collections efficiently was a major hurdle, with language barriers and manual follow-ups slowing down the process. The goal was to improve repayment rates and streamline communication with a diverse borrower base."}],"\n",["$","$L7",null,{"marginTop":"24","marginBottom":"12","as":"h2","id":"the-solution","children":"The Solution"}],"\n",["$","span",null,{"className":"font-body font-default font-m neutral-on-background-medium mt-8 mb-12","style":{"lineHeight":"175%"},"children":["I developed an automated communication system using ",["$","strong",null,{"children":"Twilio"}]," and the ",["$","strong",null,{"children":"WhatsApp API"}],", integrated with ",["$","strong",null,{"children":"Google’s MURIL NLP model"}]," to enable multilingual engagement across ",["$","strong",null,{"children":"28 languages"}],". This allowed for personalized and effective communication with borrowers regardless of their native language."]}],"\n",["$","span",null,{"className":"font-body font-default font-m neutral-on-background-medium mt-8 mb-12","style":{"lineHeight":"175%"},"children":["To optimize collection strategies, I built a ",["$","strong",null,{"children":"borrower risk assessment model"}]," leveraging ","$L8"," analytics to predict payment behavior and mitigate default risk. The system also features ","$L9"," tailored to different agent levels, providing real-time performance tracking. The entire infrastructure was deployed on ","$La"," to ensure scalability and robust monitoring."]}],"\n","$Lb","\n","$Lc","\n","$Ld","\n","$Le"]}],"$Lf","$L10","$L11"]}]}],"$L12"]}],["$L13"],"$L14"]}],"loading":null,"isPartial":false}
+8:["$","strong",null,{"children":"DPD (Days Past Due)"}]
+9:["$","strong",null,{"children":"hierarchical dashboards"}]
+a:["$","strong",null,{"children":"AWS (EC2, Lambda, CloudWatch)"}]
+b:["$","$L7",null,{"marginTop":"24","marginBottom":"12","as":"h2","id":"impact","children":"Impact"}]
+c:["$","$L15",null,{"children":["\n",["$","$L16",null,{"marginTop":"4","marginBottom":"8","style":{"lineHeight":"175%"},"children":[["$","strong",null,{"children":"Repayment"}],": Boosted repayment rates and revenue by automating reminders and cross-selling financial products to eligible borrowers."]}],"\n",["$","$L16",null,{"marginTop":"4","marginBottom":"8","style":{"lineHeight":"175%"},"children":[["$","strong",null,{"children":"Efficiency"}],": Enhanced collection strategies by segmenting borrowers through data-driven risk models."]}],"\n",["$","$L16",null,{"marginTop":"4","marginBottom":"8","style":{"lineHeight":"175%"},"children":[["$","strong",null,{"children":"Engagement"}],": Personalized, multilingual communication significantly improved borrower engagement and trust."]}],"\n"]}]
+d:["$","$L7",null,{"marginTop":"24","marginBottom":"12","as":"h2","id":"key-skills","children":"Key Skills"}]
+e:["$","span",null,{"className":"font-body font-default font-m neutral-on-background-medium mt-8 mb-12","style":{"lineHeight":"175%"},"children":"NLP (Google’s MURIL), API Integration, Risk Modeling, Django, AWS, Automation, Data Analytics, Multilingual Communication."}]
+f:["$","$L17",null,{"title":"Pay Me Loan Management Portal","url":"https://rushikeshgholap.com/blog/pay-me-loan-management"}]
+1a:T520,
+## Objective
 
-**Client**: Adani Electricity  
-**Role**: Lead Data Scientist  
-**Tech Stack**: OpenCV, Django, Vue.js, PWA (Progressive Web Applications), Keras, TensorFlow
+To develop an advanced deep learning model for predicting diabetes risk, enhancing early detection and personalized healthcare interventions.
 
-Developed an AI-powered system to combat billing fraud by automatically detecting tampered or recaptured meter reading images submitted by customers.
+## The Solution
 
-## The Challenge
+I implemented a **Multi-Layer Perceptron (MLP)** architecture with **Xavier Initialization** and **Adam optimization** to ensure stable gradient flow and adaptive learning rates. The model was trained on a dataset of **20,000+ health records**, analyzing critical features such as Age, BMI, Blood Pressure, and Cholesterol Levels.
 
-Utility companies face significant revenue losses from fraudulent meter readings. Traditional manual verification was:
-
-- **Time-consuming**: Required human review of thousands of images
-- **Error-prone**: Difficult to spot subtle tampering techniques
-- **Scalable issues**: Couldn't handle growing customer base
-
-## Technical Solution
-
-### 1. Frequency-Based Decomposition Pipeline
-
-Implemented advanced image processing to detect **Moiré patterns** - telltale signs of screen-captured images:
-
-- Applied **Fourier Transform** analysis to identify frequency anomalies
-- Detected periodic interference patterns invisible to human eye
-- Achieved **91% accuracy** in tampering detection
-
-### 2. Multi-CNN Architecture
-
-Built ensemble model combining:
-
-- **OpenCV** for preprocessing and feature extraction
-- **PIL** for image manipulation
-- **Keras + TensorFlow** for deep learning classification
-- Validated with **50+ automated checks** including object detection and boundary frame analysis
-
-### 3. Progressive Web Application
-
-Created seamless customer experience:
-
-- **Vue.js frontend**: Responsive, mobile-first design
-- **Django backend**: RESTful API for real-time image processing
-- **PWA capabilities**: Offline support, push notifications
-- **Real-time validation**: Instant feedback on image quality
-
-## Key Results
-
-- **72% boost in accuracy** compared to previous methods
-- **63% faster processing** time
-- **29% increase in revenue** through fraud prevention
-- **Improved customer experience** with faster, user-friendly billing process
-
-## Technical Highlights
-
-```python
-# Example: Moiré pattern detection using FFT
-def detect_moire_pattern(image):
-    # Convert to grayscale and apply FFT
-    gray = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
-    f_transform = np.fft.fft2(gray)
-    f_shift = np.fft.fftshift(f_transform)
-
-    # Analyze frequency spectrum for periodic patterns
-    magnitude_spectrum = np.abs(f_shift)
-
-    # Detect anomalous peaks indicating screen capture
-    return analyze_frequency_peaks(magnitude_spectrum)
-```
+I designed a **4-layer MLP** with 15, 32, and 16 neurons in the hidden layers and optimized the configuration by exploring various activation functions and error metrics. This tailored approach allowed the model to adapt effectively to the dynamic nature of healthcare data.
 
 ## Impact
 
-- **Revenue Protection**: Mitigated losses from fraudulent billing
-- **Digital Transformation**: Pioneered AI adoption in utility services
-- **Customer Trust**: Enhanced billing transparency and accuracy
-- **Operational Efficiency**: Reduced manual intervention by 80%
+The model outperformed traditional machine learning approaches, achieving:
 
-## Skills Demonstrated
+- **Accuracy**: **90.79%**
+- **Precision**: **91%**
+- **Recall**: **88%**
+- **F1-Score**: **90%**
 
-AI & Machine Learning | Image Processing (OpenCV) | Full-Stack Development | PWA | Process Automation
-20:["$","$L3",null,{"fillWidth":true,"gap":"40","horizontal":"center","marginTop":"40","children":[["$","div",null,{"className":"display-flex position-relative neutral-background-strong flex-row min-width-0 fill-width ","style":{"maxWidth":"var(--static-space-40)","minHeight":"var(--static-space-1)","height":"var(--static-space-1)"}}],["$","h2",null,{"className":"font-heading font-strong font-xl neutral-on-background-strong mb-24","style":{"textWrap":"balance"},"children":"Recent posts"}],["$","$L27",null,{"s":{"columns":1},"columns":"2","fillWidth":true,"marginBottom":"40","gap":"16","children":[["$","$L28","adani-electricity-billing-system",{"post":{"metadata":{"title":"AI-Powered Utility Billing: Detecting Tampered Meter Readings","subtitle":"","publishedAt":"2022-06-01","summary":"Developed an AI system achieving 91% accuracy in identifying tampered electricity meter images using frequency-based decomposition and moiré pattern analysis.","image":"","images":["/images/projects/project-01/cover.jpg"],"tag":[],"team":[{"name":"Rushikesh Gholap","role":"Lead Data Scientist","avatar":"/images/avatar.jpg"}],"link":""},"slug":"adani-electricity-billing-system","content":"$29"},"thumbnail":true,"direction":"column"}],"$L2a"]}]]}]
-21:["$","$L2b",null,{}]
-22:["$","$L3",null,{"maxWidth":12,"paddingLeft":"40","fitHeight":true,"position":"sticky","top":"80","gap":"16","m":{"hide":true},"children":[["$","$L2",null,{"gap":"12","paddingLeft":"2","vertical":"center","onBackground":"neutral-medium","textVariant":"label-default-s","children":[["$","$L2c",null,{"name":"document","size":"xs"}],"On this page"]}],["$","$L2d",null,{"fitHeight":true}]]}]
-23:["$","script","script-0",{"src":"/_next/static/chunks/2caa9e5cd124434c.js","async":true}]
-24:["$","$L2e",null,{"children":["$","$2f",null,{"name":"Next.MetadataOutlet","children":"$@30"}]}]
-31:Tdea,
-## Project Overview
+This high level of accuracy sets a new benchmark for predictive modeling in diabetes detection, supporting more reliable diagnoses and personalized healthcare strategies.
 
-**Client**: PDB Bank  
-**Role**: Data Scientist and ML Ops  
-**Tech Stack**: AWS EC2, Django, Python, Aadhaar API, PAN API, CIBIL, Equifax, Machine Learning
+## Key Skills
 
-Revolutionized the loan approval process by building an end-to-end automated system that evaluates creditworthiness in real-time.
+Deep Learning, Multi-Layer Perceptron (MLP), Xavier Initialization, Adam Optimization, Data Analysis, Precision-Recall Evaluation.
+1b:T6b9,
+## Associated with
 
-## The Problem
+**Drexel University College of Computing & Informatics**
 
-Traditional loan processing was a bottleneck:
+## Overview
 
-- **Weeks-long approval times** frustrating customers
-- **Manual data entry** prone to human error
-- **Limited risk assessment** missing alternative data signals
-- **No flexibility** in lending criteria adjustments
+Developed an advanced ML system for early diabetes detection, utilizing multiple classifiers for optimal performance, including Decision Trees, Random Forest, K-Nearest Neighbors (KNN), Logistic Regression, and Naive Bayes.
 
-## Solution Architecture
+## Methodology
 
-### 1. Comprehensive Data Pipeline
-
-Designed system processing **105+ parameters**:
-
-- **KYC Verification**: Real-time Aadhaar and PAN validation
-- **Credit Scoring**: CIBIL and Equifax integration
-- **Alternative Data**: Income proxies, utility payments, transaction history
-- **Fraud Checks**: Cross-verification across multiple data sources
-
-### 2. Dynamic ML Scoring Model
-
-Built intelligent creditworthiness engine:
-
-- **Feature Engineering**: Extracted predictive signals from sparse data -**Alternative Scoring**: Evaluated unscored customers using proxy variables
-- **Risk Segmentation**: Classified applicants into risk buckets
-- **Explainability**: Provided transparent reasoning for decisions
-
-### 3. Real-Time Admin Panel
-
-Enabled business agility:
-
-- **Dynamic Criteria**: Adjust lending parameters without code deploy
-- **A/B Testing**: Experiment with different scoring rules
-- **Monitoring Dashboard**: Track approval rates, defaults, portfolio health
-- **Audit Trail**: Complete logging for compliance
-
-## Technical Implementation
-
-```python
-# Example: Dynamic scoring with alternative data
-class LoanScoringEngine:
-    def __init__(self, criteria_config):
-        self.criteria = criteria_config
-        self.models = self.load_ensemble_models()
-
-    def evaluate_applicant(self, applicant_data):
-        # Traditional credit score (if available)
-        credit_score = self.get_bureau_score(applicant_data)
-
-        # Alternative data scoring for thin-file customers
-        if credit_score is None:
-            alt_score = self.calculate_alternative_score(
-                utility_payments=applicant_data['utilities'],
-                income_proxies=applicant_data['income_signals'],
-                behavioral_data=applicant_data['transactions']
-            )
-            return self.apply_criteria(alt_score, 'alternative')
-
-        return self.apply_criteria(credit_score, 'traditional')
-```
+- **Model Selection**: Evaluated multiple classifiers and achieved an 82.26% accuracy rate with the Random Forest classifier, the top-performing model.
+- **Data Balancing**: Balanced a dataset of 20,000+ rows using SMOTE for oversampling the minority class and random under-sampling for the majority class, ensuring fair model evaluation.
+- **Preprocessing**: Preprocessed data by cleaning and normalizing datasets, applying advanced sampling techniques, and preparing it for robust analysis.
+- **Evaluation**: Evaluated models comprehensively using metrics like precision (83.47%), recall (80.45%), F1-score (82.26%), ROC-AUC, and precision-recall curves.
 
 ## Key Achievements
 
-- **10-minute approval time** (from weeks)
-- **89% improvement in operational efficiency**
-- **4.3/5 customer satisfaction rating**
-- **Minimized manual intervention** and human error
-- **Scalable architecture** on AWS EC2
+- **Superior Performance**: Demonstrated superior model performance with Random Forest, leveraging its ensemble learning capabilities.
+- **Enhanced Accuracy**: Enhanced classification accuracy through data balancing techniques, improving sensitivity and specificity.
+- **Healthcare Impact**: Contributed to early diabetes detection, providing a framework for scalable healthcare applications.
 
-## API Integration Highlights
+## Future Directions
 
-### Third-Party Services Integrated:
+- Incorporate temporal analysis to adapt to evolving healthcare trends.
+- Explore advanced ensemble methods for further accuracy improvements.
 
-1. **Aadhaar eKYC**: Instant identity verification
-2. **PAN Validation**: Tax ID verification
-3. **CIBIL**: Credit bureau scores
-4. **Equifax**: Additional credit data
-5. **Bank Statement Analysis**: Income verification
+## Key Skills
 
-## Business Impact
-
-- **Customer Delight**: Minutes instead of weeks
-- **Risk Management**: More accurate assessment with alternative data
-- **Operational Cost**: Reduced processing overhead by 70%
-- **Scalability**: Handle 10x volume without additional staff
-
-## Skills Demonstrated
-
-Data Pipeline Design | API Integration | Machine Learning | Python | Django | AWS | Automation | Risk Analysis
-2a:["$","$L28","pdb-bank-loan-system",{"post":{"metadata":{"title":"Transforming Loan Approvals: From Weeks to 10 Minutes","subtitle":"","publishedAt":"2021-09-01","summary":"Built a comprehensive ML-powered loan onboarding system processing 105+ parameters, reducing approval time from weeks to 10 minutes while integrating KYC and credit scoring APIs.","image":"","images":["/images/projects/project-02/cover.jpg"],"tag":[],"team":[{"name":"Rushikesh Gholap","role":"Data Scientist & ML Ops","avatar":"/images/avatar.jpg"}],"link":""},"slug":"pdb-bank-loan-system","content":"$31"},"thumbnail":true,"direction":"column"}]
-30:null
+Machine Learning, Data Preprocessing, Classifier Evaluation, Ensemble Techniques, Healthcare Analytics.
+10:["$","$L3",null,{"fillWidth":true,"gap":"40","horizontal":"center","marginTop":"40","children":[["$","div",null,{"className":"display-flex position-relative neutral-background-strong flex-row min-width-0 fill-width ","style":{"maxWidth":"var(--static-space-40)","minHeight":"var(--static-space-1)","height":"var(--static-space-1)"}}],["$","h2",null,{"className":"font-heading font-strong font-xl neutral-on-background-strong mb-24","style":{"textWrap":"balance"},"children":"Recent posts"}],["$","$L18",null,{"s":{"columns":1},"columns":"2","fillWidth":true,"gap":"16","children":[["$","$L19","revolutionizing-diabetes-forecasting",{"post":{"metadata":{"title":"Revolutionizing Diabetes Forecasting","subtitle":"","publishedAt":"2024-04-15","summary":"Developed an advanced deep learning model (MLP) for diabetes risk prediction, achieving 90.79% accuracy.","image":"","images":[],"tag":"Healthcare AI","team":[],"link":""},"slug":"revolutionizing-diabetes-forecasting","content":"$1a"},"thumbnail":true,"direction":"column"}],["$","$L19","boosting-diabetes-prediction",{"post":{"metadata":{"title":"Boosting Diabetes Prediction Accuracy with Machine Learning Ensembles","subtitle":"","publishedAt":"2024-03-01","summary":"Developed an advanced ML system for early diabetes detection, achieving 82.26% accuracy with Random Forest.","image":"","images":[],"tag":"Healthcare AI","team":[],"link":""},"slug":"boosting-diabetes-prediction","content":"$1b"},"thumbnail":true,"direction":"column"}]]}]]}]
+11:["$","$L1c",null,{}]
+12:["$","$L3",null,{"maxWidth":12,"paddingLeft":"40","fitHeight":true,"position":"sticky","top":"80","gap":"16","m":{"hide":true},"children":["$","$L1d",null,{"fitHeight":true}]}]
+13:["$","script","script-0",{"src":"/_next/static/chunks/2caa9e5cd124434c.js","async":true}]
+14:["$","$L1e",null,{"children":["$","$1f",null,{"name":"Next.MetadataOutlet","children":"$@20"}]}]
+20:null

@@ -1,0 +1,17 @@
+# GitHub Pages Jekyll Configuration
+# This ensures Next.js generated files are not processed by Jekyll
+
+# Disable Jekyll completely
+exclude:
+  - node_modules
+  - .git
+  - .gitignore
+  - Gemfile
+  - Gemfile.lock
+
+# Include files that start with underscore (Next.js _next folder)
+include:
+  - _next
+
+# Output directory
+destination: _site

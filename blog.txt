@@ -1,11 +1,5 @@
 1:"$Sreact.fragment"
-3:I[339756,["/_next/static/chunks/d96012bcfc98706a.js","/_next/static/chunks/d80b3790a119a285.js"],"default"]
-4:I[837457,["/_next/static/chunks/d96012bcfc98706a.js","/_next/static/chunks/d80b3790a119a285.js"],"default"]
-5:I[273323,["/_next/static/chunks/5123f4de65787cb9.js","/_next/static/chunks/781378973197997f.js","/_next/static/chunks/8b17704a1cf39ac2.js","/_next/static/chunks/d6bf78623dfb8349.js","/_next/static/chunks/772a47cf3943df8f.js","/_next/static/chunks/dcd823ab7c8835f6.js","/_next/static/chunks/77c1917bfce7ffb0.js"],"Column"]
-6:I[479520,["/_next/static/chunks/5123f4de65787cb9.js","/_next/static/chunks/781378973197997f.js","/_next/static/chunks/8b17704a1cf39ac2.js","/_next/static/chunks/d6bf78623dfb8349.js","/_next/static/chunks/772a47cf3943df8f.js","/_next/static/chunks/dcd823ab7c8835f6.js","/_next/static/chunks/77c1917bfce7ffb0.js"],""]
-7:I[696470,["/_next/static/chunks/5123f4de65787cb9.js","/_next/static/chunks/781378973197997f.js","/_next/static/chunks/8b17704a1cf39ac2.js","/_next/static/chunks/d6bf78623dfb8349.js","/_next/static/chunks/772a47cf3943df8f.js","/_next/static/chunks/dcd823ab7c8835f6.js","/_next/static/chunks/77c1917bfce7ffb0.js"],"ClientGrid"]
-8:I[814360,["/_next/static/chunks/5123f4de65787cb9.js","/_next/static/chunks/781378973197997f.js","/_next/static/chunks/8b17704a1cf39ac2.js","/_next/static/chunks/d6bf78623dfb8349.js","/_next/static/chunks/772a47cf3943df8f.js","/_next/static/chunks/dcd823ab7c8835f6.js","/_next/static/chunks/77c1917bfce7ffb0.js"],"default"]
-11:I[168027,[],"default"]
+7:I[168027,[],"default"]
 :HL["/_next/static/chunks/93ac2d54f71ec8d4.css","style"]
 :HL["/_next/static/chunks/d20e0f0702cef329.css","style"]
 :HL["/_next/static/chunks/ad785f71b2b5bef4.css","style"]
@@ -14,133 +8,7 @@
 :HL["/_next/static/chunks/0fd484e750d87763.css","style"]
 :HL["/_next/static/media/797e433ab948586e-s.p.dbea232f.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/caa3a2e1cccd8315-s.p.853070df.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-9:T520,
-## Objective
-
-To develop an advanced deep learning model for predicting diabetes risk, enhancing early detection and personalized healthcare interventions.
-
-## The Solution
-
-I implemented a **Multi-Layer Perceptron (MLP)** architecture with **Xavier Initialization** and **Adam optimization** to ensure stable gradient flow and adaptive learning rates. The model was trained on a dataset of **20,000+ health records**, analyzing critical features such as Age, BMI, Blood Pressure, and Cholesterol Levels.
-
-I designed a **4-layer MLP** with 15, 32, and 16 neurons in the hidden layers and optimized the configuration by exploring various activation functions and error metrics. This tailored approach allowed the model to adapt effectively to the dynamic nature of healthcare data.
-
-## Impact
-
-The model outperformed traditional machine learning approaches, achieving:
-
-- **Accuracy**: **90.79%**
-- **Precision**: **91%**
-- **Recall**: **88%**
-- **F1-Score**: **90%**
-
-This high level of accuracy sets a new benchmark for predictive modeling in diabetes detection, supporting more reliable diagnoses and personalized healthcare strategies.
-
-## Key Skills
-
-Deep Learning, Multi-Layer Perceptron (MLP), Xavier Initialization, Adam Optimization, Data Analysis, Precision-Recall Evaluation.
-0:{"P":null,"b":"mxItToBRyjBcnvUOIpoqW","c":["","blog"],"q":"","i":false,"f":[[["",{"children":["blog",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/93ac2d54f71ec8d4.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/chunks/d20e0f0702cef329.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","2",{"rel":"stylesheet","href":"/_next/static/chunks/ad785f71b2b5bef4.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","3",{"rel":"stylesheet","href":"/_next/static/chunks/eef662fdc50843a7.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","4",{"rel":"stylesheet","href":"/_next/static/chunks/b3a7f4834154c9dc.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","5",{"rel":"stylesheet","href":"/_next/static/chunks/0fd484e750d87763.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/5123f4de65787cb9.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/781378973197997f.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/_next/static/chunks/8b17704a1cf39ac2.js","async":true,"nonce":"$undefined"}],["$","script","script-3",{"src":"/_next/static/chunks/d6bf78623dfb8349.js","async":true,"nonce":"$undefined"}],["$","script","script-4",{"src":"/_next/static/chunks/772a47cf3943df8f.js","async":true,"nonce":"$undefined"}],["$","script","script-5",{"src":"/_next/static/chunks/dcd823ab7c8835f6.js","async":true,"nonce":"$undefined"}]],"$L2"]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[["$","$L5",null,{"maxWidth":"m","paddingTop":"24","children":[["$","$L6",null,{"id":"schema-blogPosting-/blog","type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"url\":\"https://rushikeshgholap.com/blog\",\"sameAs\":[],\"headline\":\"Work\",\"description\":\"Read about projects, challenges, and solutions in data science and ML.\",\"image\":\"https://rushikeshgholap.com/api/og/generate?title=Work\",\"author\":{\"@type\":\"Person\",\"name\":\"Rushikesh Gholap\",\"url\":\"https://rushikeshgholap.com/blog\",\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://rushikeshgholap.com/images/avatar.jpg\"}}}"}}],["$","h1",null,{"className":"font-heading font-strong font-xl neutral-on-background-strong ml-24 mb-l","style":{"textAlign":"$undefined","textWrap":"balance"},"children":"Work"}],["$","$L5",null,{"fillWidth":true,"flex":1,"gap":"40","children":[["$","$L7",null,{"ref":"$undefined","cursor":"$undefined","xl":"$undefined","l":"$undefined","m":"$undefined","s":{"columns":1},"xs":"$undefined","style":"$undefined","hide":"$undefined","columns":"1","fillWidth":true,"gap":"16","children":[["$","$L8","revolutionizing-diabetes-forecasting",{"post":{"metadata":{"title":"Revolutionizing Diabetes Forecasting","subtitle":"","publishedAt":"2024-04-15","summary":"Developed an advanced deep learning model (MLP) for diabetes risk prediction, achieving 90.79% accuracy.","image":"","images":[],"tag":"Healthcare AI","team":[],"link":""},"slug":"revolutionizing-diabetes-forecasting","content":"$9"},"thumbnail":true,"direction":"$undefined"}]]}],"$La","$Lb","$Lc","$Ld"]}]]}],["$Le"],"$Lf"]}],{},null,false,false]},null,false,false]},null,false,false],"$L10",false]],"m":"$undefined","G":["$11",[]],"S":true}
-14:I[303847,["/_next/static/chunks/5123f4de65787cb9.js","/_next/static/chunks/781378973197997f.js","/_next/static/chunks/8b17704a1cf39ac2.js","/_next/static/chunks/d6bf78623dfb8349.js","/_next/static/chunks/772a47cf3943df8f.js","/_next/static/chunks/dcd823ab7c8835f6.js","/_next/static/chunks/77c1917bfce7ffb0.js"],"Mailchimp"]
-1c:I[897367,["/_next/static/chunks/d96012bcfc98706a.js","/_next/static/chunks/d80b3790a119a285.js"],"OutletBoundary"]
-1d:"$Sreact.suspense"
-1f:I[897367,["/_next/static/chunks/d96012bcfc98706a.js","/_next/static/chunks/d80b3790a119a285.js"],"ViewportBoundary"]
-21:I[897367,["/_next/static/chunks/d96012bcfc98706a.js","/_next/static/chunks/d80b3790a119a285.js"],"MetadataBoundary"]
-24:I[530824,["/_next/static/chunks/5123f4de65787cb9.js","/_next/static/chunks/781378973197997f.js","/_next/static/chunks/8b17704a1cf39ac2.js","/_next/static/chunks/d6bf78623dfb8349.js","/_next/static/chunks/772a47cf3943df8f.js","/_next/static/chunks/dcd823ab7c8835f6.js","/_next/static/chunks/77c1917bfce7ffb0.js"],"Providers"]
-25:I[621971,["/_next/static/chunks/5123f4de65787cb9.js","/_next/static/chunks/781378973197997f.js","/_next/static/chunks/8b17704a1cf39ac2.js","/_next/static/chunks/d6bf78623dfb8349.js","/_next/static/chunks/772a47cf3943df8f.js","/_next/static/chunks/dcd823ab7c8835f6.js","/_next/static/chunks/77c1917bfce7ffb0.js"],"RevealFx"]
-26:I[394412,["/_next/static/chunks/5123f4de65787cb9.js","/_next/static/chunks/781378973197997f.js","/_next/static/chunks/8b17704a1cf39ac2.js","/_next/static/chunks/d6bf78623dfb8349.js","/_next/static/chunks/772a47cf3943df8f.js","/_next/static/chunks/dcd823ab7c8835f6.js","/_next/static/chunks/77c1917bfce7ffb0.js"],"Background"]
-27:I[521247,["/_next/static/chunks/5123f4de65787cb9.js","/_next/static/chunks/781378973197997f.js","/_next/static/chunks/8b17704a1cf39ac2.js","/_next/static/chunks/d6bf78623dfb8349.js","/_next/static/chunks/772a47cf3943df8f.js","/_next/static/chunks/dcd823ab7c8835f6.js","/_next/static/chunks/77c1917bfce7ffb0.js"],"ClientFlex"]
-28:I[402971,["/_next/static/chunks/5123f4de65787cb9.js","/_next/static/chunks/781378973197997f.js","/_next/static/chunks/8b17704a1cf39ac2.js","/_next/static/chunks/d6bf78623dfb8349.js","/_next/static/chunks/772a47cf3943df8f.js","/_next/static/chunks/dcd823ab7c8835f6.js","/_next/static/chunks/77c1917bfce7ffb0.js"],"Header"]
-12:T6b9,
-## Associated with
-
-**Drexel University College of Computing & Informatics**
-
-## Overview
-
-Developed an advanced ML system for early diabetes detection, utilizing multiple classifiers for optimal performance, including Decision Trees, Random Forest, K-Nearest Neighbors (KNN), Logistic Regression, and Naive Bayes.
-
-## Methodology
-
-- **Model Selection**: Evaluated multiple classifiers and achieved an 82.26% accuracy rate with the Random Forest classifier, the top-performing model.
-- **Data Balancing**: Balanced a dataset of 20,000+ rows using SMOTE for oversampling the minority class and random under-sampling for the majority class, ensuring fair model evaluation.
-- **Preprocessing**: Preprocessed data by cleaning and normalizing datasets, applying advanced sampling techniques, and preparing it for robust analysis.
-- **Evaluation**: Evaluated models comprehensively using metrics like precision (83.47%), recall (80.45%), F1-score (82.26%), ROC-AUC, and precision-recall curves.
-
-## Key Achievements
-
-- **Superior Performance**: Demonstrated superior model performance with Random Forest, leveraging its ensemble learning capabilities.
-- **Enhanced Accuracy**: Enhanced classification accuracy through data balancing techniques, improving sensitivity and specificity.
-- **Healthcare Impact**: Contributed to early diabetes detection, providing a framework for scalable healthcare applications.
-
-## Future Directions
-
-- Incorporate temporal analysis to adapt to evolving healthcare trends.
-- Explore advanced ensemble methods for further accuracy improvements.
-
-## Key Skills
-
-Machine Learning, Data Preprocessing, Classifier Evaluation, Ensemble Techniques, Healthcare Analytics.
-13:T740,
-## Role
-
-**Lead and Data Scientist**
-
-## Technologies
-
-OpenCV, Django, Vue.js, PWA (Progressive Web Applications)
-
-## The Challenge
-
-Adani Electricity needed a robust solution to combat meter tampering and streamline their billing operations. The existing manual validation process was time-consuming and prone to human error, leading to revenue leakage and customer dissatisfaction.
-
-## The Solution
-
-I led the development of an AI-powered **Progressive Web Application (PWA)** using **Vue.js** and **Django**, designed to automate the meter reading and validation process. The core of the system is a sophisticated **computer vision model** leveraging **OpenCV**, which I engineered to detect **moiré patterns**—a subtle visual artifact often present in recaptured or tampered images.
-
-To ensure the highest level of accuracy, I implemented a **frequency-based decomposition pipeline** that analyzes the image structure for inconsistencies. The model was rigorously tested and validated using over **50 distinct checks**, including object detection and boundary frame analysis, achieving a **91% accuracy rate** in identifying fraudulent submissions.
-
-## Impact
-
-The deployment of this system marked a significant step in Adani's digital transformation. By automating the validation process, we **streamlined billing operations**, significantly reducing the need for manual intervention and accelerating the billing cycle. This directly improved **revenue integrity** by mitigating losses from fraudulent activities. Furthermore, the user-friendly PWA provided a seamless experience for customers, boosting overall satisfaction and trust in the utility service.
-
-## Key Skills
-
-AI & Machine Learning, Image Processing (OpenCV), Full-Stack Development (Django & Vue.js), PWA Development, Problem-Solving, Process Automation.
-a:["$","$L7",null,{"ref":"$undefined","cursor":"$undefined","xl":"$undefined","l":"$undefined","m":"$undefined","s":{"columns":1},"xs":"$undefined","style":"$undefined","hide":"$undefined","columns":"2","fillWidth":true,"gap":"16","children":[["$","$L8","boosting-diabetes-prediction",{"post":{"metadata":{"title":"Boosting Diabetes Prediction Accuracy with Machine Learning Ensembles","subtitle":"","publishedAt":"2024-03-01","summary":"Developed an advanced ML system for early diabetes detection, achieving 82.26% accuracy with Random Forest.","image":"","images":[],"tag":"Healthcare AI","team":[],"link":""},"slug":"boosting-diabetes-prediction","content":"$12"},"thumbnail":true,"direction":"column"}],["$","$L8","adani-electricity-billing",{"post":{"metadata":{"title":"Adani Electricity Billing System Enhancement","subtitle":"","publishedAt":"2023-08-01","summary":"Developed AI-powered models achieving 91% accuracy in identifying tampered meter reading images.","image":"","images":[],"tag":"Computer Vision","team":[],"link":""},"slug":"adani-electricity-billing","content":"$13"},"thumbnail":true,"direction":"column"}]]}]
-b:["$","$L14",null,{"marginBottom":"l"}]
-c:["$","h2",null,{"className":"font-heading font-strong font-xl neutral-on-background-strong ml-l","style":{"textAlign":"$undefined","textWrap":"balance"},"children":"Earlier posts"}]
-15:Tb04,
-## Role
-
-**Senior Data Scientist / Data Science Team Leader**
-
-## Overview
-
-Evolved from an early data scientist to leading the data science division at Markytics. Spearheaded the company’s technological transformation, scaling operations, and fostering a culture of innovation and excellence. Delivered cutting-edge data-driven solutions and established best practices that significantly enhanced the company’s growth and efficiency.
-
-## Key Responsibilities
-
-- **Technical Innovation**: Pioneered the adoption of AWS cloud services, Django for backend development, and Python for advanced data processing. Established CI/CD pipelines, implemented Docker containerization, and utilized Git, enhancing development efficiency by 40% and reducing deployment time by 50%.
-- **Data Science Leadership**: Expanded the data science team from a small group to over 50 professionals. Designed training programs and performance metrics, improving team productivity by 30% and reducing turnover by 20%.
-- **Strategic Project Management**: Directed multiple high-budget projects (over $1M), ensuring alignment with client objectives. Acted as a client liaison, translating complex business requirements into actionable technical strategies, increasing client satisfaction by 25%.
-- **Operational Efficiency**: Automated processes with AWS Lambda, SageMaker, and PostgreSQL, achieving a 35% improvement in efficiency. Scaled systems to handle triple the initial capacity using NVIDIA A10 GPUs, reducing human intervention in routine operations.
-- **Research and Development**: Explored diverse tech stacks (AWS, Google Cloud, Azure) to deliver optimal project solutions. Integrated Power BI to enhance data analytics and provide actionable insights for strategic initiatives.
-
-## Achievements
-
-- **Organizational Impact**: Transitioned Markytics to a data-driven operational model, increasing efficiency by 50% and delivering significant cost savings.
-- **Cultural Development**: Cultivated a collaborative and innovative work culture with real-time problem-solving practices, setting new standards for startup excellence.
-- **Innovation in Data Science**: Built a proprietary ASR model with Whisper and a custom dialog flow system, reducing response times by 60% and setting a benchmark for AI in customer interactions.
-- **Operational Excellence**: Enabled the system to handle five times the initial call volume through automation, improving scalability and reducing dependency on manual interventions.
-
-## Key Skills
-
-Proficiency in Python, Django, AWS, and modern DevOps practices. Leadership in building and managing high-performance teams. Strategic project management with a focus on innovation and efficiency. Expertise in machine learning, natural language processing, and cloud computing.
-d:["$","$L7",null,{"ref":"$undefined","cursor":"$undefined","xl":"$undefined","l":"$undefined","m":"$undefined","s":{"columns":1},"xs":"$undefined","style":"$undefined","hide":"$undefined","columns":"2","fillWidth":true,"gap":"16","children":[["$","$L8","markytics-team-leader",{"post":{"metadata":{"title":"Markytics – From Data Scientist to Data Science Team Leader","subtitle":"","publishedAt":"2023-08-01","summary":"Evolved from an early data scientist to leading the data science division, spearheading technological transformation and scaling operations.","image":"","images":[],"tag":"Leadership","team":[],"link":""},"slug":"markytics-team-leader","content":"$15"},"thumbnail":false,"direction":"$undefined"}],"$L16","$L17","$L18","$L19","$L1a","$L1b"]}]
-e:["$","script","script-0",{"src":"/_next/static/chunks/77c1917bfce7ffb0.js","async":true,"nonce":"$undefined"}]
-f:["$","$L1c",null,{"children":["$","$1d",null,{"name":"Next.MetadataOutlet","children":"$@1e"}]}]
-10:["$","$1","h",{"children":[null,["$","$L1f",null,{"children":"$@20"}],["$","div",null,{"hidden":true,"children":["$","$L21",null,{"children":["$","$1d",null,{"name":"Next.Metadata","children":"$@22"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
-23:T76b,
+2:T76b,
               (function() {
                 try {
                   const root = document.documentElement;
@@ -180,12 +48,146 @@ f:["$","$L1c",null,{"children":["$","$1d",null,{"name":"Next.MetadataOutlet","ch
                   document.documentElement.setAttribute('data-theme', 'dark');
                 }
               })();
-            2:["$","html",null,{"ref":"$undefined","className":"display-flex position-relative min-width-0 fill-width geist_d82bf9db-module__Ifi_Dq__variable geist_250f8b91-module__B2UTAq__variable geist_4edd9b70-module__GC7HaW__variable geist_mono_90672d7c-module__qcY_rq__variable ","style":{"maxWidth":"$undefined","minWidth":"$undefined","minHeight":"$undefined","maxHeight":"$undefined","width":"$undefined","height":"$undefined","aspectRatio":"$undefined","textAlign":"$undefined","cursor":"$undefined"},"suppressHydrationWarning":true,"lang":"en","data-scroll-behavior":"smooth","children":[["$","head",null,{"children":["$","script",null,{"id":"theme-init","dangerouslySetInnerHTML":{"__html":"$23"}}]}],["$","$L24",null,{"children":["$","$L5",null,{"as":"body","suppressHydrationWarning":true,"background":"page","fillWidth":true,"style":{"minHeight":"100vh"},"margin":"0","padding":"0","horizontal":"center","children":[["$","$L25",null,{"fill":true,"position":"absolute","children":["$","$L26",null,{"mask":{"x":50,"y":0,"radius":100,"cursor":false},"gradient":{"display":false,"opacity":100,"x":50,"y":60,"width":100,"height":50,"tilt":0,"colorStart":"accent-background-strong","colorEnd":"page-background"},"dots":{"display":true,"opacity":40,"size":"2","color":"brand-background-strong"},"grid":{"display":false,"opacity":100,"color":"neutral-alpha-medium","width":"0.25rem","height":"0.25rem"},"lines":{"display":false,"opacity":100,"size":"16","thickness":1,"angle":45,"color":"neutral-alpha-weak"}}]}],["$","$L27",null,{"ref":"$undefined","cursor":"$undefined","xl":"$undefined","l":"$undefined","m":"$undefined","s":{"hide":true},"xs":"$undefined","style":"$undefined","hide":"$undefined","fillWidth":true,"minHeight":"16"}],["$","$L28",null,{}],["$","div",null,{"ref":"$undefined","className":"display-flex position-relative p-l flex-1 justify-center min-width-0 fill-width ","style":{"maxWidth":"$undefined","minWidth":"$undefined","minHeight":"$undefined","maxHeight":"$undefined","width":"$undefined","height":"$undefined","aspectRatio":"$undefined","textAlign":"$undefined","cursor":"$undefined"},"children":["$","div",null,{"ref":"$undefined","className":"display-flex position-relative justify-center min-width-0 fill-width ","style":{"maxWidth":"$undefined","minWidth":"$undefined","minHeight":"var(--static-space-0)","maxHeight":"$undefined","width":"$undefined","height":"$undefined","aspectRatio":"$undefined","textAlign":"$undefined","cursor":"$undefined"},"children":"$L29"}]}],"$L2a"]}]}]]}]
-31:I[520032,["/_next/static/chunks/5123f4de65787cb9.js","/_next/static/chunks/781378973197997f.js","/_next/static/chunks/8b17704a1cf39ac2.js","/_next/static/chunks/d6bf78623dfb8349.js","/_next/static/chunks/772a47cf3943df8f.js","/_next/static/chunks/dcd823ab7c8835f6.js","/_next/static/chunks/77c1917bfce7ffb0.js"],"default"]
-32:I[1166,["/_next/static/chunks/5123f4de65787cb9.js","/_next/static/chunks/781378973197997f.js","/_next/static/chunks/8b17704a1cf39ac2.js","/_next/static/chunks/d6bf78623dfb8349.js","/_next/static/chunks/772a47cf3943df8f.js","/_next/static/chunks/dcd823ab7c8835f6.js","/_next/static/chunks/77c1917bfce7ffb0.js"],"RouteGuard"]
-33:I[778454,["/_next/static/chunks/5123f4de65787cb9.js","/_next/static/chunks/781378973197997f.js","/_next/static/chunks/8b17704a1cf39ac2.js","/_next/static/chunks/d6bf78623dfb8349.js","/_next/static/chunks/772a47cf3943df8f.js","/_next/static/chunks/dcd823ab7c8835f6.js","/_next/static/chunks/77c1917bfce7ffb0.js"],"Row"]
-34:I[298229,["/_next/static/chunks/5123f4de65787cb9.js","/_next/static/chunks/781378973197997f.js","/_next/static/chunks/8b17704a1cf39ac2.js","/_next/static/chunks/d6bf78623dfb8349.js","/_next/static/chunks/772a47cf3943df8f.js","/_next/static/chunks/dcd823ab7c8835f6.js","/_next/static/chunks/77c1917bfce7ffb0.js"],"IconButton"]
-2b:T73a,
+            0:{"P":null,"b":"B-Mhs4zSrQq6ZjbhJvUor","c":["","blog"],"q":"","i":false,"f":[[["",{"children":["blog",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/93ac2d54f71ec8d4.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/chunks/d20e0f0702cef329.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","2",{"rel":"stylesheet","href":"/_next/static/chunks/ad785f71b2b5bef4.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","3",{"rel":"stylesheet","href":"/_next/static/chunks/eef662fdc50843a7.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","4",{"rel":"stylesheet","href":"/_next/static/chunks/b3a7f4834154c9dc.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","5",{"rel":"stylesheet","href":"/_next/static/chunks/0fd484e750d87763.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/5123f4de65787cb9.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/781378973197997f.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/_next/static/chunks/8b17704a1cf39ac2.js","async":true,"nonce":"$undefined"}],["$","script","script-3",{"src":"/_next/static/chunks/d6bf78623dfb8349.js","async":true,"nonce":"$undefined"}],["$","script","script-4",{"src":"/_next/static/chunks/772a47cf3943df8f.js","async":true,"nonce":"$undefined"}],["$","script","script-5",{"src":"/_next/static/chunks/dcd823ab7c8835f6.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"ref":"$undefined","className":"display-flex position-relative min-width-0 fill-width geist_d82bf9db-module__Ifi_Dq__variable geist_250f8b91-module__B2UTAq__variable geist_4edd9b70-module__GC7HaW__variable geist_mono_90672d7c-module__qcY_rq__variable ","style":{"maxWidth":"$undefined","minWidth":"$undefined","minHeight":"$undefined","maxHeight":"$undefined","width":"$undefined","height":"$undefined","aspectRatio":"$undefined","textAlign":"$undefined","cursor":"$undefined"},"suppressHydrationWarning":true,"lang":"en","data-scroll-behavior":"smooth","children":[["$","head",null,{"children":["$","script",null,{"id":"theme-init","dangerouslySetInnerHTML":{"__html":"$2"}}]}],"$L3"]}]]}],{"children":["$L4",{"children":["$L5",{},null,false,false]},null,false,false]},null,false,false],"$L6",false]],"m":"$undefined","G":["$7",[]],"S":true}
+8:I[530824,["/_next/static/chunks/5123f4de65787cb9.js","/_next/static/chunks/781378973197997f.js","/_next/static/chunks/8b17704a1cf39ac2.js","/_next/static/chunks/d6bf78623dfb8349.js","/_next/static/chunks/772a47cf3943df8f.js","/_next/static/chunks/dcd823ab7c8835f6.js","/_next/static/chunks/77c1917bfce7ffb0.js"],"Providers"]
+9:I[273323,["/_next/static/chunks/5123f4de65787cb9.js","/_next/static/chunks/781378973197997f.js","/_next/static/chunks/8b17704a1cf39ac2.js","/_next/static/chunks/d6bf78623dfb8349.js","/_next/static/chunks/772a47cf3943df8f.js","/_next/static/chunks/dcd823ab7c8835f6.js","/_next/static/chunks/77c1917bfce7ffb0.js"],"Column"]
+a:I[621971,["/_next/static/chunks/5123f4de65787cb9.js","/_next/static/chunks/781378973197997f.js","/_next/static/chunks/8b17704a1cf39ac2.js","/_next/static/chunks/d6bf78623dfb8349.js","/_next/static/chunks/772a47cf3943df8f.js","/_next/static/chunks/dcd823ab7c8835f6.js","/_next/static/chunks/77c1917bfce7ffb0.js"],"RevealFx"]
+b:I[394412,["/_next/static/chunks/5123f4de65787cb9.js","/_next/static/chunks/781378973197997f.js","/_next/static/chunks/8b17704a1cf39ac2.js","/_next/static/chunks/d6bf78623dfb8349.js","/_next/static/chunks/772a47cf3943df8f.js","/_next/static/chunks/dcd823ab7c8835f6.js","/_next/static/chunks/77c1917bfce7ffb0.js"],"Background"]
+c:I[521247,["/_next/static/chunks/5123f4de65787cb9.js","/_next/static/chunks/781378973197997f.js","/_next/static/chunks/8b17704a1cf39ac2.js","/_next/static/chunks/d6bf78623dfb8349.js","/_next/static/chunks/772a47cf3943df8f.js","/_next/static/chunks/dcd823ab7c8835f6.js","/_next/static/chunks/77c1917bfce7ffb0.js"],"ClientFlex"]
+d:I[402971,["/_next/static/chunks/5123f4de65787cb9.js","/_next/static/chunks/781378973197997f.js","/_next/static/chunks/8b17704a1cf39ac2.js","/_next/static/chunks/d6bf78623dfb8349.js","/_next/static/chunks/772a47cf3943df8f.js","/_next/static/chunks/dcd823ab7c8835f6.js","/_next/static/chunks/77c1917bfce7ffb0.js"],"Header"]
+e:I[520032,["/_next/static/chunks/5123f4de65787cb9.js","/_next/static/chunks/781378973197997f.js","/_next/static/chunks/8b17704a1cf39ac2.js","/_next/static/chunks/d6bf78623dfb8349.js","/_next/static/chunks/772a47cf3943df8f.js","/_next/static/chunks/dcd823ab7c8835f6.js","/_next/static/chunks/77c1917bfce7ffb0.js"],"default"]
+f:I[1166,["/_next/static/chunks/5123f4de65787cb9.js","/_next/static/chunks/781378973197997f.js","/_next/static/chunks/8b17704a1cf39ac2.js","/_next/static/chunks/d6bf78623dfb8349.js","/_next/static/chunks/772a47cf3943df8f.js","/_next/static/chunks/dcd823ab7c8835f6.js","/_next/static/chunks/77c1917bfce7ffb0.js"],"RouteGuard"]
+10:I[339756,["/_next/static/chunks/d96012bcfc98706a.js","/_next/static/chunks/d80b3790a119a285.js"],"default"]
+11:I[837457,["/_next/static/chunks/d96012bcfc98706a.js","/_next/static/chunks/d80b3790a119a285.js"],"default"]
+12:I[778454,["/_next/static/chunks/5123f4de65787cb9.js","/_next/static/chunks/781378973197997f.js","/_next/static/chunks/8b17704a1cf39ac2.js","/_next/static/chunks/d6bf78623dfb8349.js","/_next/static/chunks/772a47cf3943df8f.js","/_next/static/chunks/dcd823ab7c8835f6.js","/_next/static/chunks/77c1917bfce7ffb0.js"],"Row"]
+13:I[298229,["/_next/static/chunks/5123f4de65787cb9.js","/_next/static/chunks/781378973197997f.js","/_next/static/chunks/8b17704a1cf39ac2.js","/_next/static/chunks/d6bf78623dfb8349.js","/_next/static/chunks/772a47cf3943df8f.js","/_next/static/chunks/dcd823ab7c8835f6.js","/_next/static/chunks/77c1917bfce7ffb0.js"],"IconButton"]
+14:I[479520,["/_next/static/chunks/5123f4de65787cb9.js","/_next/static/chunks/781378973197997f.js","/_next/static/chunks/8b17704a1cf39ac2.js","/_next/static/chunks/d6bf78623dfb8349.js","/_next/static/chunks/772a47cf3943df8f.js","/_next/static/chunks/dcd823ab7c8835f6.js","/_next/static/chunks/77c1917bfce7ffb0.js"],""]
+15:I[696470,["/_next/static/chunks/5123f4de65787cb9.js","/_next/static/chunks/781378973197997f.js","/_next/static/chunks/8b17704a1cf39ac2.js","/_next/static/chunks/d6bf78623dfb8349.js","/_next/static/chunks/772a47cf3943df8f.js","/_next/static/chunks/dcd823ab7c8835f6.js","/_next/static/chunks/77c1917bfce7ffb0.js"],"ClientGrid"]
+16:I[814360,["/_next/static/chunks/5123f4de65787cb9.js","/_next/static/chunks/781378973197997f.js","/_next/static/chunks/8b17704a1cf39ac2.js","/_next/static/chunks/d6bf78623dfb8349.js","/_next/static/chunks/772a47cf3943df8f.js","/_next/static/chunks/dcd823ab7c8835f6.js","/_next/static/chunks/77c1917bfce7ffb0.js"],"default"]
+1f:I[897367,["/_next/static/chunks/d96012bcfc98706a.js","/_next/static/chunks/d80b3790a119a285.js"],"ViewportBoundary"]
+21:I[897367,["/_next/static/chunks/d96012bcfc98706a.js","/_next/static/chunks/d80b3790a119a285.js"],"MetadataBoundary"]
+22:"$Sreact.suspense"
+3:["$","$L8",null,{"children":["$","$L9",null,{"as":"body","suppressHydrationWarning":true,"background":"page","fillWidth":true,"style":{"minHeight":"100vh"},"margin":"0","padding":"0","horizontal":"center","children":[["$","$La",null,{"fill":true,"position":"absolute","children":["$","$Lb",null,{"mask":{"x":50,"y":0,"radius":100,"cursor":false},"gradient":{"display":false,"opacity":100,"x":50,"y":60,"width":100,"height":50,"tilt":0,"colorStart":"accent-background-strong","colorEnd":"page-background"},"dots":{"display":true,"opacity":40,"size":"2","color":"brand-background-strong"},"grid":{"display":false,"opacity":100,"color":"neutral-alpha-medium","width":"0.25rem","height":"0.25rem"},"lines":{"display":false,"opacity":100,"size":"16","thickness":1,"angle":45,"color":"neutral-alpha-weak"}}]}],["$","$Lc",null,{"ref":"$undefined","cursor":"$undefined","xl":"$undefined","l":"$undefined","m":"$undefined","s":{"hide":true},"xs":"$undefined","style":"$undefined","hide":"$undefined","fillWidth":true,"minHeight":"16"}],["$","$Ld",null,{}],["$","div",null,{"ref":"$undefined","className":"display-flex position-relative p-l flex-1 justify-center min-width-0 fill-width ","style":{"maxWidth":"$undefined","minWidth":"$undefined","minHeight":"$undefined","maxHeight":"$undefined","width":"$undefined","height":"$undefined","aspectRatio":"$undefined","textAlign":"$undefined","cursor":"$undefined"},"children":["$","div",null,{"ref":"$undefined","className":"display-flex position-relative justify-center min-width-0 fill-width ","style":{"maxWidth":"$undefined","minWidth":"$undefined","minHeight":"var(--static-space-0)","maxHeight":"$undefined","width":"$undefined","height":"$undefined","aspectRatio":"$undefined","textAlign":"$undefined","cursor":"$undefined"},"children":["$","$Le",null,{"children":["$","$Lf",null,{"children":["$","$L10",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L11",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","$L9",null,{"as":"section","fill":true,"center":true,"paddingBottom":"160","children":[["$","span",null,{"className":"font-display font-strong font-xl mb-s","style":{"textAlign":"$undefined","textWrap":"$undefined"},"children":"404"}],["$","h1",null,{"className":"font-display font-default font-xs neutral-on-background-strong mb-l","style":{"textAlign":"$undefined","textWrap":"balance"},"children":"Page Not Found"}],["$","span",null,{"className":"neutral-on-background-weak","style":{"textAlign":"$undefined","textWrap":"$undefined"},"children":"The page you are looking for does not exist."}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]}]}],["$","$L12",null,{"as":"footer","fillWidth":true,"padding":"8","horizontal":"center","s":{"direction":"column"},"children":[["$","$L12",null,{"className":"Footer-module-scss-module__DkSkqG__mobile","maxWidth":"m","paddingY":"8","paddingX":"16","gap":"16","horizontal":"between","vertical":"center","s":{"direction":"column","horizontal":"center","align":"center"},"children":[["$","span",null,{"className":"font-body font-default font-s neutral-on-background-strong","style":{"textAlign":"$undefined","textWrap":"$undefined"},"children":[["$","span",null,{"className":"neutral-on-background-weak","style":{"textAlign":"$undefined","textWrap":"$undefined"},"children":["© ",2025," /"]}],["$","span",null,{"className":"px-4","style":{"textAlign":"$undefined","textWrap":"$undefined"},"children":"Rushikesh Gholap"}]]}],["$","$L12",null,{"gap":"16","children":[["$","$L13","LinkedIn",{"href":"https://www.linkedin.com/in/rushikeshgholap","icon":"linkedin","tooltip":"LinkedIn","size":"s","variant":"ghost"}],["$","$L13","GitHub",{"href":"https://github.com/RushikeshGholap","icon":"github","tooltip":"GitHub","size":"s","variant":"ghost"}],["$","$L13","Email",{"href":"mailto:rushikeshgholap13@gmail.com","icon":"email","tooltip":"Email","size":"s","variant":"ghost"}],["$","$L13","Website",{"href":"https://rushikeshgholap.com","icon":"globe","tooltip":"Website","size":"s","variant":"ghost"}]]}]]}],["$","$L12",null,{"height":"80","hide":true,"s":{"hide":false}}]]}]]}]}]
+4:["$","$1","c",{"children":[null,["$","$L10",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L11",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+17:T520,
+## Objective
+
+To develop an advanced deep learning model for predicting diabetes risk, enhancing early detection and personalized healthcare interventions.
+
+## The Solution
+
+I implemented a **Multi-Layer Perceptron (MLP)** architecture with **Xavier Initialization** and **Adam optimization** to ensure stable gradient flow and adaptive learning rates. The model was trained on a dataset of **20,000+ health records**, analyzing critical features such as Age, BMI, Blood Pressure, and Cholesterol Levels.
+
+I designed a **4-layer MLP** with 15, 32, and 16 neurons in the hidden layers and optimized the configuration by exploring various activation functions and error metrics. This tailored approach allowed the model to adapt effectively to the dynamic nature of healthcare data.
+
+## Impact
+
+The model outperformed traditional machine learning approaches, achieving:
+
+- **Accuracy**: **90.79%**
+- **Precision**: **91%**
+- **Recall**: **88%**
+- **F1-Score**: **90%**
+
+This high level of accuracy sets a new benchmark for predictive modeling in diabetes detection, supporting more reliable diagnoses and personalized healthcare strategies.
+
+## Key Skills
+
+Deep Learning, Multi-Layer Perceptron (MLP), Xavier Initialization, Adam Optimization, Data Analysis, Precision-Recall Evaluation.
+18:T6b9,
+## Associated with
+
+**Drexel University College of Computing & Informatics**
+
+## Overview
+
+Developed an advanced ML system for early diabetes detection, utilizing multiple classifiers for optimal performance, including Decision Trees, Random Forest, K-Nearest Neighbors (KNN), Logistic Regression, and Naive Bayes.
+
+## Methodology
+
+- **Model Selection**: Evaluated multiple classifiers and achieved an 82.26% accuracy rate with the Random Forest classifier, the top-performing model.
+- **Data Balancing**: Balanced a dataset of 20,000+ rows using SMOTE for oversampling the minority class and random under-sampling for the majority class, ensuring fair model evaluation.
+- **Preprocessing**: Preprocessed data by cleaning and normalizing datasets, applying advanced sampling techniques, and preparing it for robust analysis.
+- **Evaluation**: Evaluated models comprehensively using metrics like precision (83.47%), recall (80.45%), F1-score (82.26%), ROC-AUC, and precision-recall curves.
+
+## Key Achievements
+
+- **Superior Performance**: Demonstrated superior model performance with Random Forest, leveraging its ensemble learning capabilities.
+- **Enhanced Accuracy**: Enhanced classification accuracy through data balancing techniques, improving sensitivity and specificity.
+- **Healthcare Impact**: Contributed to early diabetes detection, providing a framework for scalable healthcare applications.
+
+## Future Directions
+
+- Incorporate temporal analysis to adapt to evolving healthcare trends.
+- Explore advanced ensemble methods for further accuracy improvements.
+
+## Key Skills
+
+Machine Learning, Data Preprocessing, Classifier Evaluation, Ensemble Techniques, Healthcare Analytics.
+5:["$","$1","c",{"children":[["$","$L9",null,{"maxWidth":"m","paddingTop":"24","children":[["$","$L14",null,{"id":"schema-blogPosting-/blog","type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"url\":\"https://rushikeshgholap.com/blog\",\"sameAs\":[],\"headline\":\"Work\",\"description\":\"Read about projects, challenges, and solutions in data science and ML.\",\"image\":\"https://rushikeshgholap.com/images/og/home.jpg\",\"author\":{\"@type\":\"Person\",\"name\":\"Rushikesh Gholap\",\"url\":\"https://rushikeshgholap.com/blog\",\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://rushikeshgholap.com/images/avatar.jpg\"}}}"}}],["$","h1",null,{"className":"font-heading font-strong font-xl neutral-on-background-strong ml-24 mb-l","style":{"textAlign":"$undefined","textWrap":"balance"},"children":"Work"}],["$","$L9",null,{"fillWidth":true,"flex":1,"gap":"40","children":[["$","$L15",null,{"ref":"$undefined","cursor":"$undefined","xl":"$undefined","l":"$undefined","m":"$undefined","s":{"columns":1},"xs":"$undefined","style":"$undefined","hide":"$undefined","columns":"1","fillWidth":true,"gap":"16","children":[["$","$L16","revolutionizing-diabetes-forecasting",{"post":{"metadata":{"title":"Revolutionizing Diabetes Forecasting","subtitle":"","publishedAt":"2024-04-15","summary":"Developed an advanced deep learning model (MLP) for diabetes risk prediction, achieving 90.79% accuracy.","image":"","images":[],"tag":"Healthcare AI","team":[],"link":""},"slug":"revolutionizing-diabetes-forecasting","content":"$17"},"thumbnail":true,"direction":"$undefined"}]]}],["$","$L15",null,{"ref":"$undefined","cursor":"$undefined","xl":"$undefined","l":"$undefined","m":"$undefined","s":{"columns":1},"xs":"$undefined","style":"$undefined","hide":"$undefined","columns":"2","fillWidth":true,"gap":"16","children":[["$","$L16","boosting-diabetes-prediction",{"post":{"metadata":{"title":"Boosting Diabetes Prediction Accuracy with Machine Learning Ensembles","subtitle":"","publishedAt":"2024-03-01","summary":"Developed an advanced ML system for early diabetes detection, achieving 82.26% accuracy with Random Forest.","image":"","images":[],"tag":"Healthcare AI","team":[],"link":""},"slug":"boosting-diabetes-prediction","content":"$18"},"thumbnail":true,"direction":"column"}],"$L19"]}],"$L1a","$L1b","$L1c"]}]]}],["$L1d"],"$L1e"]}]
+6:["$","$1","h",{"children":[null,["$","$L1f",null,{"children":"$@20"}],["$","div",null,{"hidden":true,"children":["$","$L21",null,{"children":["$","$22",null,{"name":"Next.Metadata","children":"$@23"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+25:I[303847,["/_next/static/chunks/5123f4de65787cb9.js","/_next/static/chunks/781378973197997f.js","/_next/static/chunks/8b17704a1cf39ac2.js","/_next/static/chunks/d6bf78623dfb8349.js","/_next/static/chunks/772a47cf3943df8f.js","/_next/static/chunks/dcd823ab7c8835f6.js","/_next/static/chunks/77c1917bfce7ffb0.js"],"Mailchimp"]
+2d:I[897367,["/_next/static/chunks/d96012bcfc98706a.js","/_next/static/chunks/d80b3790a119a285.js"],"OutletBoundary"]
+24:T740,
+## Role
+
+**Lead and Data Scientist**
+
+## Technologies
+
+OpenCV, Django, Vue.js, PWA (Progressive Web Applications)
+
+## The Challenge
+
+Adani Electricity needed a robust solution to combat meter tampering and streamline their billing operations. The existing manual validation process was time-consuming and prone to human error, leading to revenue leakage and customer dissatisfaction.
+
+## The Solution
+
+I led the development of an AI-powered **Progressive Web Application (PWA)** using **Vue.js** and **Django**, designed to automate the meter reading and validation process. The core of the system is a sophisticated **computer vision model** leveraging **OpenCV**, which I engineered to detect **moiré patterns**—a subtle visual artifact often present in recaptured or tampered images.
+
+To ensure the highest level of accuracy, I implemented a **frequency-based decomposition pipeline** that analyzes the image structure for inconsistencies. The model was rigorously tested and validated using over **50 distinct checks**, including object detection and boundary frame analysis, achieving a **91% accuracy rate** in identifying fraudulent submissions.
+
+## Impact
+
+The deployment of this system marked a significant step in Adani's digital transformation. By automating the validation process, we **streamlined billing operations**, significantly reducing the need for manual intervention and accelerating the billing cycle. This directly improved **revenue integrity** by mitigating losses from fraudulent activities. Furthermore, the user-friendly PWA provided a seamless experience for customers, boosting overall satisfaction and trust in the utility service.
+
+## Key Skills
+
+AI & Machine Learning, Image Processing (OpenCV), Full-Stack Development (Django & Vue.js), PWA Development, Problem-Solving, Process Automation.
+19:["$","$L16","adani-electricity-billing",{"post":{"metadata":{"title":"Adani Electricity Billing System Enhancement","subtitle":"","publishedAt":"2023-08-01","summary":"Developed AI-powered models achieving 91% accuracy in identifying tampered meter reading images.","image":"","images":[],"tag":"Computer Vision","team":[],"link":""},"slug":"adani-electricity-billing","content":"$24"},"thumbnail":true,"direction":"column"}]
+1a:["$","$L25",null,{"marginBottom":"l"}]
+1b:["$","h2",null,{"className":"font-heading font-strong font-xl neutral-on-background-strong ml-l","style":{"textAlign":"$undefined","textWrap":"balance"},"children":"Earlier posts"}]
+26:Tb04,
+## Role
+
+**Senior Data Scientist / Data Science Team Leader**
+
+## Overview
+
+Evolved from an early data scientist to leading the data science division at Markytics. Spearheaded the company’s technological transformation, scaling operations, and fostering a culture of innovation and excellence. Delivered cutting-edge data-driven solutions and established best practices that significantly enhanced the company’s growth and efficiency.
+
+## Key Responsibilities
+
+- **Technical Innovation**: Pioneered the adoption of AWS cloud services, Django for backend development, and Python for advanced data processing. Established CI/CD pipelines, implemented Docker containerization, and utilized Git, enhancing development efficiency by 40% and reducing deployment time by 50%.
+- **Data Science Leadership**: Expanded the data science team from a small group to over 50 professionals. Designed training programs and performance metrics, improving team productivity by 30% and reducing turnover by 20%.
+- **Strategic Project Management**: Directed multiple high-budget projects (over $1M), ensuring alignment with client objectives. Acted as a client liaison, translating complex business requirements into actionable technical strategies, increasing client satisfaction by 25%.
+- **Operational Efficiency**: Automated processes with AWS Lambda, SageMaker, and PostgreSQL, achieving a 35% improvement in efficiency. Scaled systems to handle triple the initial capacity using NVIDIA A10 GPUs, reducing human intervention in routine operations.
+- **Research and Development**: Explored diverse tech stacks (AWS, Google Cloud, Azure) to deliver optimal project solutions. Integrated Power BI to enhance data analytics and provide actionable insights for strategic initiatives.
+
+## Achievements
+
+- **Organizational Impact**: Transitioned Markytics to a data-driven operational model, increasing efficiency by 50% and delivering significant cost savings.
+- **Cultural Development**: Cultivated a collaborative and innovative work culture with real-time problem-solving practices, setting new standards for startup excellence.
+- **Innovation in Data Science**: Built a proprietary ASR model with Whisper and a custom dialog flow system, reducing response times by 60% and setting a benchmark for AI in customer interactions.
+- **Operational Excellence**: Enabled the system to handle five times the initial call volume through automation, improving scalability and reducing dependency on manual interventions.
+
+## Key Skills
+
+Proficiency in Python, Django, AWS, and modern DevOps practices. Leadership in building and managing high-performance teams. Strategic project management with a focus on innovation and efficiency. Expertise in machine learning, natural language processing, and cloud computing.
+1c:["$","$L15",null,{"ref":"$undefined","cursor":"$undefined","xl":"$undefined","l":"$undefined","m":"$undefined","s":{"columns":1},"xs":"$undefined","style":"$undefined","hide":"$undefined","columns":"2","fillWidth":true,"gap":"16","children":[["$","$L16","markytics-team-leader",{"post":{"metadata":{"title":"Markytics – From Data Scientist to Data Science Team Leader","subtitle":"","publishedAt":"2023-08-01","summary":"Evolved from an early data scientist to leading the data science division, spearheading technological transformation and scaling operations.","image":"","images":[],"tag":"Leadership","team":[],"link":""},"slug":"markytics-team-leader","content":"$26"},"thumbnail":false,"direction":"$undefined"}],"$L27","$L28","$L29","$L2a","$L2b","$L2c"]}]
+1d:["$","script","script-0",{"src":"/_next/static/chunks/77c1917bfce7ffb0.js","async":true,"nonce":"$undefined"}]
+1e:["$","$L2d",null,{"children":["$","$22",null,{"name":"Next.MetadataOutlet","children":"$@2e"}]}]
+2f:T73a,
 ## Role
 
 **Data Scientist and ML Ops**
@@ -211,8 +213,8 @@ The implementation of this system revolutionized the bank's onboarding process. 
 ## Key Skills
 
 Data Pipeline Design, API Integration, Machine Learning, Python, Django, AWS, Automation, Risk Analysis.
-16:["$","$L8","pdb-bank-loan-onboarding",{"post":{"metadata":{"title":"PDB Bank Loan Onboarding System","subtitle":"","publishedAt":"2023-06-15","summary":"Designed a data pipeline processing 105+ parameters to assess loan eligibility, reducing approval time to 10 minutes.","image":"","images":[],"tag":"FinTech","team":[],"link":""},"slug":"pdb-bank-loan-onboarding","content":"$2b"},"thumbnail":false,"direction":"$undefined"}]
-2c:T689,
+27:["$","$L16","pdb-bank-loan-onboarding",{"post":{"metadata":{"title":"PDB Bank Loan Onboarding System","subtitle":"","publishedAt":"2023-06-15","summary":"Designed a data pipeline processing 105+ parameters to assess loan eligibility, reducing approval time to 10 minutes.","image":"","images":[],"tag":"FinTech","team":[],"link":""},"slug":"pdb-bank-loan-onboarding","content":"$2f"},"thumbnail":false,"direction":"$undefined"}]
+30:T689,
 ## Role
 
 **Data Scientist**
@@ -240,8 +242,8 @@ To optimize collection strategies, I built a **borrower risk assessment model** 
 ## Key Skills
 
 NLP (Google’s MURIL), API Integration, Risk Modeling, Django, AWS, Automation, Data Analytics, Multilingual Communication.
-17:["$","$L8","pay-me-loan-management",{"post":{"metadata":{"title":"Pay Me Loan Management Portal","subtitle":"","publishedAt":"2023-04-20","summary":"Automated communication system using Twilio and WhatsApp API, integrating Google’s MURIL NLP model.","image":"","images":[],"tag":"NLP & Automation","team":[],"link":""},"slug":"pay-me-loan-management","content":"$2c"},"thumbnail":false,"direction":"$undefined"}]
-2d:T73f,
+28:["$","$L16","pay-me-loan-management",{"post":{"metadata":{"title":"Pay Me Loan Management Portal","subtitle":"","publishedAt":"2023-04-20","summary":"Automated communication system using Twilio and WhatsApp API, integrating Google’s MURIL NLP model.","image":"","images":[],"tag":"NLP & Automation","team":[],"link":""},"slug":"pay-me-loan-management","content":"$30"},"thumbnail":false,"direction":"$undefined"}]
+31:T73f,
 ## Role
 
 **Project Leader / System Architect**
@@ -269,8 +271,8 @@ For visualization, I developed a dynamic investment dashboard using **Django** a
 ## Key Skills
 
 ETL Pipeline Design, Cloud Computing (AWS Lambda, EC2), Dashboard Development (Django, Superset), Forex API Integration, Financial Modeling.
-18:["$","$L8","almavest-investment-monitoring",{"post":{"metadata":{"title":"Almavest Investment Monitoring","subtitle":"","publishedAt":"2023-02-10","summary":"Real-time investment dashboard with Django and Superset, offering insights for over 200 lenders.","image":"","images":[],"tag":"Data Engineering","team":[],"link":""},"slug":"almavest-investment-monitoring","content":"$2d"},"thumbnail":false,"direction":"$undefined"}]
-2e:T748,
+29:["$","$L16","almavest-investment-monitoring",{"post":{"metadata":{"title":"Almavest Investment Monitoring","subtitle":"","publishedAt":"2023-02-10","summary":"Real-time investment dashboard with Django and Superset, offering insights for over 200 lenders.","image":"","images":[],"tag":"Data Engineering","team":[],"link":""},"slug":"almavest-investment-monitoring","content":"$31"},"thumbnail":false,"direction":"$undefined"}]
+32:T748,
 ## Role
 
 **Data Engineer**
@@ -299,8 +301,8 @@ Engineered a dynamic web scraping solution using Selenium to extract targeted co
 ## Key Skills
 
 Web Scraping (Selenium), Cloud Computing (AWS EC2, S3, CloudWatch), API Integration (Twilio), Python, Data Automation, User Engagement.
-19:["$","$L8","advertising-campaign-management",{"post":{"metadata":{"title":"Advertising Campaign Management System for Markytics","subtitle":"","publishedAt":"2021-05-01","summary":"Engineered a dynamic web scraping solution using Selenium and AWS to automate content curation and delivery.","image":"","images":[],"tag":"Data Engineering","team":[],"link":""},"slug":"advertising-campaign-management","content":"$2e"},"thumbnail":false,"direction":"$undefined"}]
-2f:T6d1,
+2a:["$","$L16","advertising-campaign-management",{"post":{"metadata":{"title":"Advertising Campaign Management System for Markytics","subtitle":"","publishedAt":"2021-05-01","summary":"Engineered a dynamic web scraping solution using Selenium and AWS to automate content curation and delivery.","image":"","images":[],"tag":"Data Engineering","team":[],"link":""},"slug":"advertising-campaign-management","content":"$32"},"thumbnail":false,"direction":"$undefined"}]
+33:T6d1,
 ## Role
 
 **Data Engineer and Business Analyst**
@@ -329,8 +331,8 @@ Collaborated with stakeholders to assess reporting needs, focusing on sales, inv
 ## Key Skills
 
 ETL Pipeline Development, Python, Django, PostgreSQL, Pandas, NumPy, API Design, Data Processing, Automation.
-1a:["$","$L8","sales-inventory-report",{"post":{"metadata":{"title":"Sales and Inventory Report Generation ETL Tool for Cipla","subtitle":"","publishedAt":"2020-08-01","summary":"Designed and implemented an ETL pipeline using Python and Django, automating report generation and reducing processing time.","image":"","images":[],"tag":"Data Engineering","team":[],"link":""},"slug":"sales-inventory-report","content":"$2f"},"thumbnail":false,"direction":"$undefined"}]
-30:T1003,
+2b:["$","$L16","sales-inventory-report",{"post":{"metadata":{"title":"Sales and Inventory Report Generation ETL Tool for Cipla","subtitle":"","publishedAt":"2020-08-01","summary":"Designed and implemented an ETL pipeline using Python and Django, automating report generation and reducing processing time.","image":"","images":[],"tag":"Data Engineering","team":[],"link":""},"slug":"sales-inventory-report","content":"$33"},"thumbnail":false,"direction":"$undefined"}]
+34:T1003,
 ## Project Overview
 
 **Client**: ZUKODO (Banking Promotional Platform)  
@@ -457,10 +459,8 @@ Response:
 ## Skills Demonstrated
 
 API Development (Django REST) | Machine Learning (CatBoost) | Redis Caching | Azure Cloud Deployment | Data Processing (MySQL) | Scalable Architecture | Project Management
-1b:["$","$L8","zukodo-coupon-generation",{"post":{"metadata":{"title":"Personalized Banking Promotions with ML-Powered Coupon Generation","subtitle":"","publishedAt":"2020-05-01","summary":"Led development of a scalable coupon generation system using CatBoost ML models and Redis caching, delivering personalized offers and improving redemption rates through predictive analytics.","image":"","images":["/images/projects/project-01/cover.jpg"],"tag":[],"team":[{"name":"Rushikesh Gholap","role":"Project Lead & ML Engineer","avatar":"/images/avatar.jpg"}],"link":""},"slug":"zukodo-coupon-generation","content":"$30"},"thumbnail":false,"direction":"$undefined"}]
-29:["$","$L31",null,{"children":["$","$L32",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","$L5",null,{"as":"section","fill":true,"center":true,"paddingBottom":"160","children":[["$","span",null,{"className":"font-display font-strong font-xl mb-s","style":{"textAlign":"$undefined","textWrap":"$undefined"},"children":"404"}],["$","h1",null,{"className":"font-display font-default font-xs neutral-on-background-strong mb-l","style":{"textAlign":"$undefined","textWrap":"balance"},"children":"Page Not Found"}],["$","span",null,{"className":"neutral-on-background-weak","style":{"textAlign":"$undefined","textWrap":"$undefined"},"children":"The page you are looking for does not exist."}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]
-2a:["$","$L33",null,{"as":"footer","fillWidth":true,"padding":"8","horizontal":"center","s":{"direction":"column"},"children":[["$","$L33",null,{"className":"Footer-module-scss-module__DkSkqG__mobile","maxWidth":"m","paddingY":"8","paddingX":"16","gap":"16","horizontal":"between","vertical":"center","s":{"direction":"column","horizontal":"center","align":"center"},"children":[["$","span",null,{"className":"font-body font-default font-s neutral-on-background-strong","style":{"textAlign":"$undefined","textWrap":"$undefined"},"children":[["$","span",null,{"className":"neutral-on-background-weak","style":{"textAlign":"$undefined","textWrap":"$undefined"},"children":["© ",2025," /"]}],["$","span",null,{"className":"px-4","style":{"textAlign":"$undefined","textWrap":"$undefined"},"children":"Rushikesh Gholap"}]]}],["$","$L33",null,{"gap":"16","children":[["$","$L34","LinkedIn",{"href":"https://www.linkedin.com/in/rushikeshgholap","icon":"linkedin","tooltip":"LinkedIn","size":"s","variant":"ghost"}],["$","$L34","GitHub",{"href":"https://github.com/RushikeshGholap","icon":"github","tooltip":"GitHub","size":"s","variant":"ghost"}],["$","$L34","Email",{"href":"mailto:rushikeshgholap13@gmail.com","icon":"email","tooltip":"Email","size":"s","variant":"ghost"}],["$","$L34","Website",{"href":"https://rushikeshgholap.com","icon":"globe","tooltip":"Website","size":"s","variant":"ghost"}]]}]]}],["$","$L33",null,{"height":"80","hide":true,"s":{"hide":false}}]]}]
+2c:["$","$L16","zukodo-coupon-generation",{"post":{"metadata":{"title":"Personalized Banking Promotions with ML-Powered Coupon Generation","subtitle":"","publishedAt":"2020-05-01","summary":"Led development of a scalable coupon generation system using CatBoost ML models and Redis caching, delivering personalized offers and improving redemption rates through predictive analytics.","image":"","images":["/images/projects/project-01/cover.jpg"],"tag":[],"team":[{"name":"Rushikesh Gholap","role":"Project Lead & ML Engineer","avatar":"/images/avatar.jpg"}],"link":""},"slug":"zukodo-coupon-generation","content":"$34"},"thumbnail":false,"direction":"$undefined"}]
 20:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
 35:I[27201,["/_next/static/chunks/d96012bcfc98706a.js","/_next/static/chunks/d80b3790a119a285.js"],"IconMark"]
-22:[["$","title","0",{"children":"Work"}],["$","meta","1",{"name":"description","content":"Read about projects, challenges, and solutions in data science and ML."}],["$","meta","2",{"property":"og:title","content":"Work"}],["$","meta","3",{"property":"og:description","content":"Read about projects, challenges, and solutions in data science and ML."}],["$","meta","4",{"property":"og:url","content":"https://rushikeshgholap.com/blog"}],["$","meta","5",{"property":"og:image","content":"https://rushikeshgholap.com/api/og/generate?title=Work"}],["$","meta","6",{"property":"og:image:alt","content":"Work"}],["$","meta","7",{"property":"og:type","content":"website"}],["$","meta","8",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","9",{"name":"twitter:title","content":"Work"}],["$","meta","10",{"name":"twitter:description","content":"Read about projects, challenges, and solutions in data science and ML."}],["$","meta","11",{"name":"twitter:image","content":"https://rushikeshgholap.com/api/og/generate?title=Work"}],["$","link","12",{"rel":"icon","href":"/icon.jpg?icon.b28ddeeb.jpg","sizes":"4415x3311","type":"image/jpeg"}],["$","$L35","13",{}]]
-1e:null
+23:[["$","title","0",{"children":"Work"}],["$","meta","1",{"name":"description","content":"Read about projects, challenges, and solutions in data science and ML."}],["$","meta","2",{"property":"og:title","content":"Work"}],["$","meta","3",{"property":"og:description","content":"Read about projects, challenges, and solutions in data science and ML."}],["$","meta","4",{"property":"og:url","content":"https://rushikeshgholap.com/blog"}],["$","meta","5",{"property":"og:image","content":"https://rushikeshgholap.com/images/og/home.jpg"}],["$","meta","6",{"property":"og:image:alt","content":"Work"}],["$","meta","7",{"property":"og:type","content":"website"}],["$","meta","8",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","9",{"name":"twitter:title","content":"Work"}],["$","meta","10",{"name":"twitter:description","content":"Read about projects, challenges, and solutions in data science and ML."}],["$","meta","11",{"name":"twitter:image","content":"https://rushikeshgholap.com/images/og/home.jpg"}],["$","link","12",{"rel":"icon","href":"/icon.jpg?icon.b28ddeeb.jpg","sizes":"4415x3311","type":"image/jpeg"}],["$","$L35","13",{}]]
+2e:null

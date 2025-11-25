@@ -1,0 +1,7 @@
+# GitHub Pages doesn't use .htaccess, but keeping for reference
+# The issue is that GitHub Pages serves static files without query parameter support
+
+# For GitHub Pages with Next.js static export:
+# 1. All files must be pure HTML/CSS/JS (no query param routing)
+# 2. RSC .txt files are not compatible with GitHub Pages
+# 3. Solution: Disable RSC streaming via next.config.mjs
